@@ -1,0 +1,77 @@
+[
+        {
+            'url': 'https://play.google.com/store/apps/developer?id=Starsep',
+            'icon': 'android',
+            'title': 'Google Play',
+        },
+        {
+            'url': 'http://fb.com/Starsep',
+            'icon': 'fb',
+            'title': 'Facebook',
+        },
+        {
+            'url': 'https://plus.google.com/108497929507145891013/',
+            'icon': 'gplus',
+            'title': 'Google Plus',
+        },
+        {
+            'url': 'https://github.com/starsep',
+            'icon': 'github',
+            'title': 'Github',
+        },
+        {
+            'url': 'http://www.last.fm/user/Starsep',
+            'icon': 'lastfm',
+            'title': 'LastFM',
+        },
+        {
+            'url': 'http://stackoverflow.com/users/5307071/starsep',
+            'icon': 'so',
+            'title': 'StackOverflow',
+        },
+        {
+            'url': 'http://steamcommunity.com/id/starsep',
+            'icon': 'steam',
+            'title': 'Steam',
+        },
+        {
+            'url': 'https://pl.wikipedia.org/wiki/Wikipedysta:Starsep',
+            'icon': 'wiki',
+            'title': 'Wikipedia',
+        },
+        {
+            'url': 'https://account.xbox.com/Profile?gamerTag=Starsep',
+            'icon': 'xbox',
+            'title': 'Xbox',
+        },
+        {
+            'url': 'https://www.youtube.com/user/Starsep',
+            'icon': 'yt',
+            'title': 'YouTube',
+        },
+        {
+            'url': 'http://www.msc.com.pl/cezar/?p=21&pid_search=16053',
+            'icon': 'cezar',
+            'title': 'Cezar',
+        },
+        {
+            'url': 'http://pl.spoj.com/users/starsep/',
+            'icon': 'spoj',
+            'title': 'SPOJ',
+        },
+        {
+            'url': 'mailto:filipczaplicki@starsep.com',
+            'icon': 'mail',
+            'title': 'E-mail',
+        },
+        {
+            'url': 'http://forumbridge.pl/member.php/1306-Starsep',
+            'icon': 'forumb',
+            'title': 'ForumBridge',
+        },
+        {
+            'url': 'https://bitbucket.org/Starsep/',
+            'icon': 'bitbucket',
+            'title': 'Bitbucket',
+        }
+    ]
