@@ -6,7 +6,7 @@ title:               Starsep
 tagline:             Filip Czaplicki
 url:                 https://starsep.github.io
 paginate:            1
-baseurl:             ""
+baseurl:             "/"
 
 # Assets
 #
