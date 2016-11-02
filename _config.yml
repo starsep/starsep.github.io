@@ -4,9 +4,9 @@ permalink:           pretty
 # Setup
 title:               Starsep
 tagline:             Filip Czaplicki
-url:                 http://starsep.me
+url:                 https://starsep.github.io
 paginate:            1
-baseurl:             "/"
+baseurl:             ""
 
 # Assets
 #
