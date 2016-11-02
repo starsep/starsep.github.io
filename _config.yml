@@ -6,7 +6,7 @@ title:               Starsep
 tagline:             Filip Czaplicki
 url:                 http://starsep.me
 paginate:            1
-baseurl:             ""
+baseurl:             "/"
 
 # Assets
 #
