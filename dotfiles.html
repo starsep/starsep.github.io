@@ -1,0 +1,10 @@
+---
+layout: page 
+title: My dotfiles 
+---
+
+{% for dotfile in site.dotfiles %}
+	<div class="dotfile">
+		<h2><a href="{{ dotfile.url }}">{{ dotfile.title }}</a></h2>
+	</div>
+{% endfor %}

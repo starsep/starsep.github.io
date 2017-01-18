@@ -27,3 +27,7 @@ author:
 gems:
   - jekyll-paginate
   - jekyll-gist
+
+collections:
+    dotfiles:
+        output: true
