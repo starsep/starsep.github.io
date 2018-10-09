@@ -10,7 +10,9 @@
     </div>
 
     <nav class="sidebar-nav">
+      {% comment %}
       <a class="sidebar-nav-item{% if page.url == "/" %} active{% endif %}" href="{{ "/" | relative_url }}">Home</a>
+      {% endcomment %}
 
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with

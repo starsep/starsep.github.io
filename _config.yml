@@ -6,14 +6,14 @@ title:               Starsep
 tagline:             Filip Czaplicki
 url:                 https://starsep.com
 domain:              https://starsep.com
-paginate:            1
+#paginate:            1
 baseurl:             "/"
 
 # Custom vars
 
 # Gems
 plugins:
-  - jekyll-paginate
+#  - jekyll-paginate
   - jekyll-gist
 
 collections:
