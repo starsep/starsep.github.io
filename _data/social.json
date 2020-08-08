@@ -1,6 +1,6 @@
 [
         {
-            "url": "https://play.google.com/store/apps/developer?id=Starsep",
+            "url": "https://play.google.com/store/apps/developer?id=Filip+Czaplicki",
             "icon": "android",
             "title": "Google Play"
         },
@@ -8,11 +8,6 @@
             "url": "http://fb.com/Starsep",
             "icon": "fb",
             "title": "Facebook"
-        },
-        {
-            "url": "https://plus.google.com/108497929507145891013/",
-            "icon": "gplus",
-            "title": "Google Plus"
         },
         {
             "url": "https://github.com/starsep",
@@ -60,18 +55,8 @@
             "title": "SPOJ"
         },
         {
-            "url": "mailto:filipczaplicki@gmail.com",
-            "icon": "mail",
-            "title": "E-mail"
-        },
-        {
             "url": "http://forumbridge.pl/member.php/1306-Starsep",
             "icon": "forumb",
             "title": "ForumBridge"
-        },
-        {
-            "url": "https://bitbucket.org/Starsep/",
-            "icon": "bitbucket",
-            "title": "Bitbucket"
         }
     ]
