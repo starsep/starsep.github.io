@@ -1,0 +1,80 @@
+baseURL = "https://starsep.com"
+defaultContentLanguage = "en"
+languageCode = "en"
+title = "Filip Czaplicki"
+theme = "LoveIt"
+publishDir = "generated"
+
+# TODO: consider adding Polish
+
+[params]
+  # LoveIt theme version
+  version = "0.2.X"
+  gitRepo = "starsep/starsep.github.io"
+[params.search]
+  enable = true
+  type = "lunr" # lunr or algolia
+  [params.home]
+    rss = 10
+    [params.home.profile]
+      enable = true
+      avatarURL = "/img/avatar.jpg"
+      title = "Filip Czaplicki"
+      subtitle = "Android Developer"
+      typeit = true
+      social = true
+      disclaimer = ""
+    [params.home.posts]
+      enable = true
+      paginate = 6
+
+  # Social config about the author
+  [params.social]
+    GitHub = "starsep"
+    Linkedin = "starsep"
+    Facebook = "Starsep"
+    # Gitlab = "starsep"
+    # Youtubelegacy = "Starsep"
+    # Bitbucket = "starsep"
+    # Stackoverflow = "5307071"
+    Lastfm = "starsep"
+    Steam = "starsep"
+    Email = ""
+    RSS = true
+    Googleplay = "Filip+Czaplicki"
+    Googlemaps = "108497929507145891013"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    pre = ""
+    post = ""
+    name = "Posts"
+    url = "/posts/"
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 2
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 3
+
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
