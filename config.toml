@@ -2,7 +2,7 @@ baseURL = "https://starsep.com"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "Filip Czaplicki"
-theme = "LoveIt"
+theme = "CodeIT"
 publishDir = "generated"
 
 # TODO: consider adding Polish
