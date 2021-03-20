@@ -31,8 +31,8 @@ publishDir = "generated"
   # Social config about the author
   [params.social]
     GitHub = "starsep"
-    Linkedin = "starsep"
-    Facebook = "Starsep"
+    # Linkedin = "starsep"
+    # Facebook = "Starsep"
     # Gitlab = "starsep"
     # Youtubelegacy = "Starsep"
     # Bitbucket = "starsep"
@@ -43,6 +43,7 @@ publishDir = "generated"
     RSS = true
     Googleplay = "Filip+Czaplicki"
     Googlemaps = "108497929507145891013"
+    openstreetmap = "starsep"
 
 [menu]
   [[menu.main]]
