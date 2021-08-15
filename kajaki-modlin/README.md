@@ -1,4 +1,5 @@
 # Kajaki Modlin
+
 ## Kiedy?
 sobota, 21 sierpnia 2021, 10:45
 
@@ -6,12 +7,12 @@ sobota, 21 sierpnia 2021, 10:45
 Spotykamy się przy [wypożyczalni kajaków na plaży Modlin](https://www.openstreetmap.org/node/5409544744). Jest ona w pobliżu [stacji kolejowej Modlin](https://www.openstreetmap.org/node/6586706975).
 Trasa piesza ze stacji to około 10 minut, 1.1km.
 
-![trasa wypożyczalnia](mapa-zbiorka.png)
+[![trasa wypożyczalnia](mapa-zbiorka.png)](mapa-zbiorka.png)
 
 ## Dojazd pociągiem
 Większość uczestników prawdopodobnie wybierze pociąg jako środek transportu. Ja jadę o 9:15 z Warszawy Centralnej.
-![trasa pociąg](pociag.png)
-Link do pociągu: [https://koleo.pl/pociag/KM/97116-RL/21-08-2021]
+[![trasa pociąg](pociag.png)](pociag.png)
+Link do pociągu: [https://koleo.pl/pociag/KM/97116-RL/21-08-2021](https://koleo.pl/pociag/KM/97116-RL/21-08-2021)
 
 Pierwsza strefa biletowa kończy się na Warszawa Płudy, druga na Legionowo Przystanek.
 
@@ -26,14 +27,14 @@ Pierwsza strefa biletowa kończy się na Warszawa Płudy, druga na Legionowo Prz
 ## Wypożyczalnia kajaków
 Kajaki już mamy zarezerwowane w wypożyczalni:  
 Numer telefonu: +48500775999  
-Strona internetowa: [https://kajaki-dylewski.pl/]  
+Strona internetowa: [https://kajaki-dylewski.pl/](https://kajaki-dylewski.pl/)  
 Email: biuro@kajaki-dylewski.pl
 
 ## Trasa spływu
-Trasa to Śniadówko – Twierdza Modlin (18 km), płyniemy z prądem. Trasa została wybrana z uwzględnieniem początkujących. Ma być prosta, spokojna i czysta.
-![trasa spływu](trasa.png)  
-Trasa brouter: [http://brouter.de/brouter-web/#map=13/52.4800/20.7383/standard&lonlats=20.68276,52.52508;20.693975,52.438378&profile=river]  
-Trasa alltrails: [https://www.alltrails.com/explore/map/wkra-sniadowko-twierdza-modlin]
+Trasa to Śniadówko – Twierdza Modlin (18 km), płyniemy z prądem. Trasa została wybrana z uwzględnieniem początkujących. Ma być prosta, spokojna i czysta.
+[![trasa spływu](trasa.png)](trasa.png)  
+Trasa brouter: [http://brouter.de/brouter-web/#map=13/52.4800/20.7383/standard&lonlats=20.68276,52.52508;20.693975,52.438378&profile=river](http://brouter.de/brouter-web/#map=13/52.4800/20.7383/standard&lonlats=20.68276,52.52508;20.693975,52.438378&profile=river)  
+Trasa alltrails: [https://www.alltrails.com/explore/map/wkra-sniadowko-twierdza-modlin](https://www.alltrails.com/explore/map/wkra-sniadowko-twierdza-modlin)
 
 ## Cena
 110zł za kajak. Są dostępne kajaki jedno i dwuosobowe.
