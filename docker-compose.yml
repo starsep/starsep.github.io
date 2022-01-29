@@ -1,10 +1,11 @@
-hugo:
-  image: jojomi/hugo:latest
-  volumes: 
-    - .:/src
-  ports:
-    - 1313:1313
-  environment:
-    HUGO_THEME: CodeIT
-    HUGO_WATCH: 1
-  restart: always
+services:
+    hugo:
+      image: jojomi/hugo:latest
+      volumes:
+        - .:/src
+      ports:
+        - 1313:1313
+      environment:
+        HUGO_THEME: StarsepTheme
+        HUGO_WATCH: 1
+      restart: always

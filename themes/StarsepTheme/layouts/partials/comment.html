@@ -1,0 +1,23 @@
+{{- $comment := .Scratch.Get "comment" | default dict -}}
+{{- $commentConfig := dict -}}
+
+{{- if $comment.enable -}}
+    <div id="comments">
+        {{- /* Utterances Comment System */ -}}
+        {{- $utterances := $comment.utterances | default dict -}}
+        {{- if $utterances.enable -}}
+            <div id="utterances"></div>
+            {{- $commentConfig = dict "repo" $utterances.repo | dict "utterances" | merge $commentConfig -}}
+            {{- $commentConfig = $utterances.issueTerm | default "pathname" | dict "issueTerm" | dict "utterances" | merge $commentConfig -}}
+            {{- $commentConfig = dict "label" $utterances.label | dict "utterances" | merge $commentConfig -}}
+            {{- $commentConfig = $utterances.lightTheme | default "github-light" | dict "lightTheme" | dict "utterances" | merge $commentConfig -}}
+            {{- $commentConfig = $utterances.darkTheme | default "github-dark" | dict "darkTheme" | dict "utterances" | merge $commentConfig -}}
+            <noscript>
+                Please enable JavaScript to view the comments powered by <a href="https://utteranc.es/">Utterances</a>.
+            </noscript>
+        {{- end -}}
+
+    </div>
+{{- end -}}
+
+{{- dict "comment" $commentConfig | dict "config" | merge (.Scratch.Get "this") | .Scratch.Set "this" -}}

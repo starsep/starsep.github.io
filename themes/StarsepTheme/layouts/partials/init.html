@@ -1,0 +1,17 @@
+{{- $params := .Params | merge .Site.Params.page -}}
+
+{{- if eq hugo.Environment "production" -}}
+    {{- .Scratch.Set "comment" $params.comment -}}
+    {{- if eq .Params.comment true -}}
+        {{- .Scratch.Set "comment" .Site.Params.comment -}}
+    {{- else if eq .Params.comment false -}}
+        {{- .Scratch.Set "comment" dict -}}
+    {{- end -}}
+{{- else if eq .Site .Sites.First -}}
+    {{- warnf "\n\nCurrent environment is \"development\". The \"comment system\" will be disabled.\n" -}}
+{{- end -}}
+
+{{- .Scratch.Set "params" $params -}}
+{{- .Scratch.Set "this" dict -}}
+
+{{- partial "plugin/compatibility.html" . -}}

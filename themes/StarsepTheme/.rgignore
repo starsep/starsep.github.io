@@ -1,0 +1,3 @@
+*.min.*
+resources/_gen/*
+*.svg

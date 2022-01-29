@@ -1,0 +1,18 @@
+{
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/preset-env": "^7.16.0",
+    "babel-preset-minify": "^0.5.1",
+    "babelify": "^10.0.0",
+    "browserify": "^17.0.0",
+    "segmentit": "^2.0.3"
+  },
+  "scripts": {
+    "babel": "npx babel src/js --out-file assets/js/theme.min.js --source-maps",
+    "build": "npm run babel",
+    "build-lunr-segmentit": "browserify src/lib/lunr.segmentit.js -o assets/lib/lunr/lunr.segmentit.js -t babelify --presets @babel/preset-env --presets minify"
+  }
+}

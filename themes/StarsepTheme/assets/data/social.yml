@@ -1,0 +1,149 @@
+github:
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Class: fab fa-github fa-fw
+
+facebook:
+  Prefix: https://facebook.com/
+  Title: facebook
+  Icon:
+    Class: fab fa-facebook fa-fw
+
+gitlab:
+  Prefix: https://gitlab.com/
+  Title: GitLab
+  Icon:
+    Class: fab fa-gitlab fa-fw
+
+youtubelegacy:
+  Prefix: https://www.youtube.com/user/
+  Title: YouTube
+  Icon:
+    Class: fab fa-youtube fa-fw
+
+youtubechannel:
+  Prefix: https://www.youtube.com/channel/
+  Title: YouTube
+  Icon:
+    Class: fab fa-youtube fa-fw
+
+keybase:
+  Prefix: https://keybase.io/
+  Title: Keybase
+  Icon:
+    Class: fab fa-keybase fa-fw
+
+reddit:
+  Prefix: https://www.reddit.com/user/
+  Title: Reddit
+  Icon:
+    Class: fab fa-reddit fa-fw
+
+freecodecamp:
+  Prefix: https://freecodecamp.org/
+  Title: freeCodeCamp
+  Icon:
+    Class: fab fa-free-code-camp fa-fw
+
+bitbucket:
+  Prefix: https://bitbucket.org/
+  Title: Bitbucket
+  Icon:
+    Class: fab fa-bitbucket fa-fw
+
+stackoverflow:
+  Prefix: https://stackoverflow.com/users/
+  Title: Stack Overflow
+  Icon:
+    Class: fab fa-stack-overflow
+
+spotify:
+  Prefix: https://open.spotify.com/user/
+  Title: Spotify
+  Icon:
+    Class: fab fa-spotify fa-fw
+
+goodreads:
+  Prefix: https://www.goodreads.com/user/show/
+  Title: Goodreads
+  Icon:
+    Class: fab fa-goodreads fa-fw
+
+lastfm:
+  Prefix: https://www.last.fm/user/
+  Title: Last.fm
+  Icon:
+    Class: fab fa-lastfm fa-fw
+
+hackernews:
+  Template: https://news.ycombinator.com/user?id=%v
+  Title: Hacker News
+  Icon:
+    Class: fab fa-hacker-news fa-fw
+
+steam:
+  Prefix: https://steamcommunity.com/id/
+  Title: Steam
+  Icon:
+    Class: fab fa-steam fa-fw
+
+mastodon:
+  Prefix: https://mastodon.social/
+  Title: Mastodon
+  Icon:
+    Class: fab fa-mastodon fa-fw
+
+thingiverse:
+  Prefix: https://www.thingiverse.com/
+  Title: Thingiverse
+  Icon:
+    Src: svg/icons/thingiverse.svg
+
+devto:
+  Prefix: https://dev.to/
+  Title: Dev.To
+  Icon:
+    Class: fab fa-dev fa-fw
+
+gitea:
+  Title: Gitea
+  Icon:
+    Simpleicons: gitea
+
+matrix:
+  Prefix: https://matrix.to/#/
+  Title: Matrix
+  Icon:
+    Simpleicons: matrix
+
+email:
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw
+
+googleplay:
+  Template: https://play.google.com/store/apps/developer?id=%v
+  Title: Google Play
+  Icon:
+    Class: fab fa-google-play fa-fw
+
+openstreetmap:
+  Prefix: https://www.openstreetmap.org/user/
+  Title: OpenStreetMap
+  Icon:
+    # TODO: use https://github.com/FortAwesome/Font-Awesome/issues/4317 once merged
+    Class: fas fa-search-location fa-fw
+
+MSCCezar:
+  Prefix: https://msc.com.pl/cezar/?p=21&pid=
+  Title: MSC Cezar (bridge/brydż)
+  Icon:
+    Class: fas fa-heart fa-fw
+rss:
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Class: fas fa-rss fa-fw
