@@ -126,10 +126,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
       @include overflow-wrap(break-word);
-      color: $global-font-secondary-color;
+      color: $global-font-color;
 
       [theme="dark"] & {
-        color: $global-font-secondary-color-dark;
+        color: $global-font-color-dark;
       }
 
       h2,
