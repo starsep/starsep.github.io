@@ -83,6 +83,14 @@ publishDir = "generated"
     url = "/about/"
     title = ""
     weight = 4
+  [[menu.main]]
+    identifier = "resume"
+    pre = ""
+    post = ""
+    name = "Resume"
+    url = "https://starsep.com/cv/cv.pdf"
+    title = ""
+    weight = 5
 
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
