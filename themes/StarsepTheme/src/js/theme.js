@@ -682,6 +682,52 @@ class Theme {
     }
   }
 
+  onScroll() {
+    const $headers = [];
+    if (document.body.getAttribute("header-desktop") === "auto")
+      $headers.push(document.getElementById("header-desktop"));
+    if (document.body.getAttribute("header-mobile") === "auto")
+      $headers.push(document.getElementById("header-mobile"));
+    if (document.getElementById("comments")) {
+      const $viewComments = document.getElementById("view-comments");
+      $viewComments.href = `#comments`;
+      $viewComments.style.display = "block";
+    }
+    const $fixedButtons = document.getElementById("fixed-buttons");
+    const ACCURACY = 20,
+      MINIMUM = 100;
+    window.addEventListener(
+      "scroll",
+      () => {
+        this.newScrollTop = this.util.getScrollTop();
+        const scroll = this.newScrollTop - this.oldScrollTop;
+        const isMobile = this.util.isMobile();
+        this.util.forEach($headers, ($header) => {
+          if (scroll > ACCURACY) {
+            $header.classList.remove("fadeInDown");
+          } else if (scroll < -ACCURACY) {
+            $header.classList.remove("fadeOutUp");
+          }
+        });
+        if (this.newScrollTop > MINIMUM) {
+          if (isMobile && scroll > ACCURACY) {
+          } else if (!isMobile || scroll < -ACCURACY) {
+            $fixedButtons.style.display = "block";
+            $fixedButtons.classList.remove("fadeOut");
+          }
+        } else {
+          if (!isMobile) {
+            $fixedButtons.classList.remove("fadeIn");
+          }
+          $fixedButtons.style.display = "none";
+        }
+        for (let event of this.scrollEventSet) event();
+        this.oldScrollTop = this.newScrollTop;
+      },
+      false
+    );
+  }
+
   onResize() {
     window.addEventListener(
       "resize",
@@ -731,6 +777,7 @@ class Theme {
       this.initToc();
       this.initComment();
 
+      this.onScroll();
       this.onResize();
       this.onClickMask();
     }, 100);
