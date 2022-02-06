@@ -17,6 +17,7 @@ publishDir = "generated"
 
 [params]
   gitRepo = "starsep/starsep.github.io"
+  defaulttheme = "dark"
 [params.search]
   enable = true
   type = "lunr"
