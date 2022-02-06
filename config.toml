@@ -88,7 +88,7 @@ publishDir = "generated"
     pre = ""
     post = ""
     name = "Resume"
-    url = "https://starsep.com/cv/cv.pdf"
+    url = "/cv/cv.pdf"
     title = ""
     weight = 5
 
