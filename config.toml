@@ -13,7 +13,7 @@ title = "Filip Czaplicki"
 theme = "StarsepTheme"
 publishDir = "generated"
 
-# TODO: consider adding Polish
+# TODO: add Polish
 
 [params]
   gitRepo = "starsep/starsep.github.io"
@@ -102,5 +102,3 @@ publishDir = "generated"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-  # as
-  #
