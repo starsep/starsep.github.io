@@ -547,8 +547,10 @@ class Theme {
             }
           }
           if (activeTocIndex !== -1) {
-            $tocLinkElements[activeTocIndex].classList.add("active");
-            let $parent = $tocLinkElements[activeTocIndex].parentElement;
+            const tocLinkElement = $tocLinkElements[activeTocIndex];
+            if (tocLinkElement === undefined) return
+            tocLinkElement.classList.add("active");
+            let $parent = tocLinkElement.parentElement;
             while ($parent !== $tocCore) {
               $parent.classList.add("has-active");
               $parent = $parent.parentElement.parentElement;
