@@ -2,7 +2,8 @@
 title: "Software I use"
 slug: software
 date: 2022-01-27T19:33:51+01:00
-draft: true
+categories: ["Software"]
+tags: ["software", "open-source", "f-droid"]
 ---
 
 I am a big fan of open source software.
@@ -47,7 +48,6 @@ My priorities are:
 {{< fdroid com.simplemobiletools.dialer >}}
 ### Contacts: Simple Contacts
 {{< fdroid com.simplemobiletools.contacts.pro >}}
-### Bike rental: Veturilo
 ### Text2Speech: RHVoice
 {{< fdroid com.github.olga_yakovleva.rhvoice.android >}}
 ### RSS Reader: Newsblur
