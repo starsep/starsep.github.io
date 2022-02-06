@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filip Czaplicki</title>
+    <link>https://starsep.com/notes/</link>
+    <description>Recent content on Filip Czaplicki</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 05 Sep 2020 10:03:09 +0200</lastBuildDate><atom:link href="https://starsep.com/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Firefox Notes</title>
+      <link>https://starsep.com/notes/firefox/</link>
+      <pubDate>Sat, 05 Sep 2020 10:03:09 +0200</pubDate>
+      
+      <guid>https://starsep.com/notes/firefox/</guid>
+      <description>Disable Pocket  Go to about:config Set extensions.pocket.enabled to false  </description>
+    </item>
+    
+  </channel>
+</rss>
