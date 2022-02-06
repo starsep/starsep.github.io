@@ -73,22 +73,22 @@ publishDir = "generated"
     url = "/categories/"
     title = ""
     weight = 3 # 
-  [[menu.main]]
-    identifier = "about"
-    pre = ""
-    post = ""
-    name = "About me"
-    url = "/about/"
-    title = ""
-    weight = 4
+#   [[menu.main]]
+#     identifier = "about"
+#     pre = ""
+#     post = ""
+#     name = "About me"
+#     url = "/about/"
+#     title = ""
+#     weight = 4
   [[menu.main]]
     identifier = "resume"
     pre = ""
     post = ""
-    name = "Resume"
+    name = "Resume (CV)"
     url = "/cv/cv.pdf"
     title = ""
-    weight = 5
+    weight = 4
 
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
