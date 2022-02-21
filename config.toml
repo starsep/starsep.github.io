@@ -1,19 +1,99 @@
 baseURL = "https://starsep.com"
 defaultContentLanguage = "en"
-#[languages]
-#  [languages.en]
-#    weight = 1
-#    languageCode = "en"
-#    languageName = "English"
-#  [languages.pl]
-#    weight = 2
-#    languageCode = "pl"
-#    languageName = "Polski"
 title = "Filip Czaplicki"
 theme = "StarsepTheme"
 publishDir = "generated"
-
-# TODO: add Polish
+[languages]
+  [languages.en]
+    weight = 1
+    languageCode = "en"
+    languageName = "English"
+    [languages.en.menu]
+      [[languages.en.menu.main]]
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Posts"
+        url = "/posts/"
+        title = ""
+        weight = 1
+      [[languages.en.menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.en.menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+        weight = 3
+      #   [[languages.en.menu.main]]
+      #     identifier = "about"
+      #     pre = ""
+      #     post = ""
+      #     name = "About me"
+      #     url = "/about/"
+      #     title = ""
+      #     weight = 4
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        pre = ""
+        post = ""
+        name = "Resume (CV)"
+        url = "/cv/cv.pdf"
+        title = ""
+        weight = 4
+  [languages.pl]
+    weight = 2
+    languageCode = "pl"
+    languageName = "Polski"
+    [languages.pl.menu]
+      [[languages.pl.menu.main]]
+        identifier = "posts"
+        pre = ""
+        post = ""
+        name = "Posty"
+        url = "/posts/"
+        title = ""
+        weight = 1
+      [[languages.pl.menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tagi"
+        url = "/tags/"
+        title = ""
+        weight = 2
+      [[languages.pl.menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "Kategorie"
+        url = "/categories/"
+        title = ""
+        weight = 3
+        #   [[languages.en.menu.main]]
+        #     identifier = "about"
+        #     pre = ""
+        #     post = ""
+        #     name = "O mnie"
+        #     url = "/about/"
+        #     title = ""
+        #     weight = 4
+      [[languages.pl.menu.main]]
+        identifier = "resume"
+        pre = ""
+        post = ""
+        name = "CV"
+        url = "../cv/cv.pdf"
+        title = ""
+        weight = 4
 
 [params]
   gitRepo = "starsep/starsep.github.io"
@@ -49,47 +129,6 @@ publishDir = "generated"
     openstreetmap = "starsep"
     MSCCezar = "16053"
     RSS = true
-[menu]
-  [[menu.main]]
-    identifier = "posts"
-    pre = ""
-    post = ""
-    name = "Posts"
-    url = "/posts/"
-    title = ""
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    pre = ""
-    post = ""
-    name = "Tags"
-    url = "/tags/"
-    title = ""
-    weight = 2
-  [[menu.main]]
-    identifier = "categories"
-    pre = ""
-    post = ""
-    name = "Categories"
-    url = "/categories/"
-    title = ""
-    weight = 3 # 
-#   [[menu.main]]
-#     identifier = "about"
-#     pre = ""
-#     post = ""
-#     name = "About me"
-#     url = "/about/"
-#     title = ""
-#     weight = 4
-  [[menu.main]]
-    identifier = "resume"
-    pre = ""
-    post = ""
-    name = "Resume (CV)"
-    url = "/cv/cv.pdf"
-    title = ""
-    weight = 4
 
 [markup]
   # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
