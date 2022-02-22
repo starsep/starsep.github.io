@@ -174,3 +174,26 @@ other = "Zmieniono"
 [deleted]
 other = "Usunięte"
 # === shortcodes/version.html ===
+
+# === shortcodes/boardgamegeek.html ===
+[tableGeneratedFrom]
+other = "Tabela na podstawie"
+
+[boardGameGeekCollection]
+other = "kolekcji BoardGameGeek"
+
+[name]
+other = "Nazwa"
+
+[geekRating]
+other = "Ocena BoardGameGeek"
+
+[weightComplexity]
+other = "Trudność"
+
+[numberOfPlayers]
+other = "Liczba graczy"
+
+[playingTime]
+other = "Czas gry"
+# === shortcodes/boardgamegeek.html ===
