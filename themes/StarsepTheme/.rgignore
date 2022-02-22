@@ -1,4 +1,0 @@
-*.min.*
-resources/_gen/*
-*.svg
-assets/lib/lunr/
