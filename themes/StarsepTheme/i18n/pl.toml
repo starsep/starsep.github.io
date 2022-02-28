@@ -186,14 +186,14 @@ other = "kolekcji BoardGameGeek"
 other = "Nazwa"
 
 [geekRating]
-other = "Ocena BoardGameGeek"
+other = "Ocena"
 
 [weightComplexity]
 other = "Trudność"
 
 [numberOfPlayers]
-other = "Liczba graczy"
+other = "Gracze"
 
 [playingTime]
-other = "Czas gry"
+other = "Czas"
 # === shortcodes/boardgamegeek.html ===

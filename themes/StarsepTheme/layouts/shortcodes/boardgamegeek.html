@@ -11,6 +11,13 @@
     <td>{{ i18n "numberOfPlayers" }}</td>
     <td>{{ i18n "playingTime" }}</td>
 </tr>
+<tr id="filterRow" style="visibility: collapse;">
+    <td><input type="text" id="nameFilter"/></td>
+    <td><input type="number" id="ratingFilter" style="width: 80px;"/></td>
+    <td><input type="number" id="weightFilter" style="width: 80px;"/></td>
+    <td><input type="number" id="playersFilter" style="width: 80px;"/></td>
+    <td><input type="number" id="timeFilter" style="width: 80px;"/></td>
+</tr>
 </thead>
 {{ range $i, $row := $boardGameGeekData }}
     {{ if ne $i 0 }}
@@ -22,7 +29,7 @@
     {{ $minPlayers := index $row 27 }}
     {{ $maxPlayers := index $row 28 }}
     {{ $playingTime := index $row 29 }}
-    <tr>
+    <tr class="boardGameRow">
         <td>
             <a href="https://boardgamegeek.com/boardgame/{{ $gameId }}">
                 {{ $localName }}
@@ -47,3 +54,49 @@
     {{ end }}
 {{ end }}
 </table>
+
+<script>
+    const filterRow = document.getElementById("filterRow");
+    const nameFilter = document.getElementById("nameFilter");
+    const ratingFilter = document.getElementById("ratingFilter");
+    const weightFilter = document.getElementById("weightFilter");
+    const playersFilter = document.getElementById("playersFilter");
+    const timeFilter = document.getElementById("timeFilter");
+    const boardGameRows = Array.from(document.getElementsByClassName("boardGameRow"));
+
+    function updateFilters() {
+        boardGameRows.forEach(row => row.style.visibility = "collapse");
+        boardGameRows.forEach(row => {
+            const name = row.children[0].textContent;
+            const textNormalize = (text) => text.trim().toLowerCase();
+            const nameOk = textNormalize(name).includes(textNormalize(nameFilter.value));
+
+            const rating = Number(row.children[1].textContent);
+            const ratingOk = rating >= Number(ratingFilter.value);
+
+            const weight = Number(row.children[2].textContent);
+            const weightOk = Number(weightFilter.value) <= weight;
+
+            const players = row.children[3].textContent.split("-");
+            const playersMin = players[0];
+            const playersMax = players[1];
+            const expectedPlayers = Number(playersFilter.value);
+            const playersOk = expectedPlayers == 0 || (playersMin <= expectedPlayers && expectedPlayers <= playersMax);
+
+            const time = Number(row.children[4].textContent.split(" min")[0]);
+            const expectedTime = Number(timeFilter.value);
+            const timeOk = expectedTime == 0 || time <= Number(timeFilter.value);
+
+            if (nameOk && ratingOk && weightOk && playersOk && timeOk) {
+                row.style.visibility = "visible";
+            }
+        });
+    }
+    updateFilters();
+    nameFilter.oninput = updateFilters;
+    ratingFilter.oninput = updateFilters;
+    weightFilter.oninput = updateFilters;
+    playersFilter.oninput = updateFilters;
+    timeFilter.oninput = updateFilters;
+    filterRow.style.visibility = "visible";
+</script>
