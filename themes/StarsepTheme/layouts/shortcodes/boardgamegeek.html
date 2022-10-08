@@ -1,6 +1,6 @@
 {{ $user := .Get "user" }}
-{{ $url := printf "https://boardgamegeek.com/geekcollection.php?action=exportcsv&subtype=boardgame&username=%s&all=1&exporttype=csv" $user }}
-{{ $boardGameGeekData := getCSV "," $url }}
+{{ $url := printf "" $user }}
+{{ $boardGameGeekData := getCSV "," "boardgamegeek.csv" }}
 {{ i18n "tableGeneratedFrom" }} <a href="https://boardgamegeek.com/collection/user/{{ $user }}">{{ i18n "boardGameGeekCollection" }}</a>
 <table>
 <thead>
@@ -10,6 +10,7 @@
     <td>{{ i18n "weightComplexity" }}</td>
     <td>{{ i18n "numberOfPlayers" }}</td>
     <td>{{ i18n "playingTime" }}</td>
+    <td>{{ i18n "comment" }}</td>
 </tr>
 <tr id="filterRow" style="visibility: collapse;">
     <td><input type="text" id="nameFilter"/></td>
@@ -17,12 +18,14 @@
     <td><input type="number" id="weightFilter" style="width: 80px;"/></td>
     <td><input type="number" id="playersFilter" style="width: 80px;"/></td>
     <td><input type="number" id="timeFilter" style="width: 80px;"/></td>
+    <td><input type="text" id="commentFilter" style="width: 80px;"/></td>
 </tr>
 </thead>
 {{ range $i, $row := $boardGameGeekData }}
     {{ if ne $i 0 }}
     {{ $localName := index $row 0 }}
     {{ $gameId := index $row 1 }}
+    {{ $comment:= index $row 15 }}
     {{ $geekRating := printf "%.2f" (float (index $row 20)) }}
     {{ $weight := printf "%.2f" (float (index $row 22)) }}
     {{ $englishName := index $row 26 }}
@@ -50,6 +53,7 @@
         </td>
         <td>{{ $minPlayers }}-{{ $maxPlayers }}</td>
         <td>{{ $playingTime }} min</td>
+        <td>{{ $comment }}</td>
     </tr>
     {{ end }}
 {{ end }}

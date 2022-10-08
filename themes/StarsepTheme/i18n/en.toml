@@ -191,6 +191,9 @@ other = "Weight"
 [numberOfPlayers]
 other = "Players"
 
+[comment]
+other = "Comment"
+
 [playingTime]
 other = "Time"
 # === shortcodes/boardgamegeek.html ===

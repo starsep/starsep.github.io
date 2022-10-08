@@ -194,6 +194,9 @@ other = "Trudność"
 [numberOfPlayers]
 other = "Gracze"
 
+[comment]
+other = "Komentarz"
+
 [playingTime]
 other = "Czas"
 # === shortcodes/boardgamegeek.html ===
