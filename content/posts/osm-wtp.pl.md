@@ -14,7 +14,7 @@ Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStre
 ## Treść strony
 Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z &#10060;.
 
-{{< image src="/img/osm-wtp/lines-error.png" >}}
+{{< image src="/img/osm-wtp/lines2.png" >}}
 
 Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.
 Kolory oznaczają, co należy zrobić w OSM, aby doprowadzić do stanu z WTP: zielony dodać przystanki,
