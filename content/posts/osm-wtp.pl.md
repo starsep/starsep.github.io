@@ -72,6 +72,8 @@ m. in. czy punkty zatrzymań są częściami odcinków dróg, spójność geomet
 czy platformy są po prawej stronie. Takie testy robią inne narzędzia.
 4. To podejście może dać się zastosować dla innych miast.
 
+Ten artykuł można też znaleźć na https://osm.org/user/starsep/diary/400699
+
 
 
 
