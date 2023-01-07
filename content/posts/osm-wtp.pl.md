@@ -12,14 +12,9 @@ Porównuję dla każdego wariantu linii listę przystanków.
 Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.
 
 ## Treść strony
-Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się &#10060;.
+Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z &#10060;.
 
 {{< image src="/img/osm-wtp/lines.png" >}}
-
-Potem są wyniki dla kojejnych linii.
-Dla linii, gdzie wszystkie warianty zgadzają się z danymi WTP wyświetla się ok.
-
-{{< image src="/img/osm-wtp/ok.png" >}}
 
 Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.
 Kolory oznaczają, co należy zrobić w OSM, aby doprowadzić do stanu z WTP: zielony dodać przystanki,
@@ -44,8 +39,11 @@ W WTP numery przystanków mają sześć cyfr, gdzie pierwsze cztery oznaczają n
 a dwie ostatnie numer przystanku w zespole.
 Dodatkowo wyświetlane są nazwy (tag `name`).
 
+Problemem był brak linku do ostatniego przystanku na stronie WTP.
+Wyświetla się tylko nazwa, a nie są one unikalne w aglomeracji warszawskiej. 
+
 ## Inne narzędzia
-Aglomeracja warszawska jest skonfigurawana w [PTNA Public Transport Network Analysis](https://ptna.openstreetmap.de/).
+Aglomeracja warszawska jest skonfigurowana w [PTNA Public Transport Network Analysis](https://ptna.openstreetmap.de/).
 Dobrym źródłem jest [GTFS Warsaw](https://mkuran.pl/gtfs/warsaw.zip), który też można znaleźć w powyższym narzędziu.
 Jest także sporo narzędzi Quality Assurance, które znajdują błędy w relacjach transportu publicznego.
 
