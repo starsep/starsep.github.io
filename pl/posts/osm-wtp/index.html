@@ -6,8 +6,8 @@
 <meta http-equiv=x-ua-compatible content="IE=edge, chrome=1">
 <title>Porównanie danych OSM z Warszawskim Transportem Publicznym - Filip Czaplicki</title><meta name=description content><meta property="og:title" content="Porównanie danych OSM z Warszawskim Transportem Publicznym">
 <meta property="og:description" content="Wprowadzenie Stworzyłem stronę https://starsep.com/osm-wtp/. Można na niej znaleźć porównanie danych OpenStreetMap transportu publicznego aglomeracji warszawskiej z danymi Warszawskiego Transportu Publicznego. Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych. Porównuję dla każdego wariantu linii listę przystanków. Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.
-Treść strony Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się ❌.
- Potem są wyniki dla kojejnych linii.">
+Treść strony Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z ❌.
+ Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://starsep.com/pl/posts/osm-wtp/"><meta property="article:section" content="posts">
 <meta property="article:published_time" content="2023-01-07T19:48:56+01:00">
@@ -15,12 +15,12 @@ Treść strony Na górze znajduje się lista linii z linkami. Dla linii z błęd
 <meta name=twitter:card content="summary">
 <meta name=twitter:title content="Porównanie danych OSM z Warszawskim Transportem Publicznym">
 <meta name=twitter:description content="Wprowadzenie Stworzyłem stronę https://starsep.com/osm-wtp/. Można na niej znaleźć porównanie danych OpenStreetMap transportu publicznego aglomeracji warszawskiej z danymi Warszawskiego Transportu Publicznego. Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych. Porównuję dla każdego wariantu linii listę przystanków. Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.
-Treść strony Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się ❌.
- Potem są wyniki dla kojejnych linii.">
+Treść strony Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z ❌.
+ Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.">
 <meta name=application-name content="Filip Czaplicki">
 <meta name=apple-mobile-web-app-title content="Filip Czaplicki"><link rel="shortcut icon" type=image/x-icon href=/favicon.ico>
 <link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><link rel=canonical href=https://starsep.com/pl/posts/osm-wtp/><link rel=stylesheet href=/css/style.min.css><link rel=stylesheet href=/lib/fontawesome-free/all.min.css><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","headline":"Porównanie danych OSM z Warszawskim Transportem Publicznym","inLanguage":"pl","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/starsep.com\/pl\/posts\/osm-wtp\/"},"genre":"posts","wordcount":431,"url":"https:\/\/starsep.com\/pl\/posts\/osm-wtp\/","datePublished":"2023-01-07T19:48:56+01:00","dateModified":"2023-01-07T19:48:56+01:00","publisher":{"@type":"Organization","name":"Autor"},"author":{"@type":"Person","name":"Autor"},"description":""}</script></head>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><link rel=canonical href=https://starsep.com/pl/posts/osm-wtp/><link rel=stylesheet href=/css/style.min.css><link rel=stylesheet href=/lib/fontawesome-free/all.min.css><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","headline":"Porównanie danych OSM z Warszawskim Transportem Publicznym","inLanguage":"pl","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/starsep.com\/pl\/posts\/osm-wtp\/"},"genre":"posts","wordcount":434,"url":"https:\/\/starsep.com\/pl\/posts\/osm-wtp\/","datePublished":"2023-01-07T19:48:56+01:00","dateModified":"2023-01-07T19:48:56+01:00","publisher":{"@type":"Organization","name":"Autor"},"author":{"@type":"Person","name":"Autor"},"description":""}</script></head>
 <body header-desktop header-mobile><script type=text/javascript>(window.localStorage&&localStorage.getItem('theme')?localStorage.getItem('theme')==='dark':'dark'==='auto'?window.matchMedia('(prefers-color-scheme: dark)').matches:'dark'==='dark')&&document.body.setAttribute('theme','dark')</script>
 <div id=mask></div><div class=wrapper><header class=desktop id=header-desktop>
 <div class=header-wrapper>
@@ -92,7 +92,7 @@ Anuluj
 <div class=toc-content id=toc-content-auto></div>
 </div><article class="page single"><h1 class=single-title>Porównanie danych OSM z Warszawskim Transportem Publicznym</h1><div class=post-meta>
 <div class=post-meta-line><span class=post-author><a href=/pl/ title=Author rel=author class=author><i class="fas fa-user-circle fa-fw"></i>Autor</a></span></div>
-<div class=post-meta-line><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2023-01-07>2023-01-07</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;431 słów&nbsp;
+<div class=post-meta-line><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2023-01-07>2023-01-07</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;434 słów&nbsp;
 <i class="far fa-clock fa-fw"></i>&nbsp;3 minuty&nbsp;</div>
 </div><div class="details toc" id=toc-static kept>
 <div class="details-summary toc-title">
@@ -116,14 +116,9 @@ Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujący
 Porównuję dla każdego wariantu linii listę przystanków.
 Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.</p>
 <h2 id=treść-strony>Treść strony</h2>
-<p>Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się ❌.</p>
+<p>Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z ❌.</p>
 <a class=lightgallery href=/img/osm-wtp/lines.png title=/img/osm-wtp/lines.png data-thumbnail=/img/osm-wtp/lines.png>
 <img class=lazyload src=/svg/loading.min.svg data-src=/img/osm-wtp/lines.png data-srcset="/img/osm-wtp/lines.png, /img/osm-wtp/lines.png 1.5x, /img/osm-wtp/lines.png 2x" data-sizes=auto alt=/img/osm-wtp/lines.png>
-</a>
-<p>Potem są wyniki dla kojejnych linii.
-Dla linii, gdzie wszystkie warianty zgadzają się z danymi WTP wyświetla się ok.</p>
-<a class=lightgallery href=/img/osm-wtp/ok.png title=/img/osm-wtp/ok.png data-thumbnail=/img/osm-wtp/ok.png>
-<img class=lazyload src=/svg/loading.min.svg data-src=/img/osm-wtp/ok.png data-srcset="/img/osm-wtp/ok.png, /img/osm-wtp/ok.png 1.5x, /img/osm-wtp/ok.png 2x" data-sizes=auto alt=/img/osm-wtp/ok.png>
 </a>
 <p>Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.
 Kolory oznaczają, co należy zrobić w OSM, aby doprowadzić do stanu z WTP: zielony dodać przystanki,
@@ -146,8 +141,10 @@ Argumenty:</p>
 W WTP numery przystanków mają sześć cyfr, gdzie pierwsze cztery oznaczają numer zespołu przystanków,
 a dwie ostatnie numer przystanku w zespole.
 Dodatkowo wyświetlane są nazwy (tag <code>name</code>).</p>
+<p>Problemem był brak linku do ostatniego przystanku na stronie WTP.
+Wyświetla się tylko nazwa, a nie są one unikalne w aglomeracji warszawskiej.</p>
 <h2 id=inne-narzędzia>Inne narzędzia</h2>
-<p>Aglomeracja warszawska jest skonfigurawana w <a href=https://ptna.openstreetmap.de/ target=_blank rel="noopener noreferrer">PTNA Public Transport Network Analysis</a>.
+<p>Aglomeracja warszawska jest skonfigurowana w <a href=https://ptna.openstreetmap.de/ target=_blank rel="noopener noreferrer">PTNA Public Transport Network Analysis</a>.
 Dobrym źródłem jest <a href=https://mkuran.pl/gtfs/warsaw.zip target=_blank rel="noopener noreferrer">GTFS Warsaw</a>, który też można znaleźć w powyższym narzędziu.
 Jest także sporo narzędzi Quality Assurance, które znajdują błędy w relacjach transportu publicznego.</p>
 <h2 id=szczegóły-techniczne>Szczegóły techniczne</h2>
