@@ -1,0 +1,210 @@
+<!doctype html><html lang=pl>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta name=robots content="noodp">
+<meta http-equiv=x-ua-compatible content="IE=edge, chrome=1">
+<title>Porównanie danych OSM z Warszawskim Transportem Publicznym - Filip Czaplicki</title><meta name=description content><meta property="og:title" content="Porównanie danych OSM z Warszawskim Transportem Publicznym">
+<meta property="og:description" content="Wprowadzenie Stworzyłem stronę https://starsep.com/osm-wtp/. Można na niej znaleźć porównanie danych OpenStreetMap transportu publicznego aglomeracji warszawskiej z danymi Warszawskiego Transportu Publicznego. Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych. Porównuję dla każdego wariantu linii listę przystanków. Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.
+Treść strony Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się ❌.
+ Potem są wyniki dla kojejnych linii.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://starsep.com/pl/posts/osm-wtp/"><meta property="article:section" content="posts">
+<meta property="article:published_time" content="2023-01-07T19:48:56+01:00">
+<meta property="article:modified_time" content="2023-01-07T19:48:56+01:00">
+<meta name=twitter:card content="summary">
+<meta name=twitter:title content="Porównanie danych OSM z Warszawskim Transportem Publicznym">
+<meta name=twitter:description content="Wprowadzenie Stworzyłem stronę https://starsep.com/osm-wtp/. Można na niej znaleźć porównanie danych OpenStreetMap transportu publicznego aglomeracji warszawskiej z danymi Warszawskiego Transportu Publicznego. Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych. Porównuję dla każdego wariantu linii listę przystanków. Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.
+Treść strony Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się ❌.
+ Potem są wyniki dla kojejnych linii.">
+<meta name=application-name content="Filip Czaplicki">
+<meta name=apple-mobile-web-app-title content="Filip Czaplicki"><link rel="shortcut icon" type=image/x-icon href=/favicon.ico>
+<link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><link rel=canonical href=https://starsep.com/pl/posts/osm-wtp/><link rel=stylesheet href=/css/style.min.css><link rel=stylesheet href=/lib/fontawesome-free/all.min.css><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","headline":"Porównanie danych OSM z Warszawskim Transportem Publicznym","inLanguage":"pl","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/starsep.com\/pl\/posts\/osm-wtp\/"},"genre":"posts","wordcount":424,"url":"https:\/\/starsep.com\/pl\/posts\/osm-wtp\/","datePublished":"2023-01-07T19:48:56+01:00","dateModified":"2023-01-07T19:48:56+01:00","publisher":{"@type":"Organization","name":"Autor"},"author":{"@type":"Person","name":"Autor"},"description":""}</script></head>
+<body header-desktop header-mobile><script type=text/javascript>(window.localStorage&&localStorage.getItem('theme')?localStorage.getItem('theme')==='dark':'dark'==='auto'?window.matchMedia('(prefers-color-scheme: dark)').matches:'dark'==='dark')&&document.body.setAttribute('theme','dark')</script>
+<div id=mask></div><div class=wrapper><header class=desktop id=header-desktop>
+<div class=header-wrapper>
+<div class=header-title>
+<a href=/pl/ title="Filip Czaplicki">Filip Czaplicki</a>
+</div>
+<div class=menu>
+<div class=menu-inner><a class=menu-item href=/pl/posts/> Posty </a><a class=menu-item href=/pl/tags/> Tagi </a><a class=menu-item href=/pl/categories/> Kategorie </a><a class=menu-item href=/cv/cv.pdf> CV </a><span class="menu-item delimiter"></span><a href=javascript:void(0); class="menu-item language" title="Wybierz język">Polski<i class="fas fa-chevron-right fa-fw"></i>
+<select class=language-select id=language-select-desktop onchange="location=this.value"><option value=/pl/posts/osm-wtp/ selected>Polski</option></select>
+</a><span class="menu-item search" id=search-desktop>
+<input type=text placeholder="Wyszukaj tytuł lub treść artykułu ..." id=search-input-desktop>
+<a href=javascript:void(0); class="search-button search-toggle" id=search-toggle-desktop title=Szukaj>
+<i class="fas fa-search fa-fw"></i>
+</a>
+<a href=javascript:void(0); class="search-button search-clear" id=search-clear-desktop title=Pusty>
+<i class="fas fa-times-circle fa-fw"></i>
+</a>
+<span class="search-button search-loading" id=search-loading-desktop>
+<i class="fas fa-spinner fa-fw fa-spin"></i>
+</span>
+</span><a href=javascript:void(0); class="menu-item theme-switch" title="Przełącz schemat">
+<i class="fas fa-adjust fa-fw"></i>
+</a>
+</div>
+</div>
+</div>
+</header><header class=mobile id=header-mobile>
+<div class=header-container>
+<div class=header-wrapper>
+<div class=header-title>
+<a href=/pl/ title="Filip Czaplicki">Filip Czaplicki</a>
+</div>
+<div class=menu-toggle id=menu-toggle-mobile>
+<span></span><span></span><span></span>
+</div>
+</div>
+<div class=menu id=menu-mobile><div class=search-wrapper>
+<div class="search mobile" id=search-mobile>
+<input type=text placeholder="Wyszukaj tytuł lub treść artykułu ..." id=search-input-mobile>
+<a href=javascript:void(0); class="search-button search-toggle" id=search-toggle-mobile title=Szukaj>
+<i class="fas fa-search fa-fw"></i>
+</a>
+<a href=javascript:void(0); class="search-button search-clear" id=search-clear-mobile title=Pusty>
+<i class="fas fa-times-circle fa-fw"></i>
+</a>
+<span class="search-button search-loading" id=search-loading-mobile>
+<i class="fas fa-spinner fa-fw fa-spin"></i>
+</span>
+</div>
+<a href=javascript:void(0); class=search-cancel id=search-cancel-mobile>
+Anuluj
+</a>
+</div><a class=menu-item href=/pl/posts/ title>Posty</a><a class=menu-item href=/pl/tags/ title>Tagi</a><a class=menu-item href=/pl/categories/ title>Kategorie</a><a class=menu-item href=/cv/cv.pdf title>CV</a><a href=javascript:void(0); class="menu-item theme-switch" title="Przełącz schemat">
+<i class="fas fa-adjust fa-fw"></i>
+</a><a href=javascript:void(0); class=menu-item title="Wybierz język">Polski<i class="fas fa-chevron-right fa-fw"></i>
+<select class=language-select onchange="location=this.value"><option value=/pl/posts/osm-wtp/ selected>Polski</option></select>
+</a></div>
+</div>
+</header>
+<div class="search-dropdown desktop">
+<div id=search-dropdown-desktop></div>
+</div>
+<div class="search-dropdown mobile">
+<div id=search-dropdown-mobile></div>
+</div>
+<main class=main>
+<div class=container><div class=toc id=toc-auto>
+<h2 class=toc-title>Spis treści</h2>
+<div class=toc-content id=toc-content-auto></div>
+</div><article class="page single"><h1 class=single-title>Porównanie danych OSM z Warszawskim Transportem Publicznym</h1><div class=post-meta>
+<div class=post-meta-line><span class=post-author><a href=/pl/ title=Author rel=author class=author><i class="fas fa-user-circle fa-fw"></i>Autor</a></span></div>
+<div class=post-meta-line><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2023-01-07>2023-01-07</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;424 słów&nbsp;
+<i class="far fa-clock fa-fw"></i>&nbsp;2 minuty&nbsp;</div>
+</div><div class="details toc" id=toc-static kept>
+<div class="details-summary toc-title">
+<span>Spis treści</span>
+<span><i class="details-icon fas fa-angle-right"></i></span>
+</div>
+<div class="details-content toc-content" id=toc-content-static><nav id=TableOfContents>
+<ul>
+<li><a href=#wprowadzenie>Wprowadzenie</a></li>
+<li><a href=#treść-strony>Treść strony</a></li>
+<li><a href=#dane>Dane</a></li>
+<li><a href=#inne-narzędzia>Inne narzędzia</a></li>
+<li><a href=#szczegóły-techniczne>Szczegóły techniczne</a></li>
+<li><a href=#plany-na-przyszłość>Plany na przyszłość</a></li>
+</ul>
+</nav></div>
+</div><div class=content id=content><h2 id=wprowadzenie>Wprowadzenie</h2>
+<p>Stworzyłem stronę <a href=https://starsep.com/osm-wtp/ target=_blank rel="noopener noreferrer">https://starsep.com/osm-wtp/</a>. Można na niej znaleźć porównanie danych <a href=https://openstreetmap.org target=_blank rel="noopener noreferrer">OpenStreetMap</a>
+transportu publicznego aglomeracji warszawskiej z danymi <a href=https://wtp.waw.pl target=_blank rel="noopener noreferrer">Warszawskiego Transportu Publicznego</a>.
+Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych.
+Porównuję dla każdego wariantu linii listę przystanków.
+Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.</p>
+<h2 id=treść-strony>Treść strony</h2>
+<p>Na górze znajduje się lista linii z linkami. Dla linii z błędem wyświetla się ❌.</p>
+<a class=lightgallery href=/img/osm-wtp/lines.png title=/img/osm-wtp/lines.png data-thumbnail=/img/osm-wtp/lines.png>
+<img class=lazyload src=/svg/loading.min.svg data-src=/img/osm-wtp/lines.png data-srcset="/img/osm-wtp/lines.png, /img/osm-wtp/lines.png 1.5x, /img/osm-wtp/lines.png 2x" data-sizes=auto alt=/img/osm-wtp/lines.png>
+</a>
+<p>Potem są wyniki dla kojejnych linii.
+Dla linii, gdzie wszystkie warianty zgadzają się z danymi WTP wyświetla się ok.</p>
+<a class=lightgallery href=/img/osm-wtp/ok.png title=/img/osm-wtp/ok.png data-thumbnail=/img/osm-wtp/ok.png>
+<img class=lazyload src=/svg/loading.min.svg data-src=/img/osm-wtp/ok.png data-srcset="/img/osm-wtp/ok.png, /img/osm-wtp/ok.png 1.5x, /img/osm-wtp/ok.png 2x" data-sizes=auto alt=/img/osm-wtp/ok.png>
+</a>
+<p>Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.
+Kolory oznaczają, co należy zrobić w OSM, aby doprowadzić do stanu z WTP: zielony dodać przystanki,
+czerwony usunąć, pomarańczowy zmienić. W nagłówku są przydatne linki.</p>
+<a class=lightgallery href=/img/osm-wtp/error.png title=/img/osm-wtp/error.png data-thumbnail=/img/osm-wtp/error.png>
+<img class=lazyload src=/svg/loading.min.svg data-src=/img/osm-wtp/error.png data-srcset="/img/osm-wtp/error.png, /img/osm-wtp/error.png 1.5x, /img/osm-wtp/error.png 2x" data-sizes=auto alt=/img/osm-wtp/error.png>
+</a>
+<p>Na dole strony można znaleźć inne błędy oraz statystyki generowania.</p>
+<h2 id=dane>Dane</h2>
+<p>Dla każdej relacji <code>type=route</code> dodałem tag <code>url</code> do strony WTP z rozkładem tego wariantu linii.</p>
+<p>Przykładowy link: <a href="https://wtp.waw.pl/rozklady-jazdy/?wtp_md=3&wtp_ln=166&wtp_dr=A&wtp_vr=1" target=_blank rel="noopener noreferrer">https://wtp.waw.pl/rozklady-jazdy/?wtp_md=3&wtp_ln=166&wtp_dr=A&wtp_vr=1</a>
+Argumenty:</p>
+<ul>
+<li>wtp_md=3 oznacza rozkład z listą przystanków</li>
+<li>wtp_ln=166 to numer linii 166</li>
+<li>wtp_dr=A to kierunek linii A/B</li>
+<li>wtp_vr=1 to numer wariantu linii w danym kierunku. Na stronie są one oznaczone literami A/B</li>
+</ul>
+<p>Do porównania listy przystanków wykorzystywane są numery przystanków (tag <code>ref</code>).
+W WTP numery przystanków mają sześć cyfr, gdzie pierwsze cztery oznaczają numer zespołu przystanków,
+a dwie ostatnie numer przystanku w zespole.
+Dodatkowo wyświetlane są nazwy (tag <code>name</code>).</p>
+<h2 id=inne-narzędzia>Inne narzędzia</h2>
+<p>Aglomeracja warszawska jest skonfigurawana w <a href=https://ptna.openstreetmap.de/ target=_blank rel="noopener noreferrer">PTNA Public Transport Network Analysis</a>.
+Dobrym źródłem jest <a href=https://mkuran.pl/gtfs/warsaw.zip target=_blank rel="noopener noreferrer">GTFS Warsaw</a>, który też można znaleźć w powyższym narzędziu.
+Jest także sporo narzędzi Quality Assurance, które znajdują błędy w relacjach transportu publicznego.</p>
+<h2 id=szczegóły-techniczne>Szczegóły techniczne</h2>
+<ul>
+<li>Strona jest hostowana za pomocą <a href=https://pages.github.com/ target=_blank rel="noopener noreferrer">GitHub Pages</a>.</li>
+<li>Kod można znaleźć na <a href=https://github.com/starsep/osm-wtp-compare target=_blank rel="noopener noreferrer">GitHubie</a>.</li>
+<li>Wygenerowany HTML jest w osobnym <a href=https://github.com/starsep/osm-wtp target=_blank rel="noopener noreferrer">repozytorium</a>.</li>
+<li>Skrypt jest zaimplementowany w <a href=https://python.org target=_blank rel="noopener noreferrer">Pythonie</a>.</li>
+<li>Ze względu na wydajność używam <a href=https://pypy.org target=_blank rel="noopener noreferrer">PyPy</a> 3.9.</li>
+<li>HTML generowany jest za pomocą <a href=https://jinja.palletsprojects.com target=_blank rel="noopener noreferrer">Jinja2</a>.</li>
+<li>Używam styli <a href=https://simplecss.org/ target=_blank rel="noopener noreferrer">SimpleCSS</a>.
+Pozwalają na generowanie prostego HTMLa i wspierają jasny/ciemny motyw bez JavaScriptu.</li>
+<li>Generowanie uruchamiam za pomocą <a href=https://github.com/features/actions target=_blank rel="noopener noreferrer">GitHub Actions</a>.
+Chwilowo jest to 3 razy na dobę wieczorem. Mogę też uruchomić ręcznie z komputera lub na GitHubie.</li>
+<li>Dane z WTP (chwilowo HTML stron) są cache&rsquo;owane.
+Dzięki temu kolejne uruchomienia danej doby są już dużo szybsze.</li>
+<li>Dane OpenStreetMap pobierane są z Overpassa z <a href=https://osm.org/relation/3652280 target=_blank rel="noopener noreferrer">relacji komunikacji WTP</a>.</li>
+</ul>
+<h2 id=plany-na-przyszłość>Plany na przyszłość</h2>
+<ol>
+<li>Naprawić dane w OSM dzięki temu narzędziu.</li>
+<li>Zrobić refaktor kodu. Aktualnie jest to skrypt bez sensownego podziału na funkcje i bez testów.</li>
+<li>(być może) Testy poprawności geometrii relacji
+m. in. czy punkty zatrzymań są częściami odcinków dróg, spójność geometrii,
+czy platformy są po prawej stronie. Takie testy robią inne narzędzia.</li>
+<li>To podejście może dać się zastosować dla innych miast.</li>
+</ol>
+</div><div class=post-footer id=post-footer>
+<div class=post-info>
+<div class=post-info-line>
+<div class=post-info-mod>
+<span>Zaktualizowano 2023-01-07</span>
+</div>
+<div class=post-info-license></div>
+</div>
+<div class=post-info-line>
+<div class=post-info-md></div>
+</div>
+</div>
+<div class=post-info-more>
+<section class=post-tags></section>
+<section>
+<span><a href=javascript:void(0); onclick=window.history.back()>Wstecz</a></span>&nbsp;|&nbsp;<span><a href=/pl/>Strona główna</a></span>
+</section>
+</div>
+<div class=post-nav></div>
+</div>
+</article></div>
+</main><footer class=footer>
+<div class=footer-container><div class=footer-line>Napędzany przez <a href=https://gohugo.io/ target=_blank rel="noopener noreferrer" title="Hugo 0.92.2">Hugo</a> | Szablon - <a href=https://github.com/sunt-programator/CodeIT target=_blank rel="noopener noreferrer" title="CodeIT <nil>"><i class="fas fa-laptop-code fa-fw"></i> CodeIT</a>
+</div><div class=footer-line><i class="far fa-copyright fa-fw"></i><span itemprop=copyrightYear>2023</span><span class=author itemprop=copyrightHolder>&nbsp;<a href=/pl/ target=_blank rel="noopener noreferrer"></a></span></div>
+</div>
+</footer></div>
+<div id=fixed-buttons><a href=# id=back-to-top class=fixed-button title="Powrót do góry">
+<i class="fas fa-arrow-up fa-fw"></i>
+</a><a href=# id=view-comments class=fixed-button title="Zobacz komentarze">
+<i class="fas fa-comment fa-fw"></i>
+</a>
+</div><script type=text/javascript src=/lib/autocomplete/autocomplete.min.js></script><script type=text/javascript src=/lib/lunr/lunr.min.js></script><script type=text/javascript src=/lib/lazysizes/lazysizes.min.js></script><script type=text/javascript>window.config={code:{maxShownLines:10},comment:{},search:{highlightTag:null,lunrIndexURL:"/pl/index.json",maxResultLength:null,noResultsFound:"Nie znaleziono wyników",snippetLength:null,type:"lunr"}}</script><script type=text/javascript src=/js/theme.min.js></script></body>
+</html>
