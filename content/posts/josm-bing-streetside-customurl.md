@@ -3,6 +3,7 @@ title: "JOSM: Bing StreetSide with Utilsplugin2 => Open custom URL"
 slug: josm-bing-custom-url
 tags: ["openstreetmap"]
 date: 2023-01-22T18:55:27+01:00
+toc: false
 ---
 Bing StreetSide is alternative to Google Street View which can be used for OpenStreetMap mapping.
 There is a MicrosoftStreetside plugin for JOSM but it doesn't work for me due to dependencies of JavaFX/360 views.
