@@ -1,0 +1,15 @@
+{{- $lng := cond .IsNamedParams (.Get "lng") (.Get 0) -}}
+{{- $lat := cond .IsNamedParams (.Get "lat") (.Get 1) -}}
+{{- $zoom := cond .IsNamedParams (.Get "zoom") (.Get 2) | default 18 -}}
+{{- $width := cond .IsNamedParams (.Get "width") (.Get 3) | default "400px" -}}
+{{- $height := cond .IsNamedParams (.Get "height") (.Get 4) | default "300px" -}}
+
+{{- $id := dict "Content" "" "Scratch" .Page.Scratch | partial "function/id.html" -}}
+<div
+    class="leaflet-carto"
+    id="{{ $id }}"
+    style="width: {{ $width }}; height: {{ $height }};"
+    data-lng="{{ $lng }}"
+    data-lat="{{ $lat }}"
+    data-zoom="{{ $zoom }}"
+></div>

@@ -99,7 +99,7 @@ other = "{{ .Count }} minuty"
 other = "wyświetleń"
 
 [author]
-other = "Autor"
+other = "Filip Czaplicki"
 
 [updatedOnDate]
 other = "Zaktualizowano {{ .Date }}"

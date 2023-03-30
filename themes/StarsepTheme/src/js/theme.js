@@ -566,6 +566,25 @@ class Theme {
     if (this.config.math) renderMathInElement(document.body, this.config.math);
   }
 
+  initMap() {
+      for (const map of document.getElementsByClassName("leaflet-carto")) {
+          renderMapCarto(
+              map.id,
+              map.getAttribute("data-lng"),
+              map.getAttribute("data-lat"),
+              map.getAttribute("data-zoom")
+          );
+      }
+      for (const map of document.getElementsByClassName("leaflet-orto")) {
+          renderMapGeoportalOrtophotomap(
+              map.id,
+              map.getAttribute("data-lng"),
+              map.getAttribute("data-lat"),
+              map.getAttribute("data-zoom")
+          );
+      }
+  }
+
   initComment() {
     if (this.config.comment) {
       if (this.config.comment.utterances) {
@@ -687,6 +706,7 @@ class Theme {
       this.initTable();
       this.initHeaderLink();
       this.initMath();
+      this.initMap();
     } catch (err) {
       console.error(err);
     }

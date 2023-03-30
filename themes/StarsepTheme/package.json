@@ -14,5 +14,9 @@
     "babel": "npx babel src/js --out-file assets/js/theme.min.js --source-maps",
     "build": "npm run babel",
     "build-lunr-segmentit": "browserify src/lib/lunr.segmentit.js -o assets/lib/lunr/lunr.segmentit.js -t babelify --presets @babel/preset-env --presets minify"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "leaflet": "^1.9.3"
   }
 }
