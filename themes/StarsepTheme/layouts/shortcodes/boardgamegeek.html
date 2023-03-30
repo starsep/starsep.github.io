@@ -97,8 +97,6 @@
             const comment = row.children[5].textContent;
             const commentOk = textNormalize(comment).includes(textNormalize(commentFilter.value));
 
-            console.log(comment, commentOk, commentFilter.value);
-
             if (nameOk && ratingOk && weightOk && playersOk && timeOk && commentOk) {
                 row.style.visibility = "visible";
             }
