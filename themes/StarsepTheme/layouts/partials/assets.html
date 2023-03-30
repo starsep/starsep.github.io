@@ -44,16 +44,6 @@
 {{- $code := $params.code | default dict -}}
 {{- $config = cond (ne $code.maxShownLines nil) $code.maxShownLines 10 | dict "maxShownLines" | dict "code" | merge $config -}}
 
-{{- /* Mapbox GL */ -}}
-{{- if (.Scratch.Get "this").mapbox -}}
-    {{- $source := "lib/mapbox-gl/mapbox-gl.min.css" -}}
-    {{- dict "Source" $source | dict "Scratch" .Scratch "Data" | partial "scratch/style.html" -}}
-    {{- $source := "lib/mapbox-gl/mapbox-gl.min.js" -}}
-    {{- dict "Source" $source | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
-    {{- dict "Source" "lib/mapbox-gl/mapbox-gl-language.js" "Minify" true | dict "Scratch" .Scratch "Data" | partial "scratch/script.html" -}}
-    {{- $config = dict "accessToken" $params.mapbox.accessToken "RTLTextPlugin" "https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-rtl-text/v0.2.0/mapbox-gl-rtl-text.js" | dict "mapbox" | merge $config -}}
-{{- end -}}
-
 {{- range $params.library.css -}}
     {{- dict "Source" . | dict "Scratch" $.Scratch "Data" | partial "scratch/style.html" -}}
 {{- end -}}

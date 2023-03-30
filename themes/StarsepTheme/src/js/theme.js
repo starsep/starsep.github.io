@@ -566,89 +566,6 @@ class Theme {
     if (this.config.math) renderMathInElement(document.body, this.config.math);
   }
 
-  initMapbox() {
-    if (this.config.mapbox) {
-      mapboxgl.accessToken = this.config.mapbox.accessToken;
-      mapboxgl.setRTLTextPlugin(this.config.mapbox.RTLTextPlugin);
-      this._mapboxArr = this._mapboxArr || [];
-      this.util.forEach(
-        document.getElementsByClassName("mapbox"),
-        ($mapbox) => {
-          const {
-            lng,
-            lat,
-            zoom,
-            lightStyle,
-            darkStyle,
-            marked,
-            navigation,
-            geolocate,
-            scale,
-            fullscreen,
-            optionsJson,
-          } = this.data[$mapbox.id];
-          const mapbox = new mapboxgl.Map({
-            container: $mapbox,
-            center: [lng, lat],
-            zoom: zoom,
-            minZoom: 0.2,
-            style: this.isDark ? darkStyle : lightStyle,
-            attributionControl: false,
-          });
-          if (marked) {
-            new mapboxgl.Marker().setLngLat([lng, lat]).addTo(mapbox);
-          }
-          if (navigation) {
-            mapbox.addControl(new mapboxgl.NavigationControl(), "bottom-right");
-          }
-          if (geolocate) {
-            mapbox.addControl(
-              new mapboxgl.GeolocateControl({
-                positionOptions: {
-                  enableHighAccuracy: true,
-                },
-                showUserLocation: true,
-                trackUserLocation: true,
-              }),
-              "bottom-right"
-            );
-          }
-          if (scale) {
-            mapbox.addControl(new mapboxgl.ScaleControl());
-          }
-          if (fullscreen) {
-            mapbox.addControl(new mapboxgl.FullscreenControl());
-          }
-          if (typeof optionsJson === "object" && optionsJson !== null) {
-            console.log(optionsJson);
-            mapbox.on("load", function () {
-              for (const source of optionsJson.sources) {
-                mapbox.addSource(source.id, source.properties);
-              }
-
-              for (const layer of optionsJson.layers) {
-                mapbox.addLayer(layer);
-              }
-            });
-          }
-          mapbox.addControl(new MapboxLanguage());
-          this._mapboxArr.push(mapbox);
-        }
-      );
-      this._mapboxOnSwitchTheme =
-        this._mapboxOnSwitchTheme ||
-        (() => {
-          this.util.forEach(this._mapboxArr, (mapbox) => {
-            const $mapbox = mapbox.getContainer();
-            const { lightStyle, darkStyle } = this.data[$mapbox.id];
-            mapbox.setStyle(this.isDark ? darkStyle : lightStyle);
-            mapbox.addControl(new MapboxLanguage());
-          });
-        });
-      this.switchThemeEventSet.add(this._mapboxOnSwitchTheme);
-    }
-  }
-
   initComment() {
     if (this.config.comment) {
       if (this.config.comment.utterances) {
@@ -770,7 +687,6 @@ class Theme {
       this.initTable();
       this.initHeaderLink();
       this.initMath();
-      this.initMapbox();
     } catch (err) {
       console.error(err);
     }
