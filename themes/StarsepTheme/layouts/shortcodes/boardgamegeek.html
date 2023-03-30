@@ -22,7 +22,9 @@
 </tr>
 </thead>
 {{ range $i, $row := $boardGameGeekData }}
-    {{ if ne $i 0 }}
+    {{ $previouslyOwned := index $row 10 }}
+    {{ $wishlist := index $row 12 }}
+    {{ if and (ne $i 0) (ne $previouslyOwned "1") (ne $wishlist "1") }}
     {{ $localName := index $row 0 }}
     {{ $gameId := index $row 1 }}
     {{ $comment:= index $row 15 }}
@@ -66,6 +68,7 @@
     const weightFilter = document.getElementById("weightFilter");
     const playersFilter = document.getElementById("playersFilter");
     const timeFilter = document.getElementById("timeFilter");
+    const commentFilter = document.getElementById("commentFilter");
     const boardGameRows = Array.from(document.getElementsByClassName("boardGameRow"));
 
     function updateFilters() {
@@ -85,22 +88,24 @@
             const playersMin = players[0];
             const playersMax = players[1];
             const expectedPlayers = Number(playersFilter.value);
-            const playersOk = expectedPlayers == 0 || (playersMin <= expectedPlayers && expectedPlayers <= playersMax);
+            const playersOk = expectedPlayers === 0 || (playersMin <= expectedPlayers && expectedPlayers <= playersMax);
 
             const time = Number(row.children[4].textContent.split(" min")[0]);
             const expectedTime = Number(timeFilter.value);
-            const timeOk = expectedTime == 0 || time <= Number(timeFilter.value);
+            const timeOk = expectedTime === 0 || time <= Number(timeFilter.value);
 
-            if (nameOk && ratingOk && weightOk && playersOk && timeOk) {
+            const comment = row.children[5].textContent;
+            const commentOk = textNormalize(comment).includes(textNormalize(commentFilter.value));
+
+            console.log(comment, commentOk, commentFilter.value);
+
+            if (nameOk && ratingOk && weightOk && playersOk && timeOk && commentOk) {
                 row.style.visibility = "visible";
             }
         });
     }
     updateFilters();
-    nameFilter.oninput = updateFilters;
-    ratingFilter.oninput = updateFilters;
-    weightFilter.oninput = updateFilters;
-    playersFilter.oninput = updateFilters;
-    timeFilter.oninput = updateFilters;
+    const filters = [nameFilter, ratingFilter, weightFilter, playersFilter, timeFilter, commentFilter];
+    for (const filter of filters) filter.oninput = updateFilters;
     filterRow.style.visibility = "visible";
 </script>
