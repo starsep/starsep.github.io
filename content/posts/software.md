@@ -4,6 +4,7 @@ slug: software
 date: 2022-01-27T19:33:51+01:00
 categories: ["Software"]
 tags: ["software", "open-source", "f-droid"]
+draft: true
 ---
 
 I am a big fan of open source software.
