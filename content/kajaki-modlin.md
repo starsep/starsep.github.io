@@ -1,9 +1,7 @@
 ---
+title: Kajaki Modlin
 slug: kajaki-modlin
-draft: true
 ---
-
-# Kajaki Modlin
 
 ## Kiedy?
 sobota, 21 sierpnia 2021, 10:45
