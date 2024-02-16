@@ -32,6 +32,13 @@ nix profile remove 42 # number from the list
 ## Upgrade all packages that were installed using an unlocked flake reference
 `nix profile upgrade '.*'`
 
+## Installing directly from nixpkgs repo
+```
+cd pkgs/by-name/ex/example
+nix-build -E 'with import <nixpkgs> {}; callPackage ./package.nix {}'
+nix profile install $(readlink result)
+```
+
 ## Some articles about Nix:
 - Zero to Nix https://zero-to-nix.com/
 - Some notes on using nix https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/
