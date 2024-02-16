@@ -16,7 +16,7 @@
 <meta name=application-name content="Filip Czaplicki">
 <meta name=apple-mobile-web-app-title content="Filip Czaplicki"><link rel="shortcut icon" type=image/x-icon href=/favicon.ico>
 <link rel=icon type=image/png sizes=32x32 href=/favicon-32x32.png>
-<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><link rel=canonical href=https://starsep.com/posts/nix/><link rel=prev href=https://starsep.com/posts/josm-bing-custom-url/><link rel=next href=https://starsep.com/posts/cli/><link rel=stylesheet href=/css/style.min.css><link rel=stylesheet href=/lib/fontawesome-free/all.min.css><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","headline":"Nix","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/starsep.com\/posts\/nix\/"},"genre":"posts","wordcount":191,"url":"https:\/\/starsep.com\/posts\/nix\/","datePublished":"2023-06-25T14:49:31+02:00","dateModified":"2023-06-25T14:49:31+02:00","publisher":{"@type":"Organization","name":"Filip Czaplicki"},"author":{"@type":"Person","name":"Filip Czaplicki"},"description":""}</script><link rel=stylesheet href=https://unpkg.com/leaflet@1.9.3/dist/leaflet.css integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin>
+<link rel=icon type=image/png sizes=16x16 href=/favicon-16x16.png><link rel=manifest href=/site.webmanifest><link rel=canonical href=https://starsep.com/posts/nix/><link rel=prev href=https://starsep.com/posts/josm-bing-custom-url/><link rel=next href=https://starsep.com/posts/cli/><link rel=stylesheet href=/css/style.min.css><link rel=stylesheet href=/lib/fontawesome-free/all.min.css><script type=application/ld+json>{"@context":"http://schema.org","@type":"BlogPosting","headline":"Nix","inLanguage":"en","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/starsep.com\/posts\/nix\/"},"genre":"posts","wordcount":212,"url":"https:\/\/starsep.com\/posts\/nix\/","datePublished":"2023-06-25T14:49:31+02:00","dateModified":"2023-06-25T14:49:31+02:00","publisher":{"@type":"Organization","name":"Filip Czaplicki"},"author":{"@type":"Person","name":"Filip Czaplicki"},"description":""}</script><link rel=stylesheet href=https://unpkg.com/leaflet@1.9.3/dist/leaflet.css integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=" crossorigin>
 <script src=https://unpkg.com/leaflet@1.9.3/dist/leaflet.js integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=" crossorigin></script>
 <script src=https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js></script>
 <link href=https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css rel=stylesheet>
@@ -92,7 +92,7 @@ Cancel
 <div class=toc-content id=toc-content-auto></div>
 </div><article class="page single"><h1 class=single-title>Nix</h1><div class=post-meta>
 <div class=post-meta-line><span class=post-author><a href=/ title=Author rel=author class=author><i class="fas fa-user-circle fa-fw"></i>Filip Czaplicki</a></span></div>
-<div class=post-meta-line><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2023-06-25>2023-06-25</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;191 words&nbsp;
+<div class=post-meta-line><i class="far fa-calendar-alt fa-fw"></i>&nbsp;<time datetime=2023-06-25>2023-06-25</time>&nbsp;<i class="fas fa-pencil-alt fa-fw"></i>&nbsp;212 words&nbsp;
 <i class="far fa-clock fa-fw"></i>&nbsp;One minute&nbsp;</div>
 </div><div class="details toc" id=toc-static kept>
 <div class="details-summary toc-title">
@@ -107,6 +107,7 @@ Cancel
 <li><a href=#remove-software-package>Remove software package</a></li>
 <li><a href=#clean-up-old-packages>Clean-up old packages</a></li>
 <li><a href=#upgrade-all-packages-that-were-installed-using-an-unlocked-flake-reference>Upgrade all packages that were installed using an unlocked flake reference</a></li>
+<li><a href=#installing-directly-from-nixpkgs-repo>Installing directly from nixpkgs repo</a></li>
 <li><a href=#some-articles-about-nix>Some articles about Nix:</a></li>
 </ul>
 </nav></div>
@@ -131,7 +132,11 @@ nix profile remove 42 # number from the list
 <p><code>nix-collect-garbage -d</code></p>
 <h2 id=upgrade-all-packages-that-were-installed-using-an-unlocked-flake-reference>Upgrade all packages that were installed using an unlocked flake reference</h2>
 <p><code>nix profile upgrade '.*'</code></p>
-<h2 id=some-articles-about-nix>Some articles about Nix:</h2>
+<h2 id=installing-directly-from-nixpkgs-repo>Installing directly from nixpkgs repo</h2>
+<pre tabindex=0><code>cd pkgs/by-name/ex/example
+nix-build -E 'with import &lt;nixpkgs&gt; {}; callPackage ./package.nix {}'
+nix profile install $(readlink result)
+</code></pre><h2 id=some-articles-about-nix>Some articles about Nix:</h2>
 <ul>
 <li>Zero to Nix <a href=https://zero-to-nix.com/ target=_blank rel="noopener noreferrer">https://zero-to-nix.com/</a></li>
 <li>Some notes on using nix <a href=https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/ target=_blank rel="noopener noreferrer">https://jvns.ca/blog/2023/02/28/some-notes-on-using-nix/</a></li>
@@ -164,7 +169,7 @@ nix profile remove 42 # number from the list
 </article></div>
 </main><footer class=footer>
 <div class=footer-container><div class=footer-line>Powered by <a href=https://gohugo.io/ target=_blank rel="noopener noreferrer" title="Hugo 0.92.2">Hugo</a> | Theme - <a href=https://github.com/sunt-programator/CodeIT target=_blank rel="noopener noreferrer" title="CodeIT <nil>"><i class="fas fa-laptop-code fa-fw"></i> CodeIT</a>
-</div><div class=footer-line><i class="far fa-copyright fa-fw"></i><span itemprop=copyrightYear>2023</span><span class=author itemprop=copyrightHolder>&nbsp;<a href=/ target=_blank rel="noopener noreferrer"></a></span></div>
+</div><div class=footer-line><i class="far fa-copyright fa-fw"></i><span itemprop=copyrightYear>2024</span><span class=author itemprop=copyrightHolder>&nbsp;<a href=/ target=_blank rel="noopener noreferrer"></a></span></div>
 </div>
 </footer></div>
 <div id=fixed-buttons><a href=# id=back-to-top class=fixed-button title="Back to Top">
