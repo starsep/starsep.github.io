@@ -1,0 +1,10 @@
+media: static
+content:
+  - name: posts
+    label: Posts
+    type: collection
+    path: content/posts
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: slug, label: Slug, type: string }
+      - { name: toc, label: TableOfContent, type: boolean }
