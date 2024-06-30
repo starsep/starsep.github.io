@@ -122,7 +122,7 @@ publishDir = "generated"
       enable = true
       avatarURL = "/img/avatar.jpg"
       title = "Filip Czaplicki"
-      subtitle = "Android & Web Developer"
+      subtitle = "Web & Android Developer"
       social = true
       disclaimer = ""
     [params.home.posts]
@@ -132,16 +132,14 @@ publishDir = "generated"
   # Social config about the author
   [params.social]
     GitHub = "starsep"
-    # Facebook = "Starsep"
     # Gitlab = "starsep"
     # Bitbucket = "starsep"
     # Stackoverflow = "5307071"
     Steam = "starsep"
     Email = "website@starsep.com"
-    Googleplay = "Filip+Czaplicki"
-    Googlemaps = "108497929507145891013"
     openstreetmap = "starsep"
-    MSCCezar = "16053"
+    lockme = "131533/starsep"
+    msccezar = "16053"
     RSS = true
 
 [markup]

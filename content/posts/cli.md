@@ -4,7 +4,6 @@ slug: cli
 date: 2023-08-09T21:35:26+02:00
 ---
 
-## Intro
 This is the list of CLI tools I found useful someday.
 It is useful reference as remembering all script names and options is cumbersome.
 Especially those I use rarely.

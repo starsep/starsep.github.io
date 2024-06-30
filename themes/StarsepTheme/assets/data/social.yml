@@ -136,11 +136,18 @@ openstreetmap:
     # TODO: use https://github.com/FortAwesome/Font-Awesome/issues/4317 once merged
     Class: fas fa-search-location fa-fw
 
-MSCCezar:
-  Prefix: https://msc.com.pl/cezar/?p=21&pid=
+lockme:
+  Template: https://lock.me/user/%v
+  Title: Lockme (escape rooms)
+  Icon:
+    Class: fas fa-lock fa-fw
+
+msccezar:
+  Template: https://msc.com.pl/cezar/?p=21&pid=%v
   Title: MSC Cezar (bridge/brydż)
   Icon:
     Class: fas fa-heart fa-fw
+
 rss:
   Url: /index.xml
   Title: RSS
