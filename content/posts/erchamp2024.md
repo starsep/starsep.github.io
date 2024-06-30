@@ -7,7 +7,7 @@ toc: false
 
 I took part in the qualifications for [World Escape Room Championship 2024](https://erchamp.com)
 competition. It was a great experience.
-Qualification game was online point-and-click game with puzzles.
+Qualifications were online point-and-click game with puzzles.
 
 I was a member of PKP team with my friends: Mateusz, Tomasz, and Magda.
 We managed to solve all the puzzles in 03:40:15 which gave us 35th place.
