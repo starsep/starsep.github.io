@@ -18,7 +18,7 @@ Our goal was to be in top 100 which we achieved.
 
 We were stuck for three puzzles for a long time.
 First one was advanced settings for tv. We think our early solution was logical but incorrect.
-Second one was a puzzle with a Shinobi Inu dog, drums, and song.
+Second one was a puzzle with a Shiba Inu dog, drums, and song.
 We eventually figured out the correct solution but Polish version of the game was bugged.
 Many teams had problem with it.
 Third one was easy, but we thought different information was needed to solve it.
