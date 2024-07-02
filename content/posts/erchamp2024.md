@@ -11,7 +11,7 @@ Qualifications were online point-and-click game with puzzles.
 
 I was a member of PKP team with my friends: Mateusz, Tomasz, and Magda.
 We managed to solve all the puzzles in 03:40:15 which gave us 35th place.
-See full results at https://erchamp.com/results/16
+See full results at https://erchamp.com/level/intro/16
 
 It was first time we participated, and we are happy with the result.
 Our goal was to be in top 100 which we achieved.
