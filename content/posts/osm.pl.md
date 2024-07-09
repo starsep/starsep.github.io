@@ -32,6 +32,9 @@ Utrzymuję kilka projektów związanych z OpenStreetMap:
   * dostępny na https://starsep.com/mapaUMWarszawa2GeoJSON/
   * konwertuje dane z [mapa.um.warszawa.pl](https://mapa.um.warszawa.pl) do formatu GeoJSON
   * porównuje dane z OpenStreetMap i usuwa prawdopodobne duplikaty na podstawie odległości
+- [Warszawskie dane rowerowe](https://github.com/openstreetmap-polska/Warszawskie_dane_rowerowe)
+  * dane udostępniane przez miasto Warszawa o infrastrukturze rowerowej
+  * skrypt do porównywania danych z OpenStreetMap
 - [gtfs-tczew](https://github.com/starsep/gtfs-tczew)
   * narzędzie do generowania danych transportu publicznego w Tczewie do formatu [GTFS](https://gtfs.org/)
   * porównuje dane z OpenStreetMap
