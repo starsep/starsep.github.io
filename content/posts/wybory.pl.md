@@ -2,6 +2,7 @@
 title: Wybory 2024
 slug: wybory-2024
 date: 2024-04-05T18:20:53+02:00
+tags: ["Warszawa"]
 ---
 
 Kandyduję na radnego dzielnicy Wola m. st. Warszawy!

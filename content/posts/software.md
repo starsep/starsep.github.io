@@ -3,7 +3,7 @@ title: "Software I use"
 slug: software
 date: 2022-01-27T19:33:51+01:00
 categories: ["Software"]
-tags: ["software", "open-source", "f-droid"]
+tags: ["Software", "OpenSource", "F-Droid"]
 draft: true
 ---
 

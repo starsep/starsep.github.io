@@ -3,6 +3,7 @@ title: "ER Champ 2024"
 slug: erchamp2024
 date: 2024-06-30T17:35:59+02:00
 toc: false
+tags: ["Games"]
 ---
 
 I took part in the qualifications for [World Escape Room Championship 2024](https://erchamp.com)

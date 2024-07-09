@@ -1,7 +1,7 @@
 ---
 title: "JOSM: Bing StreetSide with Utilsplugin2 => Open custom URL"
 slug: josm-bing-custom-url
-tags: ["openstreetmap"]
+tags: ["OpenStreetMap"]
 date: 2023-01-22T18:55:27+01:00
 toc: false
 ---

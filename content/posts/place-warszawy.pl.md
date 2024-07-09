@@ -2,6 +2,7 @@
 title: "Place Warszawy"
 slug: place-warszawy
 date: 2023-03-30T18:17:36+02:00
+tags: ["Warszawa", "OpenStreetMap"]
 ---
 
 Postanowiłem podsumować jak wyglądają place w Warszawie.

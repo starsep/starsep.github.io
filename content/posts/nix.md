@@ -2,6 +2,7 @@
 title: Nix
 slug: nix
 date: 2023-06-25T14:49:31+02:00
+tags: ["Software", "Nix"]
 ---
 
 ## What is Nix?

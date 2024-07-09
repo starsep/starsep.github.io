@@ -2,6 +2,7 @@
 title: "Porównanie danych OSM z Warszawskim Transportem Publicznym"
 slug: osm-wtp
 date: 2023-01-07T19:48:56+01:00
+tags: ["OpenStreetMap", "Warszawa", "OpenSource"]
 ---
 
 ## Wprowadzenie 

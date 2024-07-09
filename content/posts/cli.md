@@ -2,6 +2,7 @@
 title: "CLI"
 slug: cli
 date: 2023-08-09T21:35:26+02:00
+tags: ["Software"]
 ---
 
 This is the list of CLI tools I found useful someday.
