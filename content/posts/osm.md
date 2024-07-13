@@ -14,7 +14,7 @@ I maintain a few software projects related to OpenStreetMap:
   * it's a worldwide map of automated external defibrillators
   * data comes from OpenStreetMap
   * users can add new AEDs directly on our website
-- [osm-wtp-compare](https://github.com/starsep/osm-wtp-compare)
+- [osm-wtp](https://github.com/starsep/osm-wtp)
   * hosted at https://starsep.com/osm-wtp/
   * compares public transport data from Warsaw Transport Authority with OpenStreetMap
   * it's a tool for finding errors and missing data in public transport data

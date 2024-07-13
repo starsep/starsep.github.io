@@ -14,7 +14,7 @@ Utrzymuję kilka projektów związanych z OpenStreetMap:
   * mapa automatycznych defibrylatorów zewnętrznych (AED) na całym świecie
   * dane pochodzą z OpenStreetMap
   * użytkownicy mogą dodawać nowe AED bezpośrednio na naszej stronie
-- [osm-wtp-compare](https://github.com/starsep/osm-wtp-compare)
+- [osm-wtp](https://github.com/starsep/osm-wtp)
   * dostępny na https://starsep.com/osm-wtp/
   * porównuje dane z Warszawskiego Transportu Publicznego z OpenStreetMap
   * narzędzie do znajdowania błędów i braków w danych transportu publicznego

@@ -50,8 +50,8 @@ Jest także sporo narzędzi Quality Assurance, które znajdują błędy w relacj
 
 ## Szczegóły techniczne
 - Strona jest hostowana za pomocą [GitHub Pages](https://pages.github.com/).
-- Kod można znaleźć na [GitHubie](https://github.com/starsep/osm-wtp-compare).
-- Wygenerowany HTML jest w osobnym [repozytorium](https://github.com/starsep/osm-wtp).
+- Kod można znaleźć na [GitHubie](https://github.com/starsep/osm-wtp).
+- Wygenerowany HTML jest na branchu [gh-pages](https://github.com/starsep/osm-wtp/tree/gh-pages).
 - Skrypt jest zaimplementowany w [Pythonie](https://python.org).
 - Ze względu na wydajność używam [PyPy](https://pypy.org) 3.9.
 - HTML generowany jest za pomocą [Jinja2](https://jinja.palletsprojects.com).
