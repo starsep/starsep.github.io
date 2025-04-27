@@ -25,14 +25,6 @@ publishDir = "generated"
         url = "/tags/"
         title = ""
         weight = 2
-      [[languages.en.menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-        weight = 3
       #   [[languages.en.menu.main]]
       #     identifier = "about"
       #     pre = ""
@@ -48,7 +40,7 @@ publishDir = "generated"
         name = "Resume (CV)"
         url = "/cv/cv.pdf"
         title = ""
-        weight = 4
+        weight = 3
       [[languages.en.menu.main]]
         identifier = "boardgames"
         pre = ""
@@ -56,7 +48,7 @@ publishDir = "generated"
         name = "Board games"
         url = "/board-games-collection/"
         title = "My board games collection"
-        weight = 5
+        weight = 4
   [languages.pl]
     weight = 2
     languageCode = "pl"
@@ -78,14 +70,6 @@ publishDir = "generated"
         url = "/tags/"
         title = ""
         weight = 2
-      [[languages.pl.menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Kategorie"
-        url = "/categories/"
-        title = ""
-        weight = 3
         #   [[languages.en.menu.main]]
         #     identifier = "about"
         #     pre = ""
@@ -101,7 +85,7 @@ publishDir = "generated"
         name = "CV"
         url = "../cv/cv.pdf"
         title = ""
-        weight = 4
+        weight = 3
       [[languages.pl.menu.main]]
         identifier = "boardgames"
         pre = ""
@@ -109,7 +93,7 @@ publishDir = "generated"
         name = "Gry planszowe"
         url = "/kolekcja-gier-planszowych/"
         title = "Moja kolekcja gier planszowych"
-        weight = 5
+        weight = 4
 [params]
   gitRepo = "starsep/starsep.github.io"
   defaulttheme = "dark"
