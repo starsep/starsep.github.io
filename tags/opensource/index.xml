@@ -1,3 +1,57 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>OpenSource - Tag - Filip Czaplicki</title><link>https://starsep.com/tags/opensource/</link><description>OpenSource - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Jul 2024 20:52:32 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/opensource/" rel="self" type="application/rss+xml"/><item><title>OpenStreetMap Software Projects</title><link>https://starsep.com/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/posts/osm/</guid><description><![CDATA[I&rsquo;ve been contributing to OpenStreetMap for a few years now. Basically it&rsquo;s a map that anyone can edit: Wikipedia for maps.
-I maintain a few software projects related to OpenStreetMap:
-openaedmap-frontend: frontend of OpenAEDMap project it&rsquo;s a worldwide map of automated external defibrillators data comes from OpenStreetMap users can add new AEDs directly on our website osm-wtp hosted at https://starsep.com/osm-wtp/ compares public transport data from Warsaw Transport Authority with OpenStreetMap it&rsquo;s a tool for finding errors and missing data in public transport data more details in this blog post (only in Polish) NextbikeOSM, RooveeOSM, and MevoOSM tools for comparing bike-sharing data with OpenStreetMap: Nextbike, Roovee, and Mevo respectively forked from javnik36/NextbikeOSM hosted at https://starsep.]]></description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>OpenSource - Tag - Filip Czaplicki</title><link>https://starsep.com/tags/opensource/</link><description>OpenSource - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Jul 2024 20:52:32 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/opensource/" rel="self" type="application/rss+xml"/><item><title>OpenStreetMap Software Projects</title><link>https://starsep.com/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/posts/osm/</guid><description><![CDATA[<p>I&rsquo;ve been contributing to OpenStreetMap for a few years now.
+Basically it&rsquo;s a map that anyone can edit: Wikipedia for maps.</p>
+<p>I maintain a few software projects related to OpenStreetMap:</p>
+<ul>
+<li><a href="https://github.com/openstreetmap-polska/openaedmap-frontend" target="_blank" rel="noopener noreferrer">openaedmap-frontend</a>:
+<ul>
+<li>frontend of <a href="https://openaedmap.org" target="_blank" rel="noopener noreferrer">OpenAEDMap</a> project</li>
+<li>it&rsquo;s a worldwide map of automated external defibrillators</li>
+<li>data comes from OpenStreetMap</li>
+<li>users can add new AEDs directly on our website</li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/osm-wtp" target="_blank" rel="noopener noreferrer">osm-wtp</a>
+<ul>
+<li>hosted at <a href="https://starsep.com/osm-wtp/" target="_blank" rel="noopener noreferrer">https://starsep.com/osm-wtp/</a></li>
+<li>compares public transport data from Warsaw Transport Authority with OpenStreetMap</li>
+<li>it&rsquo;s a tool for finding errors and missing data in public transport data</li>
+<li>more details in <a href="https://starsep.com/pl/posts/osm-wtp/" target="_blank" rel="noopener noreferrer">this blog post (only in Polish)</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/NextbikeOSM/" target="_blank" rel="noopener noreferrer">NextbikeOSM</a>, <a href="https://github.com/starsep/RooveeOSM" target="_blank" rel="noopener noreferrer">RooveeOSM</a>, and <a href="https://github.com/starsep/MevoOSM" target="_blank" rel="noopener noreferrer">MevoOSM</a>
+<ul>
+<li>tools for comparing bike-sharing data with OpenStreetMap: Nextbike, Roovee, and Mevo respectively</li>
+<li>forked from <a href="https://github.com/javnik36/NextbikeOSM" target="_blank" rel="noopener noreferrer">javnik36/NextbikeOSM</a></li>
+<li>hosted at <a href="https://starsep.com/NextbikeOSM/" target="_blank" rel="noopener noreferrer">https://starsep.com/NextbikeOSM/</a>, <a href="https://starsep.com/RooveeOSM/" target="_blank" rel="noopener noreferrer">https://starsep.com/RooveeOSM/</a>, and <a href="https://starsep.com/MevoOSM/" target="_blank" rel="noopener noreferrer">https://starsep.com/MevoOSM/</a></li>
+<li>planned to be merged into one tool - they share a lot of code</li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/StreetCompleteStats" target="_blank" rel="noopener noreferrer">StreetCompleteStats</a>
+<ul>
+<li>tool for generating statistics for quest for <a href="https://wiki.openstreetmap.org/wiki/StreetComplete" target="_blank" rel="noopener noreferrer">StreetComplete</a> - mobile editor for OpenStreetMap</li>
+<li>currently used only for cities in Poland</li>
+<li>hosted at <a href="https://starsep.com/StreetCompleteStats/" target="_blank" rel="noopener noreferrer">https://starsep.com/StreetCompleteStats/</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/mapaUMWarszawa2GeoJSON" target="_blank" rel="noopener noreferrer">mapaUMWarszawa2GeoJSON</a>
+<ul>
+<li>hosted at <a href="https://starsep.com/mapaUMWarszawa2GeoJSON/" target="_blank" rel="noopener noreferrer">https://starsep.com/mapaUMWarszawa2GeoJSON/</a></li>
+<li>converts data from <a href="https://mapa.um.warszawa.pl" target="_blank" rel="noopener noreferrer">mapa.um.warszawa.pl</a> to GeoJSON</li>
+<li>can compare data with OpenStreetMap and remove possible duplicates by distance</li>
+</ul>
+</li>
+<li><a href="https://github.com/openstreetmap-polska/Warszawskie_dane_rowerowe" target="_blank" rel="noopener noreferrer">Warszawskie dane rowerowe</a>
+<ul>
+<li>data provided by the city of Warsaw about cycling infrastructure</li>
+<li>script for comparing data with OpenStreetMap</li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/gtfs-tczew" target="_blank" rel="noopener noreferrer">gtfs-tczew</a>
+<ul>
+<li>tool for generating public transportation data in Tczew to <a href="https://gtfs.org/" target="_blank" rel="noopener noreferrer">GTFS</a> format</li>
+<li>compares data with OpenStreetMap</li>
+</ul>
+</li>
+</ul>
+<p>All these projects are open-source.
+Most of them are static websites regularly re-generated with scripts.</p>]]></description></item></channel></rss>

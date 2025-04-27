@@ -1,10 +1,89 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>OpenStreetMap - Tag - Filip Czaplicki</title><link>https://starsep.com/pl/tags/openstreetmap/</link><description>OpenStreetMap - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>pl</language><lastBuildDate>Tue, 09 Jul 2024 20:52:32 +0200</lastBuildDate><atom:link href="https://starsep.com/pl/tags/openstreetmap/" rel="self" type="application/rss+xml"/><item><title>Projekty związane z OpenStreetMap</title><link>https://starsep.com/pl/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/pl/posts/osm/</guid><description>Od kilku lat współtworzę OpenStreetMap. To w skrócie mapa, którą każdy może edytować: Wikipedia dla map.
-Utrzymuję kilka projektów związanych z OpenStreetMap:
-openaedmap-frontend: frontend projektu OpenAEDMap mapa automatycznych defibrylatorów zewnętrznych (AED) na całym świecie dane pochodzą z OpenStreetMap użytkownicy mogą dodawać nowe AED bezpośrednio na naszej stronie osm-wtp dostępny na https://starsep.com/osm-wtp/ porównuje dane z Warszawskiego Transportu Publicznego z OpenStreetMap narzędzie do znajdowania błędów i braków w danych transportu publicznego więcej szczegółów w tym poście NextbikeOSM, RooveeOSM i MevoOSM narzędzia do porównywania danych systemów rowerów miejskich z OpenStreetMap: Nextbike, Roovee i Mevo fork javnik36/NextbikeOSM dostępne na https://starsep.</description></item><item><title>Place Warszawy</title><link>https://starsep.com/pl/posts/place-warszawy/</link><pubDate>Thu, 30 Mar 2023 18:17:36 +0200</pubDate><guid>https://starsep.com/pl/posts/place-warszawy/</guid><description>Postanowiłem podsumować jak wyglądają place w Warszawie. Zainspirowałem się albumem Najpiękniejsze parkingi Warszawy. Zajmuje się on placami, głównie w centrum miasta, zamienionymi w parkingi.
-W tym artykule spojrzę na obiekty, których nazwa zaczyna się od &amp;ldquo;Plac &amp;quot; w OpenStreetMap. Do analizy odrzucam place zabaw, budowy oraz manewrowe.
-Definicja placu według &amp;nbsp;Wikipedia Plac (niem. Platz – puste miejsce; z łac. platea – szeroka ulica, bulwar, plac; od gr. πλατεῖα ὁδός – plateia hodos – szeroka ulica) – wolna, niezabudowana przestrzeń miejska, zwykle w kształcie prostokąta lub kwadratu, ograniczona zabudową, ulicami, zielenią, przeważnie wyłączona z ruchu pojazdów.</description></item><item><title>JOSM: Bing StreetSide za pomocą Utilsplugin2 => Open custom URL</title><link>https://starsep.com/pl/posts/josm-bing-custom-url/</link><pubDate>Sun, 22 Jan 2023 18:55:27 +0100</pubDate><guid>https://starsep.com/pl/posts/josm-bing-custom-url/</guid><description><![CDATA[Bing StreetSide to odpowiednik Google Street View, który można używać do mapowania w OpenStreetMap. Istnieje plugin MicrosoftStreetside do JOSMa, ale niestety u mnie nie działa ze względu zależność od JavaFX/widoki 360.
-Poradziłem sobie za pomocą użycia pluginu Utilsplugin2.
-Edit =&gt; Preferences (F12) =&gt; Utilsplugin2 settings Należy dodać nowy wiersz klikając z nazwą Bing StreetSide oraz url https://www.bing.com/maps?cp={#lat}%7E{#lon}&amp;lvl=19.0&amp;style=x.
-W razie problemów można edytować plik customurl.txt. Dla Linuksa z Flatpakiem jest on w ~/.]]></description></item><item><title>Porównanie danych OSM z Warszawskim Transportem Publicznym</title><link>https://starsep.com/pl/posts/osm-wtp/</link><pubDate>Sat, 07 Jan 2023 19:48:56 +0100</pubDate><guid>https://starsep.com/pl/posts/osm-wtp/</guid><description>Wprowadzenie Stworzyłem stronę https://starsep.com/osm-wtp/. Można na niej znaleźć porównanie danych OpenStreetMap transportu publicznego aglomeracji warszawskiej z danymi Warszawskiego Transportu Publicznego. Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych. Porównuję dla każdego wariantu linii listę przystanków. Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.
-Treść strony Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z ❌.
-Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.</description></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>OpenStreetMap - Tag - Filip Czaplicki</title><link>https://starsep.com/pl/tags/openstreetmap/</link><description>OpenStreetMap - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>pl</language><lastBuildDate>Tue, 09 Jul 2024 20:52:32 +0200</lastBuildDate><atom:link href="https://starsep.com/pl/tags/openstreetmap/" rel="self" type="application/rss+xml"/><item><title>Projekty związane z OpenStreetMap</title><link>https://starsep.com/pl/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/pl/posts/osm/</guid><description><![CDATA[<p>Od kilku lat współtworzę OpenStreetMap.
+To w skrócie mapa, którą każdy może edytować: Wikipedia dla map.</p>
+<p>Utrzymuję kilka projektów związanych z OpenStreetMap:</p>
+<ul>
+<li><a href="https://github.com/openstreetmap-polska/openaedmap-frontend" target="_blank" rel="noopener noreferrer">openaedmap-frontend</a>:
+<ul>
+<li>frontend projektu <a href="https://openaedmap.org" target="_blank" rel="noopener noreferrer">OpenAEDMap</a></li>
+<li>mapa automatycznych defibrylatorów zewnętrznych (AED) na całym świecie</li>
+<li>dane pochodzą z OpenStreetMap</li>
+<li>użytkownicy mogą dodawać nowe AED bezpośrednio na naszej stronie</li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/osm-wtp" target="_blank" rel="noopener noreferrer">osm-wtp</a>
+<ul>
+<li>dostępny na <a href="https://starsep.com/osm-wtp/" target="_blank" rel="noopener noreferrer">https://starsep.com/osm-wtp/</a></li>
+<li>porównuje dane z Warszawskiego Transportu Publicznego z OpenStreetMap</li>
+<li>narzędzie do znajdowania błędów i braków w danych transportu publicznego</li>
+<li>więcej szczegółów w <a href="https://starsep.com/pl/posts/osm-wtp/" target="_blank" rel="noopener noreferrer">tym poście</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/NextbikeOSM/" target="_blank" rel="noopener noreferrer">NextbikeOSM</a>, <a href="https://github.com/starsep/RooveeOSM" target="_blank" rel="noopener noreferrer">RooveeOSM</a> i <a href="https://github.com/starsep/MevoOSM" target="_blank" rel="noopener noreferrer">MevoOSM</a>
+<ul>
+<li>narzędzia do porównywania danych systemów rowerów miejskich z OpenStreetMap: Nextbike, Roovee i Mevo</li>
+<li>fork <a href="https://github.com/javnik36/NextbikeOSM" target="_blank" rel="noopener noreferrer">javnik36/NextbikeOSM</a></li>
+<li>dostępne na <a href="https://starsep.com/NextbikeOSM/" target="_blank" rel="noopener noreferrer">https://starsep.com/NextbikeOSM/</a>, <a href="https://starsep.com/RooveeOSM/" target="_blank" rel="noopener noreferrer">https://starsep.com/RooveeOSM/</a> i <a href="https://starsep.com/MevoOSM/" target="_blank" rel="noopener noreferrer">https://starsep.com/MevoOSM/</a></li>
+<li>planowane połączenie w jedno narzędzie - współdzielą dużo kodu</li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/StreetCompleteStats" target="_blank" rel="noopener noreferrer">StreetCompleteStats</a>
+<ul>
+<li>narzędzie do generowania statystyk dla zadań w <a href="https://wiki.openstreetmap.org/wiki/Pl:StreetComplete" target="_blank" rel="noopener noreferrer">StreetComplete</a> - mobilnego edytora OpenStreetMap</li>
+<li>aktualnie tylko dla miast w Polsce</li>
+<li>dostępny na <a href="https://starsep.com/StreetCompleteStats/" target="_blank" rel="noopener noreferrer">https://starsep.com/StreetCompleteStats/</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/mapaUMWarszawa2GeoJSON" target="_blank" rel="noopener noreferrer">mapaUMWarszawa2GeoJSON</a>
+<ul>
+<li>dostępny na <a href="https://starsep.com/mapaUMWarszawa2GeoJSON/" target="_blank" rel="noopener noreferrer">https://starsep.com/mapaUMWarszawa2GeoJSON/</a></li>
+<li>konwertuje dane z <a href="https://mapa.um.warszawa.pl" target="_blank" rel="noopener noreferrer">mapa.um.warszawa.pl</a> do formatu GeoJSON</li>
+<li>porównuje dane z OpenStreetMap i usuwa prawdopodobne duplikaty na podstawie odległości</li>
+</ul>
+</li>
+<li><a href="https://github.com/openstreetmap-polska/Warszawskie_dane_rowerowe" target="_blank" rel="noopener noreferrer">Warszawskie dane rowerowe</a>
+<ul>
+<li>dane udostępniane przez miasto Warszawa o infrastrukturze rowerowej</li>
+<li>skrypt do porównywania danych z OpenStreetMap</li>
+</ul>
+</li>
+<li><a href="https://github.com/starsep/gtfs-tczew" target="_blank" rel="noopener noreferrer">gtfs-tczew</a>
+<ul>
+<li>narzędzie do generowania danych transportu publicznego w Tczewie do formatu <a href="https://gtfs.org/" target="_blank" rel="noopener noreferrer">GTFS</a></li>
+<li>porównuje dane z OpenStreetMap</li>
+</ul>
+</li>
+</ul>
+<p>Wszystkie te projekty są open-source.
+Większość z nich to strony statyczne regularnie generowane za pomocą skryptów.</p>]]></description></item><item><title>Place Warszawy</title><link>https://starsep.com/pl/posts/place-warszawy/</link><pubDate>Thu, 30 Mar 2023 18:17:36 +0200</pubDate><guid>https://starsep.com/pl/posts/place-warszawy/</guid><description><![CDATA[<p>Postanowiłem podsumować jak wyglądają place w Warszawie.
+Zainspirowałem się albumem <a href="https://miastojestnasze.org/premiera-albumu-najpiekniejsze-parkingi-warszawy/" target="_blank" rel="noopener noreferrer">Najpiękniejsze parkingi Warszawy</a>.
+Zajmuje się on placami, głównie w centrum miasta, zamienionymi w parkingi.</p>
+<p>W tym artykule spojrzę na obiekty, których nazwa zaczyna się od &ldquo;Plac &quot; w OpenStreetMap.
+Do analizy odrzucam place zabaw, budowy oraz manewrowe.</p>
+<p>Definicja placu według <a href="https://pl.wikipedia.org/wiki/Plac">
+    <i class="fa-brands fa-wikipedia-w"></i>&nbsp;Wikipedia
+</a></p>
+<blockquote>
+<p>Plac (niem. Platz – puste miejsce; z łac. platea – szeroka ulica, bulwar, plac; od gr. πλατεῖα ὁδός – plateia hodos – szeroka ulica) – wolna, niezabudowana przestrzeń miejska, zwykle w kształcie prostokąta lub kwadratu, ograniczona zabudową, ulicami, zielenią, przeważnie wyłączona z ruchu pojazdów. Często plac zdominowany jest przez charakterystyczną budowlę lub ich zespół (obiekty sakralne, gmachy użyteczności publicznej, zamki i pałace), a w jego obrębie znajdują się zazwyczaj pomniki, kolumny, fontanny, słupy ogłoszeniowe i inne obiekty małej architektury.</p>]]></description></item><item><title>JOSM: Bing StreetSide za pomocą Utilsplugin2 => Open custom URL</title><link>https://starsep.com/pl/posts/josm-bing-custom-url/</link><pubDate>Sun, 22 Jan 2023 18:55:27 +0100</pubDate><guid>https://starsep.com/pl/posts/josm-bing-custom-url/</guid><description><![CDATA[<p>Bing StreetSide to odpowiednik Google Street View, który można używać do mapowania w OpenStreetMap.
+Istnieje plugin MicrosoftStreetside do JOSMa, ale niestety u mnie nie działa ze względu zależność od JavaFX/widoki 360.</p>
+<p>Poradziłem sobie za pomocą użycia pluginu Utilsplugin2.</p>
+<ol>
+<li>Edit =&gt; Preferences (F12) =&gt; Utilsplugin2 settings</li>
+<li>Należy dodać nowy wiersz klikając z nazwą <code>Bing StreetSide</code> oraz url <code>https://www.bing.com/maps?cp={#lat}%7E{#lon}&amp;lvl=19.0&amp;style=x</code>.<br>
+W razie problemów można edytować plik customurl.txt. Dla Linuksa z Flatpakiem jest on w <code>~/.var/app/org.openstreetmap.josm/data/JOSM/plugins/utilsplugin2/customurl.txt</code>.</li>
+<li>Należy wybrać <code>Bing StreetSide</code> w Data =&gt; Select custom URL</li>
+<li>Teraz można otworzyć Bing StreetSide za pomocą Data =&gt; Open custom URL (Shift+H)</li>
+</ol>
+<p>Jeżeli w danym miejscu jest dostępny StreetSide to zostanie otwarty. Jeżeli nie to otworzy się mapa z ulicami na niebiesko w miejscach, gdzie jest dostępny.</p>]]></description></item><item><title>Porównanie danych OSM z Warszawskim Transportem Publicznym</title><link>https://starsep.com/pl/posts/osm-wtp/</link><pubDate>Sat, 07 Jan 2023 19:48:56 +0100</pubDate><guid>https://starsep.com/pl/posts/osm-wtp/</guid><description><![CDATA[<h2 id="wprowadzenie">Wprowadzenie</h2>
+<p>Stworzyłem stronę <a href="https://starsep.com/osm-wtp/" target="_blank" rel="noopener noreferrer">https://starsep.com/osm-wtp/</a>. Można na niej znaleźć porównanie danych <a href="https://openstreetmap.org" target="_blank" rel="noopener noreferrer">OpenStreetMap</a>
+transportu publicznego aglomeracji warszawskiej z danymi <a href="https://wtp.waw.pl" target="_blank" rel="noopener noreferrer">Warszawskiego Transportu Publicznego</a>.
+Głównym celem jest możliwość łatwego znalezienia błędów oraz brakujących danych.
+Porównuję dla każdego wariantu linii listę przystanków.
+Dodatkowo znajdowana jest część błędów związanych z tagowaniem w OpenStreetMap.</p>
+<h2 id="treść-strony">Treść strony</h2>
+<p>Na górze znajduje się lista linii. Dla linii z błędem wyświetla się link z ❌.</p>
+<a class="lightgallery" href="/img/osm-wtp/lines2.png" title="/img/osm-wtp/lines2.png" data-thumbnail="/img/osm-wtp/lines2.png">
+        
+    </a>
+<p>Dla linii z błędami wyświetlone są tabelki porównujące nazwy i numery przystanków z OSM i WTP.
+Kolory oznaczają, co należy zrobić w OSM, aby doprowadzić do stanu z WTP: zielony dodać przystanki,
+czerwony usunąć, pomarańczowy zmienić. W nagłówku są przydatne linki.</p>]]></description></item></channel></rss>
