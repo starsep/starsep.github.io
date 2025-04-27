@@ -1,6 +1,7 @@
 {{ $user := .Get "user" }}
 {{ $url := printf "" $user }}
-{{ $boardGameGeekData := getCSV "," "boardgamegeek.csv" }}
+{{ $boardGameGeekCSV := resources.Get "boardgamegeek.csv" }}
+{{ $boardGameGeekData := $boardGameGeekCSV | transform.Unmarshal (dict "format" "csv") }}
 {{ i18n "tableGeneratedFrom" }} <a href="https://boardgamegeek.com/collection/user/{{ $user }}">{{ i18n "boardGameGeekCollection" }}</a>
 <table>
 <thead>

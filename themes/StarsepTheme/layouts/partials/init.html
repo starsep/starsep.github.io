@@ -7,7 +7,7 @@
     {{- else if eq .Params.comment false -}}
         {{- .Scratch.Set "comment" dict -}}
     {{- end -}}
-{{- else if eq .Site .Sites.First -}}
+{{- else if eq .Site .Sites.Default -}}
     {{- warnf "\n\nCurrent environment is \"development\". The \"comment system\" will be disabled.\n" -}}
 {{- end -}}
 
