@@ -1,3 +1,3 @@
 downloadBgg:
-	wget -O assets/boardgamegeek.csv 'https://boardgamegeek.com/geekcollection.php?action=exportcsv&subtype=boardgame&username=starsep&all=1&exporttype=csv'
+	xh -d -o assets/boardgamegeek.csv 'https://boardgamegeek.com/geekcollection.php?action=exportcsv&subtype=boardgame&username=starsep&all=1&exporttype=csv'
 
