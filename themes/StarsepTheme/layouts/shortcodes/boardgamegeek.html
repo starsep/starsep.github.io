@@ -23,9 +23,10 @@
 </tr>
 </thead>
 {{ range $i, $row := $boardGameGeekData }}
+    {{ $wanttoplay := index $row 9 }}
     {{ $previouslyOwned := index $row 10 }}
     {{ $wishlist := index $row 12 }}
-    {{ if and (ne $i 0) (ne $previouslyOwned "1") (ne $wishlist "1") }}
+    {{ if and (ne $i 0) (ne $previouslyOwned "1") (ne $wishlist "1") (ne $wanttoplay "1")}}
     {{ $localName := index $row 0 }}
     {{ $gameId := index $row 1 }}
     {{ $comment:= index $row 15 }}
