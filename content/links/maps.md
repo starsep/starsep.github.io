@@ -14,3 +14,10 @@ tags: ["maps", "OpenStreetMap"]
 
 ## Interesting places
 - [Trampe bicycle lift](https://en.wikipedia.org/wiki/Trampe_bicycle_lift)
+
+## OpenStreetMap Tools
+- [Map Compare](https://tools.geofabrik.de/mc/)
+- [OSM Inspector](https://tools.geofabrik.de/osmi)
+- [gtfs-osm-validator](https://gitlab.com/stalker314314/gtfs-osm-validator)
+- [Nominatim QA](https://nominatim.org/qa/)
+- [city roads](https://anvaka.github.io/city-roads/) - render all roads in a city

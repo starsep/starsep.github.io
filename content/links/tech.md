@@ -37,6 +37,12 @@ tags: ["Technology"]
 
 ## Reverse Engineering
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite
+- [apk.sh](https://github.com/ax/apk.sh)
+- [APK Deguard](http://apk-deguard.com/)
+- [Runtime Mobile Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) - web app to manipulate Android and iOS Apps at Runtime
+- [APKid](https://github.com/rednaga/APKiD)
+- [apk-mitm](https://github.com/shroudedcode/apk-mitm)
+- [Sixo Online APK Analyzer](https://sisik.eu/apk-tool)
 
 ## Java
 - [Java Design Patterns](https://java-design-patterns.com/)
@@ -50,11 +56,26 @@ tags: ["Technology"]
 - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 - [Accessible hamburger buttons without JavaScript](https://www.matsimon.dev/blog/accessible-hamburger-buttons-without-javascript)
 
+## CSS
+- [CSS Tips](https://markodenic.com/css-tips/)
+
 ## HTML
 - [The right tag for the job: why you should use semantic HTML](https://localghost.dev/blog/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
+- [HTML Tips](https://markodenic.com/html-tips/)
 
 ## Android
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
+- [Material Componenets](https://material.io/components?platform=android)
+- [Android FOSS](https://github.com/offa/android-foss)
+- [Don't Kill My App](https://dontkillmyapp.com/)
+- [Wayidroid](https://waydro.id/)
+- [Pageflows](https://pageflows.com/android/) - Inspiring Android App Design Examples
+- [compose-samples](https://github.com/android/compose-samples)
+- [chucker](https://github.com/ChuckerTeam/chucker) - HTTP inspector for Android
+- [easylauncher-gradle-plugin](https://github.com/usefulness/easylauncher-gradle-plugin) - different icon ribbon for each Android app variant
+- [Android Repository Search](https://androidreposearch.netlify.app/)
+- [APK Downloader](https://raccoon.onyxbits.de/)
+- [Expo APK/AAB Building Tutorial (No EAS Required) ](https://gist.github.com/chirag-chhajed/d0bc667325544c3e7cccc04e03b5d1dc)
 
 ## Rust
 - [Rust Cheat Sheet](https://cheats.rs/)
@@ -100,6 +121,14 @@ tags: ["Technology"]
 - [gum](https://github.com/charmbracelet/gum) - tool for glamorous shell scripts
 - [5 types of ZSH aliases](https://www.thorsten-hans.com/5-types-of-zsh-aliases)
 
+## Linux
+- [Networking Cheat Sheet](https://code.mendhak.com/networking-cheat-sheet/)
+- [Make CapsLock useful](https://code.mendhak.com/make-caps-lock-useful/)
+
+## Kobo (ebook reader)
+- [Kobo customizations](https://code.mendhak.com/kobo-customizations/)
+- [Send to Kobo](https://send.djazz.se/)
+
 ## Alternative Shells
 - [Xonsh](https://github.com/xonsh/xonsh) - Python-based shell
 - [murex](https://github.com/lmorg/murex)
@@ -120,8 +149,10 @@ tags: ["Technology"]
 - [Nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
 - [nix.dev](https://nix.dev/)
 
-## Technical Writing
+## Writing
 - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
+- [Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
+- [Tactics for Writing in the Public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 
 ## Fun
 - [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards
@@ -146,3 +177,21 @@ tags: ["Technology"]
 - [pydash (Python lodash) Cheatsheet](https://brunodantas.github.io/pydash-cheatsheet/en/)
 - [clig (CLI guidelines)](https://clig.dev/)
 - [HowVideo.works](https://howvideo.works/)
+
+## Security
+- [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
+
+## Open Source
+- [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
+
+## Game Development
+- [Defold](https://defold.com/)
+
+## LibreOffice
+- [How to disable automatic capitalization in LibreOffice Calc?](https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc)
+
+## uBlock
+- [uBlock - hide any element that contains text with a given word?](https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word)
+
+## Other
+- [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
