@@ -47,6 +47,9 @@ tags: ["Technology"]
 ## Java
 - [Java Design Patterns](https://java-design-patterns.com/)
 
+## Web
+- [Can I use?](https://caniuse.com/)
+
 ## JavaScript
 - [Modern JavaScript Tutorial](https://javascript.info/)
 
@@ -58,6 +61,25 @@ tags: ["Technology"]
 
 ## CSS
 - [CSS Tips](https://markodenic.com/css-tips/)
+- [Beautiful Gradients](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
+- [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [What I Wish I Knew About CSS When Starting Out As A Frontender](https://engineering.kablamo.com.au/posts/2021/my-first-css)
+- [It’s time for modern CSS to kill the SPA](https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/)
+- [Minimal CSS-only blurry](https://leanrada.com/notes/css-only-lqip/)
+- [CSS Grid Areas](https://ishadeed.com/article/css-grid-area/)
+- [Can I use in email](https://www.caniemail.com/)
+- [What’s next for CSS?](https://cssdb.org/)
+- [Tree views in CSS](https://iamkate.com/code/tree-views/)
+- [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [matcha.css](https://matcha.mizu.sh/)
+- [Charts.css](https://chartscss.org/)
+- [Simple.css](https://simplecss.org/)
+- [select.pink](https://select.pink/#10)
+- [CSS speedrun](https://css-speedrun.netlify.app/)
+- [CSS Grid Garden](https://cssgridgarden.com/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Let’s take a look inside your <head>](https://github.com/csswizardry/ct)
+- [Learn CSS](https://web.dev/learn/css/)
 
 ## HTML
 - [The right tag for the job: why you should use semantic HTML](https://localghost.dev/blog/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
@@ -124,6 +146,7 @@ tags: ["Technology"]
 ## Linux
 - [Networking Cheat Sheet](https://code.mendhak.com/networking-cheat-sheet/)
 - [Make CapsLock useful](https://code.mendhak.com/make-caps-lock-useful/)
+- [Linux oneliners](https://linuxcommandlibrary.com/basic/oneliners)
 
 ## Kobo (ebook reader)
 - [Kobo customizations](https://code.mendhak.com/kobo-customizations/)
@@ -167,6 +190,7 @@ tags: ["Technology"]
 ## NAS
 - [Perfect Media Server](https://perfectmediaserver.com/)
 - [Mariushosting](https://mariushosting.com/)
+- [Self-Host & Tech Independence](https://www.ssp.sh/blog/self-host-self-independence/)
 
 ## References/Cheatsheets
 - [ASCII Control Characters](https://jvns.ca/ascii)
@@ -177,6 +201,8 @@ tags: ["Technology"]
 - [pydash (Python lodash) Cheatsheet](https://brunodantas.github.io/pydash-cheatsheet/en/)
 - [clig (CLI guidelines)](https://clig.dev/)
 - [HowVideo.works](https://howvideo.works/)
+- [ElysiaJS Cheat Sheet](https://elysiajs.com/integrations/cheat-sheet)
+- [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
 
 ## Security
 - [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
@@ -193,5 +219,19 @@ tags: ["Technology"]
 ## uBlock
 - [uBlock - hide any element that contains text with a given word?](https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word)
 
+## Regex
+- [RegexOne](https://regexone.com/)
+- [regex101](https://regex101.com/)
+
+## Ideas
+- [Best programmers](https://endler.dev/2025/best-programmers/)
+- [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
+- [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
+
+## Hosting
+- [How to setup a practically free CDN using Backblaze B2 and Cloudflare](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
+
 ## Other
 - [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
+- [Emoji under the hood](https://tonsky.me/blog/emoji/)
+- [SearchCode](https://searchcode.com/)

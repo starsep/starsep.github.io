@@ -21,3 +21,12 @@ tags: ["maps", "OpenStreetMap"]
 - [gtfs-osm-validator](https://gitlab.com/stalker314314/gtfs-osm-validator)
 - [Nominatim QA](https://nominatim.org/qa/)
 - [city roads](https://anvaka.github.io/city-roads/) - render all roads in a city
+- [Overpass Turbo](https://overpass-turbo.eu/)
+
+## Maps
+- [OsmAPP](https://osmapp.org/)
+- [CyclOSM](https://www.cyclosm.org/)
+- [Chronotrains](https://www.chronotrains.com/)
+
+# GIS
+- [I hate coordinate systems](https://ihatecoordinatesystems.com/)
