@@ -1,5 +1,5 @@
 ---
-title: Collection of links related to games 
+title: Collection of links related to games
 slug: game
 toc: false
 date: 2025-04-27T14:38:12+02:00
@@ -14,6 +14,7 @@ tags: ["Games"]
 - [Is There Any Deal](https://isthereanydeal.com)
 - [XB Deals](https://xbdeals.net/)
 - [Buzzinga: Jeopardy/VaBanque show game](https://play.buzzinga.io/)
+- [Cube Composer](https://david-peter.de/cube-composer/)
 
 ## Factorio
 - [Factorio prints](https://factorioprints.com/)

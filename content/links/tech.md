@@ -23,6 +23,7 @@ tags: ["Technology"]
 - [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery/blob/main/PythonMastery.pdf)
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal
+- [Icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
 
 ## Kotlin
 - [Kotlin is Awesome!](https://kotlin.link/)
@@ -98,6 +99,11 @@ tags: ["Technology"]
 - [Android Repository Search](https://androidreposearch.netlify.app/)
 - [APK Downloader](https://raccoon.onyxbits.de/)
 - [Expo APK/AAB Building Tutorial (No EAS Required) ](https://gist.github.com/chirag-chhajed/d0bc667325544c3e7cccc04e03b5d1dc)
+
+## Jetpack Compose
+- [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)
+- [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)
+- [jetpackcompose.app](https://www.jetpackcompose.app/)
 
 ## Rust
 - [Rust Cheat Sheet](https://cheats.rs/)
@@ -186,6 +192,7 @@ tags: ["Technology"]
 
 ## Monitoring
 - [Healthchecks](https://github.com/healthchecks/healthchecks)
+- [Pyroscope](https://github.com/grafana/pyroscope) - Grafana/Continuous Profiling Platform
 
 ## NAS
 - [Perfect Media Server](https://perfectmediaserver.com/)
