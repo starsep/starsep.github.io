@@ -1,0 +1,148 @@
+---
+title: Collection of links related to Technology
+slug: tech
+toc: false
+date: 2025-08-15T17:50:05+02:00
+tags: ["Technology"]
+---
+
+# Collection of links related to Technology
+
+## Python
+- [Fil](https://pythonspeed.com/fil/) - Easy Python memory profiling for data scientists and scientists with Fil
+- [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills
+- [CI/CD friendly Dockerfile for uv based Python projects](https://code.mendhak.com/ci-cd-dockerfile-for-python-uv-ruff-pytest/)
+- [14 Advanced Python Features ](https://blog.edward-li.com/tech/advanced-python-features/)
+- [crawlee](https://crawlee.dev/python/) - scrapy alternative
+- [memray](https://github.com/bloomberg/memray) - memory profiler for Python
+- [Python Design Patterns](https://python-patterns.guide/)
+- [RustPython](https://rustpython.github.io)
+- [Gooey](https://github.com/chriskiehl/Gooey) - turn Python into GUI - good idea but never had reason to use it
+- [jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries
+- [jello](https://github.com/kellyjonbrazil/jello) - CLI tool to filter JSON and JSON Lines data with Python syntax
+- [pyinstrument](https://github.com/joerick/pyinstrument) - Call stack profiler for Python
+- [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery/blob/main/PythonMastery.pdf)
+- [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal
+
+## Kotlin
+- [Kotlin is Awesome!](https://kotlin.link/)
+- [progressbar-ktx](https://github.com/reimersoftware/progressbar-ktx/) - like tqdm for Python
+- [Moko Network](https://github.com/icerockdev/moko-network) - OpenAPI client code generation for mobile (android & ios) Kotlin Multiplatform developmen
+- [GraalVM Native Image](https://www.graalvm.org/latest/reference-manual/native-image/)
+- [Kotlin Multiplatform](https://kotlinlang.org/lp/mobile/)
+- [kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - A Kotlin multiplatform library for arbitrary precision arithmetics
+- [Kotlin Flow](https://developer.android.com/kotlin/flow)
+- [Package Search by JetBrains](https://package-search.jetbrains.com/)
+- [GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android
+
+## Reverse Engineering
+- [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite
+
+## Java
+- [Java Design Patterns](https://java-design-patterns.com/)
+
+## JavaScript
+- [Modern JavaScript Tutorial](https://javascript.info/)
+
+## No need for JavaScript
+- [You don't need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS
+- [You don't need JS](https://lexoral.com/blog/you-dont-need-js/)
+- [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
+- [Accessible hamburger buttons without JavaScript](https://www.matsimon.dev/blog/accessible-hamburger-buttons-without-javascript)
+
+## HTML
+- [The right tag for the job: why you should use semantic HTML](https://localghost.dev/blog/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
+
+## Android
+- [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
+
+## Rust
+- [Rust Cheat Sheet](https://cheats.rs/)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
+- [Rust Exercises](https://rust-exercises.com/)
+
+## Databases
+- [Azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
+- [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+- [sqlite-zstd](https://github.com/phiresky/sqlite-zstd)
+- [One-liner for running queries against CSV files with SQLite](https://til.simonwillison.net/sqlite/one-line-csv-operations)
+- [litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
+- [Storing files in SQLite](https://misfra.me/2021/storing-files-in-sqlite/)
+- [A faster way to copy SQLite databases between computers](https://alexwlchan.net/2025/copying-sqlite-databases/)
+- [Use the index, Luke!](https://use-the-index-luke.com/) - SQL Indexing and Tuning e-Book
+- [SQLBolt](https://sqlbolt.com/) - Learn SQL with simple, interactive exercises
+- [SQL for devs](https://sqlfordevs.com/ebook) - The Database Cookbook For Developers
+- [SQL Noir](https://www.sqlnoir.com/) - Solve mysteries through SQL
+- [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
+
+## CLIs (not yet used by me)
+- [fselect](https://github.com/jhspetersson/fselect) -  Find files with SQL-like queries
+
+## Markdown
+- [presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool. Looks cool but I have never used it
+- [An option to highlight a "Note" and "Warning" using blockquote in Github](https://github.com/community/community/discussions/16925)
+
+## Diagrams
+- [Asciiflow](https://asciiflow.com/) - web app for ASCII diagrams
+
+## 3D Rendering
+- [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) - how OpenGL works: software rendering in 500 lines of code
+
+## Shell
+- [BashPitfalls](https://mywiki.wooledge.org/BashPitfalls)
+- [timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
+- [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
+- [Explain Shell](https://explainshell.com/)
+- [Improving shell workflows with fzf](https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/)
+- [Rewritten in Rust: Modern Alternatives of Command-Line Tools](https://zaiste.net/posts/shell-commands-rust/)
+- [starship](https://github.com/starship/starship) - minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells (z in Rust)
+- [gum](https://github.com/charmbracelet/gum) - tool for glamorous shell scripts
+- [5 types of ZSH aliases](https://www.thorsten-hans.com/5-types-of-zsh-aliases)
+
+## Alternative Shells
+- [Xonsh](https://github.com/xonsh/xonsh) - Python-based shell
+- [murex](https://github.com/lmorg/murex)
+- [crush](https://github.com/liljencrantz/crush)
+
+## RSS
+- [About Feeds](https://aboutfeeds.com/)
+
+## Encryption
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability
+
+## Nix
+- [NixOS package search](https://search.nixos.org/packages)
+- [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
+- [Home Manager Options](https://home-manager-options.extranix.com/)
+- [nixhub.io](https://www.nixhub.io/) - nix package search for DevBox
+- [Nixsa](https://github.com/noamraph/nixsa) - A Nix Standalone Environment
+- [Nixwrap](https://github.com/rti/nixwrap) - Easy Application Sandboxing on NixOS
+- [nix.dev](https://nix.dev/)
+
+## Technical Writing
+- [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
+
+## Fun
+- [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards
+- [Everyone has JavaScript, right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
+
+## Blogs
+- [Gwern](https://gwern.net/)
+
+## Monitoring
+- [Healthchecks](https://github.com/healthchecks/healthchecks)
+
+## NAS
+- [Perfect Media Server](https://perfectmediaserver.com/)
+- [Mariushosting](https://mariushosting.com/)
+
+## References/Cheatsheets
+- [ASCII Control Characters](https://jvns.ca/ascii)
+- [HTML Button Cheatsheet](https://www.buttoncheatsheet.com/)
+- [ES2015+ Cheatcheet](https://devhints.io/es6)
+- [OWASP Cheatsheet](https://cheatsheetseries.owasp.org/Glossary.html)
+- [neovim Cheatsheet](https://nvim-cheatsheet.vercel.app/)
+- [pydash (Python lodash) Cheatsheet](https://brunodantas.github.io/pydash-cheatsheet/en/)
+- [clig (CLI guidelines)](https://clig.dev/)
+- [HowVideo.works](https://howvideo.works/)
