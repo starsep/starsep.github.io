@@ -50,6 +50,9 @@ tags: ["Technology"]
 
 ## Web
 - [Can I use?](https://caniuse.com/)
+- [openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) -  Browser extension that generates API specs for any app or website
+- [autocomplete](https://github.com/algolia/autocomplete) - Fast and full-featured autocomplete library
+
 
 ## JavaScript
 - [Modern JavaScript Tutorial](https://javascript.info/)
@@ -198,6 +201,7 @@ tags: ["Technology"]
 - [Perfect Media Server](https://perfectmediaserver.com/)
 - [Mariushosting](https://mariushosting.com/)
 - [Self-Host & Tech Independence](https://www.ssp.sh/blog/self-host-self-independence/)
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## References/Cheatsheets
 - [ASCII Control Characters](https://jvns.ca/ascii)
@@ -210,6 +214,10 @@ tags: ["Technology"]
 - [HowVideo.works](https://howvideo.works/)
 - [ElysiaJS Cheat Sheet](https://elysiajs.com/integrations/cheat-sheet)
 - [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
+
+## CLI
+- [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
+- [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 
 ## Security
 - [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)

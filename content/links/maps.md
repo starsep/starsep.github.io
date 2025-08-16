@@ -22,6 +22,7 @@ tags: ["maps", "OpenStreetMap"]
 - [Nominatim QA](https://nominatim.org/qa/)
 - [city roads](https://anvaka.github.io/city-roads/) - render all roads in a city
 - [Overpass Turbo](https://overpass-turbo.eu/)
+- [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data
 
 ## Maps
 - [OsmAPP](https://osmapp.org/)
