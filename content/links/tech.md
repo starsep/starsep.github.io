@@ -24,6 +24,7 @@ tags: ["Technology"]
 - [Advanced Python Mastery](https://github.com/dabeaz-course/python-mastery/blob/main/PythonMastery.pdf)
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal
 - [Icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
+- [Pythonium](https://pythonium.net/) - Python tools such as a regex tester, code checker, mock API, and data generator 
 
 ## Kotlin
 - [Kotlin is Awesome!](https://kotlin.link/)
