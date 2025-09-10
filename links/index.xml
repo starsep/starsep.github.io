@@ -1,4 +1,349 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Filip Czaplicki</title><link>https://starsep.com/links/</link><description>Recent content in Links on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 27 Apr 2025 14:38:12 +0200</lastBuildDate><atom:link href="https://starsep.com/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of links related to games</title><link>https://starsep.com/links/game/</link><pubDate>Sun, 27 Apr 2025 14:38:12 +0200</pubDate><guid>https://starsep.com/links/game/</guid><description>&lt;h1 id="video-games">Video Games&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Filip Czaplicki</title><link>https://starsep.com/links/</link><description>Recent content in Links on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 15 Aug 2025 17:50:05 +0200</lastBuildDate><atom:link href="https://starsep.com/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of links related to Technology</title><link>https://starsep.com/links/tech/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/tech/</guid><description>&lt;h1 id="collection-of-links-related-to-technology">Collection of links related to Technology&lt;/h1>
+&lt;h2 id="python">Python&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://pythonspeed.com/fil/" target="_blank" rel="noopener noreferrer">Fil&lt;/a> - Easy Python memory profiling for data scientists and scientists with Fil&lt;/li>
+&lt;li>&lt;a href="https://github.com/norvig/pytudes" target="_blank" rel="noopener noreferrer">pytudes&lt;/a> - Python programs, usually short, of considerable difficulty, to perfect particular skills&lt;/li>
+&lt;li>&lt;a href="https://code.mendhak.com/ci-cd-dockerfile-for-python-uv-ruff-pytest/" target="_blank" rel="noopener noreferrer">CI/CD friendly Dockerfile for uv based Python projects&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.edward-li.com/tech/advanced-python-features/" target="_blank" rel="noopener noreferrer">14 Advanced Python Features &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://crawlee.dev/python/" target="_blank" rel="noopener noreferrer">crawlee&lt;/a> - scrapy alternative&lt;/li>
+&lt;li>&lt;a href="https://github.com/bloomberg/memray" target="_blank" rel="noopener noreferrer">memray&lt;/a> - memory profiler for Python&lt;/li>
+&lt;li>&lt;a href="https://python-patterns.guide/" target="_blank" rel="noopener noreferrer">Python Design Patterns&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rustpython.github.io" target="_blank" rel="noopener noreferrer">RustPython&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/chriskiehl/Gooey" target="_blank" rel="noopener noreferrer">Gooey&lt;/a> - turn Python into GUI - good idea but never had reason to use it&lt;/li>
+&lt;li>&lt;a href="https://github.com/kellyjonbrazil/jc" target="_blank" rel="noopener noreferrer">jc&lt;/a> - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries&lt;/li>
+&lt;li>&lt;a href="https://github.com/kellyjonbrazil/jello" target="_blank" rel="noopener noreferrer">jello&lt;/a> - CLI tool to filter JSON and JSON Lines data with Python syntax&lt;/li>
+&lt;li>&lt;a href="https://github.com/joerick/pyinstrument" target="_blank" rel="noopener noreferrer">pyinstrument&lt;/a> - Call stack profiler for Python&lt;/li>
+&lt;li>&lt;a href="https://github.com/dabeaz-course/python-mastery/blob/main/PythonMastery.pdf" target="_blank" rel="noopener noreferrer">Advanced Python Mastery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/willmcgugan/rich" target="_blank" rel="noopener noreferrer">Rich&lt;/a> - Rich is a Python library for rich text and beautiful formatting in the terminal&lt;/li>
+&lt;li>&lt;a href="https://github.com/gruns/icecream" target="_blank" rel="noopener noreferrer">Icecream&lt;/a> - 🍦 Never use print() to debug again&lt;/li>
+&lt;/ul>
+&lt;h2 id="kotlin">Kotlin&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://kotlin.link/" target="_blank" rel="noopener noreferrer">Kotlin is Awesome!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/reimersoftware/progressbar-ktx/" target="_blank" rel="noopener noreferrer">progressbar-ktx&lt;/a> - like tqdm for Python&lt;/li>
+&lt;li>&lt;a href="https://github.com/icerockdev/moko-network" target="_blank" rel="noopener noreferrer">Moko Network&lt;/a> - OpenAPI client code generation for mobile (android &amp;amp; ios) Kotlin Multiplatform developmen&lt;/li>
+&lt;li>&lt;a href="https://www.graalvm.org/latest/reference-manual/native-image/" target="_blank" rel="noopener noreferrer">GraalVM Native Image&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kotlinlang.org/lp/mobile/" target="_blank" rel="noopener noreferrer">Kotlin Multiplatform&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ionspin/kotlin-multiplatform-bignum" target="_blank" rel="noopener noreferrer">kotlin-multiplatform-bignum&lt;/a> - A Kotlin multiplatform library for arbitrary precision arithmetics&lt;/li>
+&lt;li>&lt;a href="https://developer.android.com/kotlin/flow" target="_blank" rel="noopener noreferrer">Kotlin Flow&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://package-search.jetbrains.com/" target="_blank" rel="noopener noreferrer">Package Search by JetBrains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/bernaferrari/GradleKotlinConverter" target="_blank" rel="noopener noreferrer">GradleKotlinConverter&lt;/a> - Convert from Groovy to Kotlin DSL for Gradle, focused on Android&lt;/li>
+&lt;/ul>
+&lt;h2 id="reverse-engineering">Reverse Engineering&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Konloch/bytecode-viewer" target="_blank" rel="noopener noreferrer">bytecode-viewer&lt;/a> - A Java 8+ Jar &amp;amp; Android APK Reverse Engineering Suite&lt;/li>
+&lt;li>&lt;a href="https://github.com/ax/apk.sh" target="_blank" rel="noopener noreferrer">apk.sh&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://apk-deguard.com/" target="_blank" rel="noopener noreferrer">APK Deguard&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security" target="_blank" rel="noopener noreferrer">Runtime Mobile Security&lt;/a> - web app to manipulate Android and iOS Apps at Runtime&lt;/li>
+&lt;li>&lt;a href="https://github.com/rednaga/APKiD" target="_blank" rel="noopener noreferrer">APKid&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/shroudedcode/apk-mitm" target="_blank" rel="noopener noreferrer">apk-mitm&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://sisik.eu/apk-tool" target="_blank" rel="noopener noreferrer">Sixo Online APK Analyzer&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="java">Java&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://java-design-patterns.com/" target="_blank" rel="noopener noreferrer">Java Design Patterns&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="web">Web&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://caniuse.com/" target="_blank" rel="noopener noreferrer">Can I use?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/AndrewWalsh/openapi-devtools" target="_blank" rel="noopener noreferrer">openapi-devtools&lt;/a> - Browser extension that generates API specs for any app or website&lt;/li>
+&lt;li>&lt;a href="https://github.com/algolia/autocomplete" target="_blank" rel="noopener noreferrer">autocomplete&lt;/a> - Fast and full-featured autocomplete library&lt;/li>
+&lt;/ul>
+&lt;h2 id="javascript">JavaScript&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://javascript.info/" target="_blank" rel="noopener noreferrer">Modern JavaScript Tutorial&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="no-need-for-javascript">No need for JavaScript&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/you-dont-need/You-Dont-Need-JavaScript" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need JavaScript&lt;/a> - CSS is powerful, you can do a lot of things without JS&lt;/li>
+&lt;li>&lt;a href="https://lexoral.com/blog/you-dont-need-js/" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need JS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.htmhell.dev/adventcalendar/2023/2/" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need JavaScript for that&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.matsimon.dev/blog/accessible-hamburger-buttons-without-javascript" target="_blank" rel="noopener noreferrer">Accessible hamburger buttons without JavaScript&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="css">CSS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://markodenic.com/css-tips/" target="_blank" rel="noopener noreferrer">CSS Tips&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.joshwcomeau.com/css/make-beautiful-gradients/" target="_blank" rel="noopener noreferrer">Beautiful Gradients&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/" target="_blank" rel="noopener noreferrer">Interactive Guide to Flexbox&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://engineering.kablamo.com.au/posts/2021/my-first-css" target="_blank" rel="noopener noreferrer">What I Wish I Knew About CSS When Starting Out As A Frontender&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa/" target="_blank" rel="noopener noreferrer">It’s time for modern CSS to kill the SPA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://leanrada.com/notes/css-only-lqip/" target="_blank" rel="noopener noreferrer">Minimal CSS-only blurry&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ishadeed.com/article/css-grid-area/" target="_blank" rel="noopener noreferrer">CSS Grid Areas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.caniemail.com/" target="_blank" rel="noopener noreferrer">Can I use in email&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cssdb.org/" target="_blank" rel="noopener noreferrer">What’s next for CSS?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://iamkate.com/code/tree-views/" target="_blank" rel="noopener noreferrer">Tree views in CSS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank" rel="noopener noreferrer">CSS Flexbox Layout Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://matcha.mizu.sh/" target="_blank" rel="noopener noreferrer">matcha.css&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://chartscss.org/" target="_blank" rel="noopener noreferrer">Charts.css&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://simplecss.org/" target="_blank" rel="noopener noreferrer">Simple.css&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://select.pink/#10" target="_blank" rel="noopener noreferrer">select.pink&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://css-speedrun.netlify.app/" target="_blank" rel="noopener noreferrer">CSS speedrun&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cssgridgarden.com/" target="_blank" rel="noopener noreferrer">CSS Grid Garden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://flexboxfroggy.com/" target="_blank" rel="noopener noreferrer">Flexbox Froggy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/csswizardry/ct" target="_blank" rel="noopener noreferrer">Let’s take a look inside your &lt;head>&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://web.dev/learn/css/" target="_blank" rel="noopener noreferrer">Learn CSS&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="html">HTML&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://localghost.dev/blog/the-right-tag-for-the-job-why-you-should-use-semantic-html/" target="_blank" rel="noopener noreferrer">The right tag for the job: why you should use semantic HTML&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://markodenic.com/html-tips/" target="_blank" rel="noopener noreferrer">HTML Tips&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="android">Android&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/0x192/universal-android-debloater" target="_blank" rel="noopener noreferrer">Universal Android Debloater GUI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://material.io/components?platform=android" target="_blank" rel="noopener noreferrer">Material Componenets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/offa/android-foss" target="_blank" rel="noopener noreferrer">Android FOSS&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dontkillmyapp.com/" target="_blank" rel="noopener noreferrer">Don&amp;rsquo;t Kill My App&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://waydro.id/" target="_blank" rel="noopener noreferrer">Wayidroid&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pageflows.com/android/" target="_blank" rel="noopener noreferrer">Pageflows&lt;/a> - Inspiring Android App Design Examples&lt;/li>
+&lt;li>&lt;a href="https://github.com/android/compose-samples" target="_blank" rel="noopener noreferrer">compose-samples&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ChuckerTeam/chucker" target="_blank" rel="noopener noreferrer">chucker&lt;/a> - HTTP inspector for Android&lt;/li>
+&lt;li>&lt;a href="https://github.com/usefulness/easylauncher-gradle-plugin" target="_blank" rel="noopener noreferrer">easylauncher-gradle-plugin&lt;/a> - different icon ribbon for each Android app variant&lt;/li>
+&lt;li>&lt;a href="https://androidreposearch.netlify.app/" target="_blank" rel="noopener noreferrer">Android Repository Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raccoon.onyxbits.de/" target="_blank" rel="noopener noreferrer">APK Downloader&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gist.github.com/chirag-chhajed/d0bc667325544c3e7cccc04e03b5d1dc" target="_blank" rel="noopener noreferrer">Expo APK/AAB Building Tutorial (No EAS Required) &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="jetpack-compose">Jetpack Compose&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/jetpack-compose/jetpack-compose-awesome" target="_blank" rel="noopener noreferrer">jetpack-compose-awesome&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://terrakok.github.io/Compose-Multiplatform-Wizard/" target="_blank" rel="noopener noreferrer">Compose Multiplatform Wizard&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jetpackcompose.app/" target="_blank" rel="noopener noreferrer">jetpackcompose.app&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="rust">Rust&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://cheats.rs/" target="_blank" rel="noopener noreferrer">Rust Cheat Sheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rust-lang-nursery.github.io/rust-cookbook/" target="_blank" rel="noopener noreferrer">Rust Cookbook&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rust-exercises.com/" target="_blank" rel="noopener noreferrer">Rust Exercises&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="databases">Databases&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/azimuttapp/azimutt" target="_blank" rel="noopener noreferrer">Azimutt&lt;/a> - Explore, document and optimize any database&lt;/li>
+&lt;li>&lt;a href="https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/" target="_blank" rel="noopener noreferrer">Hosting SQLite databases on Github Pages&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/phiresky/sqlite-zstd" target="_blank" rel="noopener noreferrer">sqlite-zstd&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://til.simonwillison.net/sqlite/one-line-csv-operations" target="_blank" rel="noopener noreferrer">One-liner for running queries against CSV files with SQLite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dbcli/litecli" target="_blank" rel="noopener noreferrer">litecli&lt;/a> - CLI for SQLite Databases with auto-completion and syntax highlighting&lt;/li>
+&lt;li>&lt;a href="https://misfra.me/2021/storing-files-in-sqlite/" target="_blank" rel="noopener noreferrer">Storing files in SQLite&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alexwlchan.net/2025/copying-sqlite-databases/" target="_blank" rel="noopener noreferrer">A faster way to copy SQLite databases between computers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://use-the-index-luke.com/" target="_blank" rel="noopener noreferrer">Use the index, Luke!&lt;/a> - SQL Indexing and Tuning e-Book&lt;/li>
+&lt;li>&lt;a href="https://sqlbolt.com/" target="_blank" rel="noopener noreferrer">SQLBolt&lt;/a> - Learn SQL with simple, interactive exercises&lt;/li>
+&lt;li>&lt;a href="https://sqlfordevs.com/ebook" target="_blank" rel="noopener noreferrer">SQL for devs&lt;/a> - The Database Cookbook For Developers&lt;/li>
+&lt;li>&lt;a href="https://www.sqlnoir.com/" target="_blank" rel="noopener noreferrer">SQL Noir&lt;/a> - Solve mysteries through SQL&lt;/li>
+&lt;li>&lt;a href="https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth" target="_blank" rel="noopener noreferrer">PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="clis-not-yet-used-by-me">CLIs (not yet used by me)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/jhspetersson/fselect" target="_blank" rel="noopener noreferrer">fselect&lt;/a> - Find files with SQL-like queries&lt;/li>
+&lt;/ul>
+&lt;h2 id="markdown">Markdown&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/mfontanini/presenterm" target="_blank" rel="noopener noreferrer">presenterm&lt;/a> - A markdown terminal slideshow tool. Looks cool but I have never used it&lt;/li>
+&lt;li>&lt;a href="https://github.com/community/community/discussions/16925" target="_blank" rel="noopener noreferrer">An option to highlight a &amp;ldquo;Note&amp;rdquo; and &amp;ldquo;Warning&amp;rdquo; using blockquote in Github&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="diagrams">Diagrams&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://asciiflow.com/" target="_blank" rel="noopener noreferrer">Asciiflow&lt;/a> - web app for ASCII diagrams&lt;/li>
+&lt;/ul>
+&lt;h2 id="3d-rendering">3D Rendering&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ssloy/tinyrenderer/wiki" target="_blank" rel="noopener noreferrer">tinyrenderer&lt;/a> - how OpenGL works: software rendering in 500 lines of code&lt;/li>
+&lt;/ul>
+&lt;h2 id="shell">Shell&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://mywiki.wooledge.org/BashPitfalls" target="_blank" rel="noopener noreferrer">BashPitfalls&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://heitorpb.github.io/bla/timeout/" target="_blank" rel="noopener noreferrer">timeout in Bash scripts&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raimonster.com/scripting-field-guide/" target="_blank" rel="noopener noreferrer">Shell Field Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://explainshell.com/" target="_blank" rel="noopener noreferrer">Explain Shell&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://seb.jambor.dev/posts/improving-shell-workflows-with-fzf/" target="_blank" rel="noopener noreferrer">Improving shell workflows with fzf&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zaiste.net/posts/shell-commands-rust/" target="_blank" rel="noopener noreferrer">Rewritten in Rust: Modern Alternatives of Command-Line Tools&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/starship/starship" target="_blank" rel="noopener noreferrer">starship&lt;/a> - minimal, blazing-fast, and infinitely customizable prompt for any shell!&lt;/li>
+&lt;li>&lt;a href="https://github.com/ajeetdsouza/zoxide" target="_blank" rel="noopener noreferrer">zoxide&lt;/a> - A smarter cd command. Supports all major shells (z in Rust)&lt;/li>
+&lt;li>&lt;a href="https://github.com/charmbracelet/gum" target="_blank" rel="noopener noreferrer">gum&lt;/a> - tool for glamorous shell scripts&lt;/li>
+&lt;li>&lt;a href="https://www.thorsten-hans.com/5-types-of-zsh-aliases" target="_blank" rel="noopener noreferrer">5 types of ZSH aliases&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="linux">Linux&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://code.mendhak.com/networking-cheat-sheet/" target="_blank" rel="noopener noreferrer">Networking Cheat Sheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://code.mendhak.com/make-caps-lock-useful/" target="_blank" rel="noopener noreferrer">Make CapsLock useful&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://linuxcommandlibrary.com/basic/oneliners" target="_blank" rel="noopener noreferrer">Linux oneliners&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="kobo-ebook-reader">Kobo (ebook reader)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://code.mendhak.com/kobo-customizations/" target="_blank" rel="noopener noreferrer">Kobo customizations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://send.djazz.se/" target="_blank" rel="noopener noreferrer">Send to Kobo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="alternative-shells">Alternative Shells&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/xonsh/xonsh" target="_blank" rel="noopener noreferrer">Xonsh&lt;/a> - Python-based shell&lt;/li>
+&lt;li>&lt;a href="https://github.com/lmorg/murex" target="_blank" rel="noopener noreferrer">murex&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/liljencrantz/crush" target="_blank" rel="noopener noreferrer">crush&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="rss">RSS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://aboutfeeds.com/" target="_blank" rel="noopener noreferrer">About Feeds&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="encryption">Encryption&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/FiloSottile/age" target="_blank" rel="noopener noreferrer">age&lt;/a> - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability&lt;/li>
+&lt;/ul>
+&lt;h2 id="nix">Nix&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://search.nixos.org/packages" target="_blank" rel="noopener noreferrer">NixOS package search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lazamar.co.uk/nix-versions/" target="_blank" rel="noopener noreferrer">Nix Package Versions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://home-manager-options.extranix.com/" target="_blank" rel="noopener noreferrer">Home Manager Options&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nixhub.io/" target="_blank" rel="noopener noreferrer">nixhub.io&lt;/a> - nix package search for DevBox&lt;/li>
+&lt;li>&lt;a href="https://github.com/noamraph/nixsa" target="_blank" rel="noopener noreferrer">Nixsa&lt;/a> - A Nix Standalone Environment&lt;/li>
+&lt;li>&lt;a href="https://github.com/rti/nixwrap" target="_blank" rel="noopener noreferrer">Nixwrap&lt;/a> - Easy Application Sandboxing on NixOS&lt;/li>
+&lt;li>&lt;a href="https://nix.dev/" target="_blank" rel="noopener noreferrer">nix.dev&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="writing">Writing&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/" target="_blank" rel="noopener noreferrer">Why writing small docs is a game changer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jvns.ca/blog/2023/06/05/some-blogging-myths/" target="_blank" rel="noopener noreferrer">Blogging Myths&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/" target="_blank" rel="noopener noreferrer">Tactics for Writing in the Public&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="fun">Fun&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://keyboardsimulator.xyz/" target="_blank" rel="noopener noreferrer">Keyboard Simulator&lt;/a> - Design and test virtual keyboards&lt;/li>
+&lt;li>&lt;a href="https://www.kryogenix.org/code/browser/everyonehasjs.html" target="_blank" rel="noopener noreferrer">Everyone has JavaScript, right?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="blogs">Blogs&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gwern.net/" target="_blank" rel="noopener noreferrer">Gwern&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="monitoring">Monitoring&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/healthchecks/healthchecks" target="_blank" rel="noopener noreferrer">Healthchecks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/grafana/pyroscope" target="_blank" rel="noopener noreferrer">Pyroscope&lt;/a> - Grafana/Continuous Profiling Platform&lt;/li>
+&lt;/ul>
+&lt;h2 id="nas">NAS&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://perfectmediaserver.com/" target="_blank" rel="noopener noreferrer">Perfect Media Server&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mariushosting.com/" target="_blank" rel="noopener noreferrer">Mariushosting&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.ssp.sh/blog/self-host-self-independence/" target="_blank" rel="noopener noreferrer">Self-Host &amp;amp; Tech Independence&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank" rel="noopener noreferrer">awesome-selfhosted&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="referencescheatsheets">References/Cheatsheets&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://jvns.ca/ascii" target="_blank" rel="noopener noreferrer">ASCII Control Characters&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.buttoncheatsheet.com/" target="_blank" rel="noopener noreferrer">HTML Button Cheatsheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://devhints.io/es6" target="_blank" rel="noopener noreferrer">ES2015+ Cheatcheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cheatsheetseries.owasp.org/Glossary.html" target="_blank" rel="noopener noreferrer">OWASP Cheatsheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nvim-cheatsheet.vercel.app/" target="_blank" rel="noopener noreferrer">neovim Cheatsheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://brunodantas.github.io/pydash-cheatsheet/en/" target="_blank" rel="noopener noreferrer">pydash (Python lodash) Cheatsheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://clig.dev/" target="_blank" rel="noopener noreferrer">clig (CLI guidelines)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://howvideo.works/" target="_blank" rel="noopener noreferrer">HowVideo.works&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://elysiajs.com/integrations/cheat-sheet" target="_blank" rel="noopener noreferrer">ElysiaJS Cheat Sheet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730" target="_blank" rel="noopener noreferrer">FFmpeg Cheat Sheet&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="cli">CLI&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/antonmedv/fx" target="_blank" rel="noopener noreferrer">fx&lt;/a> - Terminal JSON viewer &amp;amp; processor&lt;/li>
+&lt;li>&lt;a href="https://github.com/agarrharr/awesome-cli-apps" target="_blank" rel="noopener noreferrer">awesome-cli-apps&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="security">Security&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.stavros.io/posts/u2f-fido2-with-ssh/" target="_blank" rel="noopener noreferrer">U2F FIDO with SSH&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="open-source">Open Source&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://boyter.org/posts/the-three-f-s-of-open-source/" target="_blank" rel="noopener noreferrer">The Three F&amp;rsquo;s of Open Source Development&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="game-development">Game Development&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://defold.com/" target="_blank" rel="noopener noreferrer">Defold&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="libreoffice">LibreOffice&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc" target="_blank" rel="noopener noreferrer">How to disable automatic capitalization in LibreOffice Calc?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="ublock">uBlock&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word" target="_blank" rel="noopener noreferrer">uBlock - hide any element that contains text with a given word?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="regex">Regex&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://regexone.com/" target="_blank" rel="noopener noreferrer">RegexOne&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://regex101.com/" target="_blank" rel="noopener noreferrer">regex101&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="ideas">Ideas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://endler.dev/2025/best-programmers/" target="_blank" rel="noopener noreferrer">Best programmers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mtlynch.io/code-review-love/" target="_blank" rel="noopener noreferrer">How to Make Your Code Reviewer Fall in Love with You&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://vitonsky.net/blog/2025/05/17/language-detection/" target="_blank" rel="noopener noreferrer">Don&amp;rsquo;t Guess My Language&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="hosting">Hosting&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889" target="_blank" rel="noopener noreferrer">How to setup a practically free CDN using Backblaze B2 and Cloudflare&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="other">Other&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/" target="_blank" rel="noopener noreferrer">Programing Playgrounds&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tonsky.me/blog/emoji/" target="_blank" rel="noopener noreferrer">Emoji under the hood&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Collection of map links, often OpenStreetMap</title><link>https://starsep.com/links/maps/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/maps/</guid><description>&lt;h1 id="collection-of-map-links-often-openstreetmap">Collection of map links, often OpenStreetMap&lt;/h1>
+&lt;h2 id="python">Python&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://python-visualization.github.io/folium/" target="_blank" rel="noopener noreferrer">Folium&lt;/a> - Manipulate your data in Python, then visualize it in a Leaflet map&lt;/li>
+&lt;li>&lt;a href="https://github.com/marceloprates/prettymaps" target="_blank" rel="noopener noreferrer">prettymaps&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="interesting-places">Interesting places&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Trampe_bicycle_lift" target="_blank" rel="noopener noreferrer">Trampe bicycle lift&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="openstreetmap-tools">OpenStreetMap Tools&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://tools.geofabrik.de/mc/" target="_blank" rel="noopener noreferrer">Map Compare&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tools.geofabrik.de/osmi" target="_blank" rel="noopener noreferrer">OSM Inspector&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gitlab.com/stalker314314/gtfs-osm-validator" target="_blank" rel="noopener noreferrer">gtfs-osm-validator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nominatim.org/qa/" target="_blank" rel="noopener noreferrer">Nominatim QA&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://anvaka.github.io/city-roads/" target="_blank" rel="noopener noreferrer">city roads&lt;/a> - render all roads in a city&lt;/li>
+&lt;li>&lt;a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer">Overpass Turbo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/ad-freiburg/pfaedle" target="_blank" rel="noopener noreferrer">pfaedle&lt;/a> - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data&lt;/li>
+&lt;/ul>
+&lt;h2 id="maps">Maps&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://osmapp.org/" target="_blank" rel="noopener noreferrer">OsmAPP&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cyclosm.org/" target="_blank" rel="noopener noreferrer">CyclOSM&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="gis">GIS&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://ihatecoordinatesystems.com/" target="_blank" rel="noopener noreferrer">I hate coordinate systems&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Collection of random, interesting links</title><link>https://starsep.com/links/random/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/random/</guid><description>&lt;h1 id="collection-of-random-interesting-links">Collection of random, interesting links&lt;/h1>
+&lt;h2 id="chemistry">Chemistry&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://lcamtuf.substack.com/p/a-requiem-for-amateur-chemistry" target="_blank" rel="noopener noreferrer">A requiem for amateur chemistry&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="energy">Energy&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://shkspr.mobi/blog/2021/10/no-you-cant-save-30-per-year-by-switching-off-your-standby-devices/" target="_blank" rel="noopener noreferrer">No, you can&amp;rsquo;t save £30 per year by switching off your &amp;ldquo;standby&amp;rdquo; devices&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="workout">Workout&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://musclewiki.com/" target="_blank" rel="noopener noreferrer">Muscle Wiki&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stretch15.com/" target="_blank" rel="noopener noreferrer">Stretch 15&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="quality-of-life">Quality of Life&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://rustle.ca/posts/articles/work-from-home-lighting" target="_blank" rel="noopener noreferrer">WFH lighting&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="economy">Economy&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Perverse_incentive" target="_blank" rel="noopener noreferrer">Perverse incentive&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="lingustics">Lingustics&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://en.wikipedia.org/wiki/Spoonerism" target="_blank" rel="noopener noreferrer">Spoonerism&lt;/a> - switched consonants e.g. &lt;code>runny babbit&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="ideas">Ideas&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.zachbellay.com/daily/hacker-news-favorite-laws-and-principles/" target="_blank" rel="noopener noreferrer">HN&amp;rsquo; Favorite Laws and Principles&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://noyb.eu" target="_blank" rel="noopener noreferrer">noyb&lt;/a>none of your business&lt;/li>
+&lt;/ul>
+&lt;h2 id="bicycles">Bicycles&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.bicyclerollingresistance.com/" target="_blank" rel="noopener noreferrer">Bicycle Rolling Resistance&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Collection of links related to games</title><link>https://starsep.com/links/game/</link><pubDate>Sun, 27 Apr 2025 14:38:12 +0200</pubDate><guid>https://starsep.com/links/game/</guid><description>&lt;h1 id="video-games">Video Games&lt;/h1>
 &lt;ul>
 &lt;li>&lt;a href="https://steamdb.info/" target="_blank" rel="noopener noreferrer">Steam DB&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.protondb.com/" target="_blank" rel="noopener noreferrer">Proton DB&lt;/a>&lt;/li>
@@ -7,6 +352,7 @@
 &lt;li>&lt;a href="https://isthereanydeal.com" target="_blank" rel="noopener noreferrer">Is There Any Deal&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://xbdeals.net/" target="_blank" rel="noopener noreferrer">XB Deals&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://play.buzzinga.io/" target="_blank" rel="noopener noreferrer">Buzzinga: Jeopardy/VaBanque show game&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://david-peter.de/cube-composer/" target="_blank" rel="noopener noreferrer">Cube Composer&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="factorio">Factorio&lt;/h2>
 &lt;ul>

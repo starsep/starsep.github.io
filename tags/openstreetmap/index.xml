@@ -1,4 +1,33 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>OpenStreetMap - Tag - Filip Czaplicki</title><link>https://starsep.com/tags/openstreetmap/</link><description>OpenStreetMap - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 09 Jul 2024 20:52:32 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/openstreetmap/" rel="self" type="application/rss+xml"/><item><title>OpenStreetMap Software Projects</title><link>https://starsep.com/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/posts/osm/</guid><description><![CDATA[<p>I&rsquo;ve been contributing to OpenStreetMap for a few years now.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>OpenStreetMap - Tag - Filip Czaplicki</title><link>https://starsep.com/tags/openstreetmap/</link><description>OpenStreetMap - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 15 Aug 2025 17:50:05 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/openstreetmap/" rel="self" type="application/rss+xml"/><item><title>Collection of map links, often OpenStreetMap</title><link>https://starsep.com/links/maps/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/maps/</guid><description><![CDATA[<h1 id="collection-of-map-links-often-openstreetmap">Collection of map links, often OpenStreetMap</h1>
+<h2 id="python">Python</h2>
+<ul>
+<li><a href="https://python-visualization.github.io/folium/" target="_blank" rel="noopener noreferrer">Folium</a> - Manipulate your data in Python, then visualize it in a Leaflet map</li>
+<li><a href="https://github.com/marceloprates/prettymaps" target="_blank" rel="noopener noreferrer">prettymaps</a></li>
+</ul>
+<h2 id="interesting-places">Interesting places</h2>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Trampe_bicycle_lift" target="_blank" rel="noopener noreferrer">Trampe bicycle lift</a></li>
+</ul>
+<h2 id="openstreetmap-tools">OpenStreetMap Tools</h2>
+<ul>
+<li><a href="https://tools.geofabrik.de/mc/" target="_blank" rel="noopener noreferrer">Map Compare</a></li>
+<li><a href="https://tools.geofabrik.de/osmi" target="_blank" rel="noopener noreferrer">OSM Inspector</a></li>
+<li><a href="https://gitlab.com/stalker314314/gtfs-osm-validator" target="_blank" rel="noopener noreferrer">gtfs-osm-validator</a></li>
+<li><a href="https://nominatim.org/qa/" target="_blank" rel="noopener noreferrer">Nominatim QA</a></li>
+<li><a href="https://anvaka.github.io/city-roads/" target="_blank" rel="noopener noreferrer">city roads</a> - render all roads in a city</li>
+<li><a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer">Overpass Turbo</a></li>
+<li><a href="https://github.com/ad-freiburg/pfaedle" target="_blank" rel="noopener noreferrer">pfaedle</a> - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data</li>
+</ul>
+<h2 id="maps">Maps</h2>
+<ul>
+<li><a href="https://osmapp.org/" target="_blank" rel="noopener noreferrer">OsmAPP</a></li>
+<li><a href="https://www.cyclosm.org/" target="_blank" rel="noopener noreferrer">CyclOSM</a></li>
+<li><a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains</a></li>
+</ul>
+<h1 id="gis">GIS</h1>
+<ul>
+<li><a href="https://ihatecoordinatesystems.com/" target="_blank" rel="noopener noreferrer">I hate coordinate systems</a></li>
+</ul>]]></description></item><item><title>OpenStreetMap Software Projects</title><link>https://starsep.com/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/posts/osm/</guid><description><![CDATA[<p>I&rsquo;ve been contributing to OpenStreetMap for a few years now.
 Basically it&rsquo;s a map that anyone can edit: Wikipedia for maps.</p>
 <p>I maintain a few software projects related to OpenStreetMap:</p>
 <ul>
