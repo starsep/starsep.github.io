@@ -1,22 +1,22 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Software - Tag - Filip Czaplicki</title><link>https://starsep.com/tags/software/</link><description>Software - Tag - Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 09 Aug 2023 21:35:26 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/software/" rel="self" type="application/rss+xml"/><item><title>CLI</title><link>https://starsep.com/posts/cli/</link><pubDate>Wed, 09 Aug 2023 21:35:26 +0200</pubDate><guid>https://starsep.com/posts/cli/</guid><description><![CDATA[<p>This is the list of CLI tools I found useful someday.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Software on Filip Czaplicki</title><link>https://starsep.com/tags/software/</link><description>Recent content in Software on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 09 Aug 2023 21:35:26 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/software/index.xml" rel="self" type="application/rss+xml"/><item><title>CLI</title><link>https://starsep.com/posts/cli/</link><pubDate>Wed, 09 Aug 2023 21:35:26 +0200</pubDate><guid>https://starsep.com/posts/cli/</guid><description>&lt;p>This is the list of CLI tools I found useful someday.
 It is useful reference as remembering all script names and options is cumbersome.
-Especially those I use rarely.</p>
-<h2 id="ripgrep">ripgrep</h2>
-<p><a href="https://github.com/BurntSushi/ripgrep" target="_blank" rel="noopener noreferrer">rg</a> (ripgrep): great <code>grep</code> replacement.</p>
-<p>Recursive search and respects .gitignore by default.</p>
-<p>Possible to configure per repository with .rgignore</p>
-<p>Useful options:</p>
-<ul>
-<li><code>-i</code>: case <strong>i</strong>nsentive</li>
-<li><code>-v</code>: in<strong>v</strong>ert matching</li>
-<li><code>-A n</code>(<strong>a</strong>fter), <code>-B n</code>(<strong>b</strong>efore), <code>-C n</code>(<strong>c</strong>ontext). <code>n</code> is number of lines</li>
-<li><code>-u</code>, <code>-uu</code>, <code>-uuu</code>: <strong>u</strong>nrestricted searching with gitignored, hidden, and binary files</li>
-<li><code>-l</code>: <strong>l</strong>ist files matching</li>
-<li><code>-e</code>: patt<strong>e</strong>rn (regex) to search for. Useful when using multiple patterns</li>
-<li><code>-o</code>: show <strong>o</strong>nly matching fragment</li>
-</ul>
-<h2 id="sd">sd</h2>
-<p><a href="https://github.com/chmln/sd" target="_blank" rel="noopener noreferrer">sd</a>: sed alternative</p>]]></description></item><item><title>Nix</title><link>https://starsep.com/posts/nix/</link><pubDate>Sun, 25 Jun 2023 14:49:31 +0200</pubDate><guid>https://starsep.com/posts/nix/</guid><description>&lt;h2 id="what-is-nix">What is Nix?&lt;/h2>
+Especially those I use rarely.&lt;/p>
+&lt;h2 id="ripgrep">ripgrep&lt;/h2>
+&lt;p>&lt;a href="https://github.com/BurntSushi/ripgrep" target="_blank" rel="noopener noreferrer">rg&lt;/a> (ripgrep): great &lt;code>grep&lt;/code> replacement.&lt;/p>
+&lt;p>Recursive search and respects .gitignore by default.&lt;/p>
+&lt;p>Possible to configure per repository with .rgignore&lt;/p>
+&lt;p>Useful options:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>-i&lt;/code>: case &lt;strong>i&lt;/strong>nsentive&lt;/li>
+&lt;li>&lt;code>-v&lt;/code>: in&lt;strong>v&lt;/strong>ert matching&lt;/li>
+&lt;li>&lt;code>-A n&lt;/code>(&lt;strong>a&lt;/strong>fter), &lt;code>-B n&lt;/code>(&lt;strong>b&lt;/strong>efore), &lt;code>-C n&lt;/code>(&lt;strong>c&lt;/strong>ontext). &lt;code>n&lt;/code> is number of lines&lt;/li>
+&lt;li>&lt;code>-u&lt;/code>, &lt;code>-uu&lt;/code>, &lt;code>-uuu&lt;/code>: &lt;strong>u&lt;/strong>nrestricted searching with gitignored, hidden, and binary files&lt;/li>
+&lt;li>&lt;code>-l&lt;/code>: &lt;strong>l&lt;/strong>ist files matching&lt;/li>
+&lt;li>&lt;code>-e&lt;/code>: patt&lt;strong>e&lt;/strong>rn (regex) to search for. Useful when using multiple patterns&lt;/li>
+&lt;li>&lt;code>-o&lt;/code>: show &lt;strong>o&lt;/strong>nly matching fragment&lt;/li>
+&lt;/ul>
+&lt;h2 id="sd">sd&lt;/h2>
+&lt;p>&lt;a href="https://github.com/chmln/sd" target="_blank" rel="noopener noreferrer">sd&lt;/a>: sed alternative&lt;/p></description></item><item><title>Nix</title><link>https://starsep.com/posts/nix/</link><pubDate>Sun, 25 Jun 2023 14:49:31 +0200</pubDate><guid>https://starsep.com/posts/nix/</guid><description>&lt;h2 id="what-is-nix">What is Nix?&lt;/h2>
 &lt;p>I recently started using Nix. It is a package manager and a build system. It uses its own functional programming language.
 At the moment I use it only as a package manager. For years, I maintained Ansible playbook for setting up my development environments.
 Nix allows to simplify it and eventually might even replace it.
