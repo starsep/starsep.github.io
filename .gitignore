@@ -5,3 +5,4 @@ generated
 resources
 .hugo_build.lock
 .idea
+.direnv
