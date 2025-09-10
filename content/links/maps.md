@@ -1,4 +1,4 @@
---
+---
 title: Collection of map links, often OpenStreetMap
 slug: maps
 toc: false
