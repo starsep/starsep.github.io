@@ -21,8 +21,9 @@ tags: ["fun", "random"]
 ## Quality of Life
 - [WFH lighting](https://rustle.ca/posts/articles/work-from-home-lighting)
 
-## Economy
+## Economy/Finance
 - [Perverse incentive](https://en.wikipedia.org/wiki/Perverse_incentive)
+- [Spliit](https://spliit.app/) - Share Expenses with Friends & Family
 
 ## Lingustics
 - [Spoonerism](https://en.wikipedia.org/wiki/Spoonerism) - switched consonants e.g. `runny babbit`
@@ -33,3 +34,6 @@ tags: ["fun", "random"]
 
 ## Bicycles
 - [Bicycle Rolling Resistance](https://www.bicyclerollingresistance.com/)
+
+## Weather
+- [Merry Sky](https://merrysky.net/)

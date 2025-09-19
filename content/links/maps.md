@@ -29,5 +29,11 @@ tags: ["maps", "OpenStreetMap"]
 - [CyclOSM](https://www.cyclosm.org/)
 - [Chronotrains](https://www.chronotrains.com/)
 
-# GIS
+## GIS
 - [I hate coordinate systems](https://ihatecoordinatesystems.com/)
+
+## Map games
+- [travle](https://travle.earth) - Name countries to travel from the Start Country to the End Country. Try to get there in the fewest guesses!
+
+## Warsaw
+- [Warsaw spring tree map](https://pl.kut.pub/wiosna.html)

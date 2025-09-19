@@ -134,8 +134,12 @@ tags: ["Technology"]
 - [presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool. Looks cool but I have never used it
 - [An option to highlight a "Note" and "Warning" using blockquote in Github](https://github.com/community/community/discussions/16925)
 
-## Diagrams
+## Diagrams/Visualization
 - [Asciiflow](https://asciiflow.com/) - web app for ASCII diagrams
+- [The Data Visualisation Catalogue ](https://datavizcatalogue.com/index.html)
+
+## Design
+- [OnLook](https://www.onlook.com/) - "Cursor for Designers" - AI design tool
 
 ## 3D Rendering
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) - how OpenGL works: software rendering in 500 lines of code
@@ -156,6 +160,7 @@ tags: ["Technology"]
 - [Networking Cheat Sheet](https://code.mendhak.com/networking-cheat-sheet/)
 - [Make CapsLock useful](https://code.mendhak.com/make-caps-lock-useful/)
 - [Linux oneliners](https://linuxcommandlibrary.com/basic/oneliners)
+- [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 
 ## Kobo (ebook reader)
 - [Kobo customizations](https://code.mendhak.com/kobo-customizations/)
@@ -221,6 +226,7 @@ tags: ["Technology"]
 
 ## Security
 - [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
+- [The Copenhagen Book](https://thecopenhagenbook.com/) - general guideline on implementing auth in web applications
 
 ## Open Source
 - [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
@@ -242,9 +248,16 @@ tags: ["Technology"]
 - [Best programmers](https://endler.dev/2025/best-programmers/)
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
+- [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
 
 ## Hosting
 - [How to setup a practically free CDN using Backblaze B2 and Cloudflare](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
+
+## Programming libraries
+- [Sqids](https://sqids.org/) - generate short unique identifiers from numbers. IDs are URL-safe, can encode several numbers, and do not contain common profanity words
+
+## Graphics
+- [SVGViewer](https://www.svgviewer.dev/)
 
 ## Other
 - [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)

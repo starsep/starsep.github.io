@@ -47,3 +47,6 @@ tags: ["Games"]
 - [Ganz schön clever/That's Pretty Clever!](https://brettspielwelt.de/ganzschoenclever/)
 - [BoardGameGeek collection pricing calculator](http://bgg.jsmackin.co.uk/)
 - [My collection of board games](/board-games-collection), [geekgroup version](https://geekgroup.app/users/starsep/collection)
+
+# Other
+- [Poker Chipper](https://jstrieb.github.io/poker-chipper/)
