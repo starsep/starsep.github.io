@@ -1,4 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Filip Czaplicki</title><link>https://starsep.com/links/</link><description>Recent content in Links on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 15 Aug 2025 17:50:05 +0200</lastBuildDate><atom:link href="https://starsep.com/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of links related to Technology</title><link>https://starsep.com/links/tech/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/tech/</guid><description>&lt;h1 id="collection-of-links-related-to-technology">Collection of links related to Technology&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Filip Czaplicki</title><link>https://starsep.com/links/</link><description>Recent content in Links on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 19 Sep 2025 21:20:05 +0200</lastBuildDate><atom:link href="https://starsep.com/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of Transport-related links</title><link>https://starsep.com/links/transport/</link><pubDate>Fri, 19 Sep 2025 21:20:05 +0200</pubDate><guid>https://starsep.com/links/transport/</guid><description>&lt;h2 id="poland">Poland&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.intercity.pl" target="_blank" rel="noopener noreferrer">PKP Intercity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/pociagi-i-stacje/zestawienia-pociagow.html" target="_blank" rel="noopener noreferrer">PKP Intercity Zestawienia pociągów&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="japan">Japan&lt;/h2>
+&lt;ul>
+&lt;li>[Japan Transit Planner][https://world.jorudan.co.jp/mln/en/]&lt;/li>
+&lt;/ul></description></item><item><title>Collection of links related to Technology</title><link>https://starsep.com/links/tech/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/tech/</guid><description>&lt;h1 id="collection-of-links-related-to-technology">Collection of links related to Technology&lt;/h1>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://pythonspeed.com/fil/" target="_blank" rel="noopener noreferrer">Fil&lt;/a> - Easy Python memory profiling for data scientists and scientists with Fil&lt;/li>
@@ -139,9 +147,14 @@
 &lt;li>&lt;a href="https://github.com/mfontanini/presenterm" target="_blank" rel="noopener noreferrer">presenterm&lt;/a> - A markdown terminal slideshow tool. Looks cool but I have never used it&lt;/li>
 &lt;li>&lt;a href="https://github.com/community/community/discussions/16925" target="_blank" rel="noopener noreferrer">An option to highlight a &amp;ldquo;Note&amp;rdquo; and &amp;ldquo;Warning&amp;rdquo; using blockquote in Github&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="diagrams">Diagrams&lt;/h2>
+&lt;h2 id="diagramsvisualization">Diagrams/Visualization&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://asciiflow.com/" target="_blank" rel="noopener noreferrer">Asciiflow&lt;/a> - web app for ASCII diagrams&lt;/li>
+&lt;li>&lt;a href="https://datavizcatalogue.com/index.html" target="_blank" rel="noopener noreferrer">The Data Visualisation Catalogue &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="design">Design&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.onlook.com/" target="_blank" rel="noopener noreferrer">OnLook&lt;/a> - &amp;ldquo;Cursor for Designers&amp;rdquo; - AI design tool&lt;/li>
 &lt;/ul>
 &lt;h2 id="3d-rendering">3D Rendering&lt;/h2>
 &lt;ul>
@@ -165,6 +178,7 @@
 &lt;li>&lt;a href="https://code.mendhak.com/networking-cheat-sheet/" target="_blank" rel="noopener noreferrer">Networking Cheat Sheet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://code.mendhak.com/make-caps-lock-useful/" target="_blank" rel="noopener noreferrer">Make CapsLock useful&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://linuxcommandlibrary.com/basic/oneliners" target="_blank" rel="noopener noreferrer">Linux oneliners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html" target="_blank" rel="noopener noreferrer">Linux Crisis Tools&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="kobo-ebook-reader">Kobo (ebook reader)&lt;/h2>
 &lt;ul>
@@ -243,6 +257,7 @@
 &lt;h2 id="security">Security&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.stavros.io/posts/u2f-fido2-with-ssh/" target="_blank" rel="noopener noreferrer">U2F FIDO with SSH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thecopenhagenbook.com/" target="_blank" rel="noopener noreferrer">The Copenhagen Book&lt;/a> - general guideline on implementing auth in web applications&lt;/li>
 &lt;/ul>
 &lt;h2 id="open-source">Open Source&lt;/h2>
 &lt;ul>
@@ -270,10 +285,19 @@
 &lt;li>&lt;a href="https://endler.dev/2025/best-programmers/" target="_blank" rel="noopener noreferrer">Best programmers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mtlynch.io/code-review-love/" target="_blank" rel="noopener noreferrer">How to Make Your Code Reviewer Fall in Love with You&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://vitonsky.net/blog/2025/05/17/language-detection/" target="_blank" rel="noopener noreferrer">Don&amp;rsquo;t Guess My Language&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/" target="_blank" rel="noopener noreferrer">Please Make Your Table Headings Sticky&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="hosting">Hosting&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889" target="_blank" rel="noopener noreferrer">How to setup a practically free CDN using Backblaze B2 and Cloudflare&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="programming-libraries">Programming libraries&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sqids.org/" target="_blank" rel="noopener noreferrer">Sqids&lt;/a> - generate short unique identifiers from numbers. IDs are URL-safe, can encode several numbers, and do not contain common profanity words&lt;/li>
+&lt;/ul>
+&lt;h2 id="graphics">Graphics&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.svgviewer.dev/" target="_blank" rel="noopener noreferrer">SVGViewer&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="other">Other&lt;/h2>
 &lt;ul>
@@ -306,9 +330,17 @@
 &lt;li>&lt;a href="https://www.cyclosm.org/" target="_blank" rel="noopener noreferrer">CyclOSM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h1 id="gis">GIS&lt;/h1>
+&lt;h2 id="gis">GIS&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://ihatecoordinatesystems.com/" target="_blank" rel="noopener noreferrer">I hate coordinate systems&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="map-games">Map games&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://travle.earth" target="_blank" rel="noopener noreferrer">travle&lt;/a> - Name countries to travel from the Start Country to the End Country. Try to get there in the fewest guesses!&lt;/li>
+&lt;/ul>
+&lt;h2 id="warsaw">Warsaw&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://pl.kut.pub/wiosna.html" target="_blank" rel="noopener noreferrer">Warsaw spring tree map&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of random, interesting links</title><link>https://starsep.com/links/random/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/random/</guid><description>&lt;h1 id="collection-of-random-interesting-links">Collection of random, interesting links&lt;/h1>
 &lt;h2 id="chemistry">Chemistry&lt;/h2>
 &lt;ul>
@@ -327,9 +359,10 @@
 &lt;ul>
 &lt;li>&lt;a href="https://rustle.ca/posts/articles/work-from-home-lighting" target="_blank" rel="noopener noreferrer">WFH lighting&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="economy">Economy&lt;/h2>
+&lt;h2 id="economyfinance">Economy/Finance&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://en.wikipedia.org/wiki/Perverse_incentive" target="_blank" rel="noopener noreferrer">Perverse incentive&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://spliit.app/" target="_blank" rel="noopener noreferrer">Spliit&lt;/a> - Share Expenses with Friends &amp;amp; Family&lt;/li>
 &lt;/ul>
 &lt;h2 id="lingustics">Lingustics&lt;/h2>
 &lt;ul>
@@ -343,6 +376,10 @@
 &lt;h2 id="bicycles">Bicycles&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.bicyclerollingresistance.com/" target="_blank" rel="noopener noreferrer">Bicycle Rolling Resistance&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="weather">Weather&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://merrysky.net/" target="_blank" rel="noopener noreferrer">Merry Sky&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of links related to games</title><link>https://starsep.com/links/game/</link><pubDate>Sun, 27 Apr 2025 14:38:12 +0200</pubDate><guid>https://starsep.com/links/game/</guid><description>&lt;h1 id="video-games">Video Games&lt;/h1>
 &lt;ul>
 &lt;li>&lt;a href="https://steamdb.info/" target="_blank" rel="noopener noreferrer">Steam DB&lt;/a>&lt;/li>
@@ -390,4 +427,8 @@
 &lt;li>&lt;a href="https://brettspielwelt.de/ganzschoenclever/" target="_blank" rel="noopener noreferrer">Ganz schön clever/That&amp;rsquo;s Pretty Clever!&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://bgg.jsmackin.co.uk/" target="_blank" rel="noopener noreferrer">BoardGameGeek collection pricing calculator&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://starsep.com/board-games-collection" rel="">My collection of board games&lt;/a>, &lt;a href="https://geekgroup.app/users/starsep/collection" target="_blank" rel="noopener noreferrer">geekgroup version&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="other">Other&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://jstrieb.github.io/poker-chipper/" target="_blank" rel="noopener noreferrer">Poker Chipper&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

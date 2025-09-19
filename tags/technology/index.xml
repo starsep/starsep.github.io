@@ -139,9 +139,14 @@
 &lt;li>&lt;a href="https://github.com/mfontanini/presenterm" target="_blank" rel="noopener noreferrer">presenterm&lt;/a> - A markdown terminal slideshow tool. Looks cool but I have never used it&lt;/li>
 &lt;li>&lt;a href="https://github.com/community/community/discussions/16925" target="_blank" rel="noopener noreferrer">An option to highlight a &amp;ldquo;Note&amp;rdquo; and &amp;ldquo;Warning&amp;rdquo; using blockquote in Github&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="diagrams">Diagrams&lt;/h2>
+&lt;h2 id="diagramsvisualization">Diagrams/Visualization&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://asciiflow.com/" target="_blank" rel="noopener noreferrer">Asciiflow&lt;/a> - web app for ASCII diagrams&lt;/li>
+&lt;li>&lt;a href="https://datavizcatalogue.com/index.html" target="_blank" rel="noopener noreferrer">The Data Visualisation Catalogue &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="design">Design&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.onlook.com/" target="_blank" rel="noopener noreferrer">OnLook&lt;/a> - &amp;ldquo;Cursor for Designers&amp;rdquo; - AI design tool&lt;/li>
 &lt;/ul>
 &lt;h2 id="3d-rendering">3D Rendering&lt;/h2>
 &lt;ul>
@@ -165,6 +170,7 @@
 &lt;li>&lt;a href="https://code.mendhak.com/networking-cheat-sheet/" target="_blank" rel="noopener noreferrer">Networking Cheat Sheet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://code.mendhak.com/make-caps-lock-useful/" target="_blank" rel="noopener noreferrer">Make CapsLock useful&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://linuxcommandlibrary.com/basic/oneliners" target="_blank" rel="noopener noreferrer">Linux oneliners&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html" target="_blank" rel="noopener noreferrer">Linux Crisis Tools&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="kobo-ebook-reader">Kobo (ebook reader)&lt;/h2>
 &lt;ul>
@@ -243,6 +249,7 @@
 &lt;h2 id="security">Security&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.stavros.io/posts/u2f-fido2-with-ssh/" target="_blank" rel="noopener noreferrer">U2F FIDO with SSH&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://thecopenhagenbook.com/" target="_blank" rel="noopener noreferrer">The Copenhagen Book&lt;/a> - general guideline on implementing auth in web applications&lt;/li>
 &lt;/ul>
 &lt;h2 id="open-source">Open Source&lt;/h2>
 &lt;ul>
@@ -270,10 +277,19 @@
 &lt;li>&lt;a href="https://endler.dev/2025/best-programmers/" target="_blank" rel="noopener noreferrer">Best programmers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mtlynch.io/code-review-love/" target="_blank" rel="noopener noreferrer">How to Make Your Code Reviewer Fall in Love with You&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://vitonsky.net/blog/2025/05/17/language-detection/" target="_blank" rel="noopener noreferrer">Don&amp;rsquo;t Guess My Language&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/" target="_blank" rel="noopener noreferrer">Please Make Your Table Headings Sticky&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="hosting">Hosting&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889" target="_blank" rel="noopener noreferrer">How to setup a practically free CDN using Backblaze B2 and Cloudflare&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="programming-libraries">Programming libraries&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://sqids.org/" target="_blank" rel="noopener noreferrer">Sqids&lt;/a> - generate short unique identifiers from numbers. IDs are URL-safe, can encode several numbers, and do not contain common profanity words&lt;/li>
+&lt;/ul>
+&lt;h2 id="graphics">Graphics&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.svgviewer.dev/" target="_blank" rel="noopener noreferrer">SVGViewer&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="other">Other&lt;/h2>
 &lt;ul>
