@@ -26,4 +26,3 @@ Park jest dobrze skomunikowany: obok metro Młynów/Księcia Janusza, stacje kol
 Dobry dojazd rowerem.
 
 {{< image src="/img/mapa-piknik.png" >}}
-https://felt.com/map/Piknik-Park-Sowinskiego-w9CErkn8XQq239Av3Kt7GpXC?loc=52.23386,20.948353,16.41z&share=1
