@@ -30,10 +30,13 @@ tags: ["fun", "random"]
 
 ## Ideas
 - [HN' Favorite Laws and Principles](https://www.zachbellay.com/daily/hacker-news-favorite-laws-and-principles/)
-- [noyb](https://noyb.eu)none of your business
+- [noyb](https://noyb.eu) - none of your business
 
 ## Bicycles
 - [Bicycle Rolling Resistance](https://www.bicyclerollingresistance.com/)
 
 ## Weather
 - [Merry Sky](https://merrysky.net/)
+
+## Others
+- [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
