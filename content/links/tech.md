@@ -62,6 +62,7 @@ tags: ["Technology"]
 - [You don't need JS](https://lexoral.com/blog/you-dont-need-js/)
 - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
 - [Accessible hamburger buttons without JavaScript](https://www.matsimon.dev/blog/accessible-hamburger-buttons-without-javascript)
+- [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## CSS
 - [CSS Tips](https://markodenic.com/css-tips/)
@@ -232,6 +233,8 @@ tags: ["Technology"]
 
 ## Open Source
 - [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
+- [Choose an open source license](https://choosealicense.com/)
+- [Open Source Guide](https://opensource.guide/)
 
 ## Game Development
 - [Defold](https://defold.com/)
@@ -274,8 +277,22 @@ tags: ["Technology"]
 
 ## Graphics
 - [SVGViewer](https://www.svgviewer.dev/)
+- [VTracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converte
+
+## Compression
+- [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/)
+- [Squoosh](https://squoosh.app/) - image compression web app
+- [svgo](https://github.com/svg/svgo)
+- [oxipng](https://github.com/oxipng/oxipng)
+- [jpegoptim](https://github.com/tjko/jpegoptim)
+- [zstd](https://github.com/facebook/zstd)
+- [OpenZL](https://openzl.org/) - specialized compressor optimized for specific format
+
+## Hashing
+- [xxhash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 
 ## Other
 - [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
 - [Emoji under the hood](https://tonsky.me/blog/emoji/)
 - [SearchCode](https://searchcode.com/)
+- [CPU Benchmark](https://www.cpubenchmark.net/)

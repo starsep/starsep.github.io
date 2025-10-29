@@ -28,6 +28,7 @@ tags: ["maps", "OpenStreetMap"]
 - [OsmAPP](https://osmapp.org/)
 - [CyclOSM](https://www.cyclosm.org/)
 - [Chronotrains](https://www.chronotrains.com/)
+- [Trail Router](https://trailrouter.com/)
 
 ## GIS
 - [I hate coordinate systems](https://ihatecoordinatesystems.com/)
