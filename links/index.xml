@@ -1,4 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Filip Czaplicki</title><link>https://starsep.com/links/</link><description>Recent content in Links on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 19 Sep 2025 21:20:05 +0200</lastBuildDate><atom:link href="https://starsep.com/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of Transport-related links</title><link>https://starsep.com/links/transport/</link><pubDate>Fri, 19 Sep 2025 21:20:05 +0200</pubDate><guid>https://starsep.com/links/transport/</guid><description>&lt;h2 id="poland">Poland&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Links on Filip Czaplicki</title><link>https://starsep.com/links/</link><description>Recent content in Links on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 21 Sep 2025 08:50:05 +0200</lastBuildDate><atom:link href="https://starsep.com/links/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of recipes</title><link>https://starsep.com/links/random/</link><pubDate>Sun, 21 Sep 2025 08:50:05 +0200</pubDate><guid>https://starsep.com/links/random/</guid><description>&lt;h2 id="slushiesmilkshakes">Slushies/milkshakes&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://ninjatestkitchen.eu/recipe/frozen-blood-orange-margarita/" target="_blank" rel="noopener noreferrer">Frozen Blood Orange Margarita&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sharkninja.com/pineapple-rum-slushi/REC15542.html" target="_blank" rel="noopener noreferrer">Pineapple Rum Slushi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sharkninja.com/hard-cider-slushi/REC14847.html" target="_blank" rel="noopener noreferrer">Hard Cider Slushi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sharkninja.com/coconut-lime-daiquiri-slushi/REC14521.html" target="_blank" rel="noopener noreferrer">Coconut Lime Daiquiri Slushi&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.sharkninja.com/easy-chocolate-milkshake-slushi/REC14564.html" target="_blank" rel="noopener noreferrer">Chocolate Milkshake Slushi&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Collection of Transport-related links</title><link>https://starsep.com/links/transport/</link><pubDate>Fri, 19 Sep 2025 21:20:05 +0200</pubDate><guid>https://starsep.com/links/transport/</guid><description>&lt;h2 id="poland">Poland&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.intercity.pl" target="_blank" rel="noopener noreferrer">PKP Intercity&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/pociagi-i-stacje/zestawienia-pociagow.html" target="_blank" rel="noopener noreferrer">PKP Intercity Zestawienia pociągów&lt;/a>&lt;/li>
@@ -67,6 +74,7 @@
 &lt;li>&lt;a href="https://lexoral.com/blog/you-dont-need-js/" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need JS&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.htmhell.dev/adventcalendar/2023/2/" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need JavaScript for that&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.matsimon.dev/blog/accessible-hamburger-buttons-without-javascript" target="_blank" rel="noopener noreferrer">Accessible hamburger buttons without JavaScript&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://lyra.horse/blog/2025/08/you-dont-need-js/" target="_blank" rel="noopener noreferrer">You no longer need JavaScript&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="css">CSS&lt;/h2>
 &lt;ul>
@@ -264,6 +272,8 @@
 &lt;h2 id="open-source">Open Source&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://boyter.org/posts/the-three-f-s-of-open-source/" target="_blank" rel="noopener noreferrer">The Three F&amp;rsquo;s of Open Source Development&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://choosealicense.com/" target="_blank" rel="noopener noreferrer">Choose an open source license&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://opensource.guide/" target="_blank" rel="noopener noreferrer">Open Source Guide&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="game-development">Game Development&lt;/h2>
 &lt;ul>
@@ -314,12 +324,28 @@
 &lt;h2 id="graphics">Graphics&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.svgviewer.dev/" target="_blank" rel="noopener noreferrer">SVGViewer&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/visioncortex/vtracer" target="_blank" rel="noopener noreferrer">VTracer&lt;/a> - Raster to Vector Graphics Converte&lt;/li>
+&lt;/ul>
+&lt;h2 id="compression">Compression&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://go-compression.github.io/" target="_blank" rel="noopener noreferrer">The Hitchhiker’s Guide to Compression&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://squoosh.app/" target="_blank" rel="noopener noreferrer">Squoosh&lt;/a> - image compression web app&lt;/li>
+&lt;li>&lt;a href="https://github.com/svg/svgo" target="_blank" rel="noopener noreferrer">svgo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/oxipng/oxipng" target="_blank" rel="noopener noreferrer">oxipng&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/tjko/jpegoptim" target="_blank" rel="noopener noreferrer">jpegoptim&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/facebook/zstd" target="_blank" rel="noopener noreferrer">zstd&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openzl.org/" target="_blank" rel="noopener noreferrer">OpenZL&lt;/a> - specialized compressor optimized for specific format&lt;/li>
+&lt;/ul>
+&lt;h2 id="hashing">Hashing&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Cyan4973/xxHash" target="_blank" rel="noopener noreferrer">xxhash&lt;/a> - Extremely fast non-cryptographic hash algorithm&lt;/li>
 &lt;/ul>
 &lt;h2 id="other">Other&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/" target="_blank" rel="noopener noreferrer">Programing Playgrounds&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://tonsky.me/blog/emoji/" target="_blank" rel="noopener noreferrer">Emoji under the hood&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cpubenchmark.net/" target="_blank" rel="noopener noreferrer">CPU Benchmark&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of map links, often OpenStreetMap</title><link>https://starsep.com/links/maps/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/maps/</guid><description>&lt;h1 id="collection-of-map-links-often-openstreetmap">Collection of map links, often OpenStreetMap&lt;/h1>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
@@ -345,6 +371,7 @@
 &lt;li>&lt;a href="https://osmapp.org/" target="_blank" rel="noopener noreferrer">OsmAPP&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cyclosm.org/" target="_blank" rel="noopener noreferrer">CyclOSM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://trailrouter.com/" target="_blank" rel="noopener noreferrer">Trail Router&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="gis">GIS&lt;/h2>
 &lt;ul>
@@ -401,11 +428,28 @@
 &lt;ul>
 &lt;li>&lt;a href="https://www.neelnanda.io/blog/43-making-friends" target="_blank" rel="noopener noreferrer">Intentionally Making Close Friends&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://billmei.net/blog/bribe-friends" target="_blank" rel="noopener noreferrer">How to spend money on your friends without it looking like bribery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://josephthacker.com/personal/2025/05/13/root-for-your-friends.html" target="_blank" rel="noopener noreferrer">Root for your friends&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="art">Art&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://artvee.com/" target="_blank" rel="noopener noreferrer">Artvee&lt;/a> - Discover the best in Classical &amp;amp; Modern Art&lt;/li>
+&lt;/ul>
+&lt;h2 id="books">Books&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://books-search.typesense.org/" target="_blank" rel="noopener noreferrer">Books Search&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://standardebooks.org/" target="_blank" rel="noopener noreferrer">Standard Ebooks&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="typography">Typography&lt;/h2>
+&lt;ul>
+&lt;li>[Practical Typography]](&lt;a href="https://practicaltypography.com/" target="_blank" rel="noopener noreferrer">https://practicaltypography.com/&lt;/a>)&lt;/li>
 &lt;/ul>
 &lt;h2 id="others">Others&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://neal.fun/wonders-of-street-view/" target="_blank" rel="noopener noreferrer">Wonders of Street View&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.emilydamstra.com/please-enough-dead-butterflies/" target="_blank" rel="noopener noreferrer">Please, enough with the dead butterflies!&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.tylervigen.com/spurious-correlations" target="_blank" rel="noopener noreferrer">spurious correlations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://longbets.org/bets/" target="_blank" rel="noopener noreferrer">Long bets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want" target="_blank" rel="noopener noreferrer">How to Buy Gifts That People Actually Want&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of links related to games</title><link>https://starsep.com/links/game/</link><pubDate>Sun, 27 Apr 2025 14:38:12 +0200</pubDate><guid>https://starsep.com/links/game/</guid><description>&lt;h1 id="video-games">Video Games&lt;/h1>
 &lt;ul>
 &lt;li>&lt;a href="https://steamdb.info/" target="_blank" rel="noopener noreferrer">Steam DB&lt;/a>&lt;/li>
