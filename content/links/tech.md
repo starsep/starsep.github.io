@@ -137,6 +137,7 @@ tags: ["Technology"]
 ## Diagrams/Visualization
 - [Asciiflow](https://asciiflow.com/) - web app for ASCII diagrams
 - [The Data Visualisation Catalogue ](https://datavizcatalogue.com/index.html)
+- [Periodic Table of Visualisation Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 
 ## Design
 - [OnLook](https://www.onlook.com/) - "Cursor for Designers" - AI design tool
@@ -227,6 +228,7 @@ tags: ["Technology"]
 ## Security
 - [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
 - [The Copenhagen Book](https://thecopenhagenbook.com/) - general guideline on implementing auth in web applications
+- [End of Life](https://endoflife.date/)
 
 ## Open Source
 - [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
@@ -249,6 +251,20 @@ tags: ["Technology"]
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
 - [Please Make Your Table Headings Sticky](https://btxx.org/posts/Please_Make_Your_Table_Headings_Sticky/)
+- [I Am The Only User](https://blubsblog.bearblog.dev/i-am-the-only-user/)
+- [APIs for content sites must be free](https://www.somebits.com/weblog/culture/apis-for-content-sites-must-be-free.html)
+- [Just normal web things](https://heather-buchel.com/blog/2023/07/just-normal-web-things/)
+- [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+- [Magic/Tragic Email Links: Don’t make them the only option](https://recyclebin.zip/posts/annoyinglinks/)
+- [YAGRI: You are gonna read it](https://www.scottantipa.com/yagri)
+- [On loyalty to your employer](https://www.talentstuff.com/blog/on-loyalty-to-your-employer)
+- [The Curse of Knowing How, or; Fixing Everything](https://notashelf.dev/posts/curse-of-knowing)
+- [Don't Fuck With Scroll](https://dontfuckwithscroll.com)
+- [Public Money/Public Code](https://publiccode.eu/)
+- [Bookmarkable by Design: URL-Driven State in HTMX](https://www.lorenstew.art/blog/bookmarkable-by-design-url-state-htmx/)
+- [fast (as a software feature)](https://www.catherinejue.com/fast)
+- [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
+- [You should take more screenshots](https://alexwlchan.net/2022/screenshots/)
 
 ## Hosting
 - [How to setup a practically free CDN using Backblaze B2 and Cloudflare](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)

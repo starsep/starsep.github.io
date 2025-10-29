@@ -38,5 +38,10 @@ tags: ["fun", "random"]
 ## Weather
 - [Merry Sky](https://merrysky.net/)
 
+## Friends
+- [Intentionally Making Close Friends](https://www.neelnanda.io/blog/43-making-friends)
+- [How to spend money on your friends without it looking like bribery](https://billmei.net/blog/bribe-friends)
+
 ## Others
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
+- [Please, enough with the dead butterflies!](https://www.emilydamstra.com/please-enough-dead-butterflies/)
