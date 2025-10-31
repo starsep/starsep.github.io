@@ -115,6 +115,7 @@
 &lt;li>&lt;a href="https://cheats.rs/" target="_blank" rel="noopener noreferrer">Rust Cheat Sheet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://rust-lang-nursery.github.io/rust-cookbook/" target="_blank" rel="noopener noreferrer">Rust Cookbook&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://rust-exercises.com/" target="_blank" rel="noopener noreferrer">Rust Exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blessed.rs/crates" target="_blank" rel="noopener noreferrer">Blessed.rs&lt;/a> - An unofficial guide to the Rust ecosystem&lt;/li>
 &lt;/ul>
 &lt;h2 id="databases">Databases&lt;/h2>
 &lt;ul>
@@ -145,10 +146,12 @@
 &lt;li>&lt;a href="https://asciiflow.com/" target="_blank" rel="noopener noreferrer">Asciiflow&lt;/a> - web app for ASCII diagrams&lt;/li>
 &lt;li>&lt;a href="https://datavizcatalogue.com/index.html" target="_blank" rel="noopener noreferrer">The Data Visualisation Catalogue &lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" target="_blank" rel="noopener noreferrer">Periodic Table of Visualisation Methods&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://text-to-diagram.com" target="_blank" rel="noopener noreferrer">Text to Diagram Tools Comparison&lt;/a> - Compare D2, Mermaid, PlantUML &amp;amp; Graphviz side-by-side&lt;/li>
 &lt;/ul>
 &lt;h2 id="design">Design&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.onlook.com/" target="_blank" rel="noopener noreferrer">OnLook&lt;/a> - &amp;ldquo;Cursor for Designers&amp;rdquo; - AI design tool&lt;/li>
+&lt;li>&lt;a href="https://youdontneedamodalwindow.dev" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need a modal window&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="3d-rendering">3D Rendering&lt;/h2>
 &lt;ul>
@@ -276,6 +279,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://regexone.com/" target="_blank" rel="noopener noreferrer">RegexOne&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://regex101.com/" target="_blank" rel="noopener noreferrer">regex101&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://phylactery.org/antimirov/" target="_blank" rel="noopener noreferrer">antimirov&lt;/a> - algebraic manipulation of regular expressions&lt;/li>
 &lt;/ul>
 &lt;h2 id="ideas">Ideas&lt;/h2>
 &lt;ul>
@@ -332,4 +336,5 @@
 &lt;li>&lt;a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cpubenchmark.net/" target="_blank" rel="noopener noreferrer">CPU Benchmark&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dshearer.github.io/jobber/" target="_blank" rel="noopener noreferrer">Jobber&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.useragents.me/" target="_blank" rel="noopener noreferrer">Most common useragents seen on the web&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

@@ -28,6 +28,7 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://transitcosts.com/" target="_blank" rel="noopener noreferrer">Transit Costs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.jokteur.com/a/integrated-timetable-switzerland/" target="_blank" rel="noopener noreferrer">The integrated timetable of Switzerland&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://pedestrianobservations.com/" target="_blank" rel="noopener noreferrer">Pedestrian Observations&lt;/a> - transport blog&lt;/li>
+&lt;li>&lt;a href="https://magazyn.koleo.pl/zasada-numeracji-miejsc-w-wagonie/" target="_blank" rel="noopener noreferrer">Jaka jest logika numeracji miejsc w pociągach&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="bicycle">Bicycle&lt;/h2>
 &lt;ul>
@@ -47,6 +48,10 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://czynaczas.pl/#/" target="_blank" rel="noopener noreferrer">Czy na Czas&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.wtp.waw.pl/mapy-schematy/granice-stref-biletowych/" target="_blank" rel="noopener noreferrer">Ticket Zone Borders&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.wtp.waw.pl/warszawskie-linie-turystyczne/" target="_blank" rel="noopener noreferrer">Warsaw Tourist Lines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="other">Other&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gtfs.org/" target="_blank" rel="noopener noreferrer">GTFS specification&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of links related to Technology</title><link>https://starsep.com/links/tech/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/tech/</guid><description>&lt;h1 id="collection-of-links-related-to-technology">Collection of links related to Technology&lt;/h1>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
@@ -164,6 +169,7 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://cheats.rs/" target="_blank" rel="noopener noreferrer">Rust Cheat Sheet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://rust-lang-nursery.github.io/rust-cookbook/" target="_blank" rel="noopener noreferrer">Rust Cookbook&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://rust-exercises.com/" target="_blank" rel="noopener noreferrer">Rust Exercises&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blessed.rs/crates" target="_blank" rel="noopener noreferrer">Blessed.rs&lt;/a> - An unofficial guide to the Rust ecosystem&lt;/li>
 &lt;/ul>
 &lt;h2 id="databases">Databases&lt;/h2>
 &lt;ul>
@@ -194,10 +200,12 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://asciiflow.com/" target="_blank" rel="noopener noreferrer">Asciiflow&lt;/a> - web app for ASCII diagrams&lt;/li>
 &lt;li>&lt;a href="https://datavizcatalogue.com/index.html" target="_blank" rel="noopener noreferrer">The Data Visualisation Catalogue &lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.visual-literacy.org/periodic_table/periodic_table.html" target="_blank" rel="noopener noreferrer">Periodic Table of Visualisation Methods&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://text-to-diagram.com" target="_blank" rel="noopener noreferrer">Text to Diagram Tools Comparison&lt;/a> - Compare D2, Mermaid, PlantUML &amp;amp; Graphviz side-by-side&lt;/li>
 &lt;/ul>
 &lt;h2 id="design">Design&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.onlook.com/" target="_blank" rel="noopener noreferrer">OnLook&lt;/a> - &amp;ldquo;Cursor for Designers&amp;rdquo; - AI design tool&lt;/li>
+&lt;li>&lt;a href="https://youdontneedamodalwindow.dev" target="_blank" rel="noopener noreferrer">You don&amp;rsquo;t need a modal window&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="3d-rendering">3D Rendering&lt;/h2>
 &lt;ul>
@@ -325,6 +333,7 @@ Transport&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://regexone.com/" target="_blank" rel="noopener noreferrer">RegexOne&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://regex101.com/" target="_blank" rel="noopener noreferrer">regex101&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://phylactery.org/antimirov/" target="_blank" rel="noopener noreferrer">antimirov&lt;/a> - algebraic manipulation of regular expressions&lt;/li>
 &lt;/ul>
 &lt;h2 id="ideas">Ideas&lt;/h2>
 &lt;ul>
@@ -381,6 +390,7 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cpubenchmark.net/" target="_blank" rel="noopener noreferrer">CPU Benchmark&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dshearer.github.io/jobber/" target="_blank" rel="noopener noreferrer">Jobber&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.useragents.me/" target="_blank" rel="noopener noreferrer">Most common useragents seen on the web&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of map links, often OpenStreetMap</title><link>https://starsep.com/links/maps/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/maps/</guid><description>&lt;h1 id="collection-of-map-links-often-openstreetmap">Collection of map links, often OpenStreetMap&lt;/h1>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
@@ -401,6 +411,8 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://anvaka.github.io/city-roads/" target="_blank" rel="noopener noreferrer">city roads&lt;/a> - render all roads in a city&lt;/li>
 &lt;li>&lt;a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer">Overpass Turbo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/ad-freiburg/pfaedle" target="_blank" rel="noopener noreferrer">pfaedle&lt;/a> - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data&lt;/li>
+&lt;li>&lt;a href="https://osm.mapki.com/history/" target="_blank" rel="noopener noreferrer">OSM Deep History&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://osm-queries.ldodds.com/" target="_blank" rel="noopener noreferrer">OSM Queries&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="maps">Maps&lt;/h2>
 &lt;ul>
@@ -412,6 +424,8 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://www.cyclestreets.net/" target="_blank" rel="noopener noreferrer">CycleStreets&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://classic-maps.openrouteservice.org/directions" target="_blank" rel="noopener noreferrer">OpenRouteService&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.osmap.pl/" target="_blank" rel="noopener noreferrer">Osmap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mapwarper.net/" target="_blank" rel="noopener noreferrer">Map Warper&lt;/a> - Find maps and other imagery, upload, and rectify against a real map&lt;/li>
+&lt;li>&lt;a href="https://shademap.app/" target="_blank" rel="noopener noreferrer">ShadeMap&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="gis">GIS&lt;/h2>
 &lt;ul>

@@ -21,6 +21,7 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://transitcosts.com/" target="_blank" rel="noopener noreferrer">Transit Costs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.jokteur.com/a/integrated-timetable-switzerland/" target="_blank" rel="noopener noreferrer">The integrated timetable of Switzerland&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://pedestrianobservations.com/" target="_blank" rel="noopener noreferrer">Pedestrian Observations&lt;/a> - transport blog&lt;/li>
+&lt;li>&lt;a href="https://magazyn.koleo.pl/zasada-numeracji-miejsc-w-wagonie/" target="_blank" rel="noopener noreferrer">Jaka jest logika numeracji miejsc w pociągach&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="bicycle">Bicycle&lt;/h2>
 &lt;ul>
@@ -40,4 +41,8 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://czynaczas.pl/#/" target="_blank" rel="noopener noreferrer">Czy na Czas&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.wtp.waw.pl/mapy-schematy/granice-stref-biletowych/" target="_blank" rel="noopener noreferrer">Ticket Zone Borders&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.wtp.waw.pl/warszawskie-linie-turystyczne/" target="_blank" rel="noopener noreferrer">Warsaw Tourist Lines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="other">Other&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://gtfs.org/" target="_blank" rel="noopener noreferrer">GTFS specification&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
