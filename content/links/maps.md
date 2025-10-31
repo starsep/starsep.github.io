@@ -18,6 +18,7 @@ tags: ["maps", "OpenStreetMap"]
 ## OpenStreetMap Tools
 - [Map Compare](https://tools.geofabrik.de/mc/)
 - [OSM Inspector](https://tools.geofabrik.de/osmi)
+- [Osmose](http://osmose.openstreetmap.fr/en/)
 - [gtfs-osm-validator](https://gitlab.com/stalker314314/gtfs-osm-validator)
 - [Nominatim QA](https://nominatim.org/qa/)
 - [city roads](https://anvaka.github.io/city-roads/) - render all roads in a city
@@ -29,6 +30,10 @@ tags: ["maps", "OpenStreetMap"]
 - [CyclOSM](https://www.cyclosm.org/)
 - [Chronotrains](https://www.chronotrains.com/)
 - [Trail Router](https://trailrouter.com/)
+- [OpenLevelUp](https://openlevelup.net/)
+- [CycleStreets](https://www.cyclestreets.net/)
+- [OpenRouteService](https://classic-maps.openrouteservice.org/directions)
+- [Osmap](https://www.osmap.pl/)
 
 ## GIS
 - [I hate coordinate systems](https://ihatecoordinatesystems.com/)

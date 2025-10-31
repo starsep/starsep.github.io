@@ -296,3 +296,4 @@ tags: ["Technology"]
 - [Emoji under the hood](https://tonsky.me/blog/emoji/)
 - [SearchCode](https://searchcode.com/)
 - [CPU Benchmark](https://www.cpubenchmark.net/)
+- [Jobber](https://dshearer.github.io/jobber/)
