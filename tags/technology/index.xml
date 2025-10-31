@@ -17,6 +17,10 @@
 &lt;li>&lt;a href="https://github.com/willmcgugan/rich" target="_blank" rel="noopener noreferrer">Rich&lt;/a> - Rich is a Python library for rich text and beautiful formatting in the terminal&lt;/li>
 &lt;li>&lt;a href="https://github.com/gruns/icecream" target="_blank" rel="noopener noreferrer">Icecream&lt;/a> - 🍦 Never use print() to debug again&lt;/li>
 &lt;/ul>
+&lt;h2 id="dockercontainers">Docker/containers&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://blog.vamc19.dev/posts/dockerfile-copy-chmod/" target="_blank" rel="noopener noreferrer">&lt;code>COPY --chmod&lt;/code> reduced the size of my container image by 35%&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="kotlin">Kotlin&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://kotlin.link/" target="_blank" rel="noopener noreferrer">Kotlin is Awesome!&lt;/a>&lt;/li>
@@ -256,6 +260,7 @@
 &lt;li>&lt;a href="https://www.stavros.io/posts/u2f-fido2-with-ssh/" target="_blank" rel="noopener noreferrer">U2F FIDO with SSH&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://thecopenhagenbook.com/" target="_blank" rel="noopener noreferrer">The Copenhagen Book&lt;/a> - general guideline on implementing auth in web applications&lt;/li>
 &lt;li>&lt;a href="https://endoflife.date/" target="_blank" rel="noopener noreferrer">End of Life&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tidbits.com/2022/03/03/never-change-your-password/" target="_blank" rel="noopener noreferrer">Don&amp;rsquo;t Change password&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="open-source">Open Source&lt;/h2>
 &lt;ul>
@@ -301,6 +306,7 @@
 &lt;li>&lt;a href="https://www.catherinejue.com/fast" target="_blank" rel="noopener noreferrer">fast (as a software feature)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.bytedrum.com/posts/art-of-finishing/" target="_blank" rel="noopener noreferrer">The Art of Finishing&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://alexwlchan.net/2022/screenshots/" target="_blank" rel="noopener noreferrer">You should take more screenshots&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://raccoon.onyxbits.de/blog/blockchain-is-not-the-answer/" target="_blank" rel="noopener noreferrer">Blockchain is not the answer&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="hosting">Hosting&lt;/h2>
 &lt;ul>
@@ -329,6 +335,14 @@
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/Cyan4973/xxHash" target="_blank" rel="noopener noreferrer">xxhash&lt;/a> - Extremely fast non-cryptographic hash algorithm&lt;/li>
 &lt;/ul>
+&lt;h2 id="git">Git&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://ohshitgit.com/" target="_blank" rel="noopener noreferrer">Oh Shit, Git&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="qr-code">QR Code&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://hughchen.github.io/qr_image/" target="_blank" rel="noopener noreferrer">QR Image&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="other">Other&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/" target="_blank" rel="noopener noreferrer">Programing Playgrounds&lt;/a>&lt;/li>
@@ -337,4 +351,7 @@
 &lt;li>&lt;a href="https://www.cpubenchmark.net/" target="_blank" rel="noopener noreferrer">CPU Benchmark&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dshearer.github.io/jobber/" target="_blank" rel="noopener noreferrer">Jobber&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.useragents.me/" target="_blank" rel="noopener noreferrer">Most common useragents seen on the web&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://eugenkiss.github.io/7guis/" target="_blank" rel="noopener noreferrer">7 GUIs&lt;/a> - seven tasks that represent typical challenges in GUI programming&lt;/li>
+&lt;li>&lt;a href="https://www.benkuhn.net/wireless/" target="_blank" rel="noopener noreferrer">Wireless is a trap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.dns.toys/" target="_blank" rel="noopener noreferrer">DNS Toys&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
