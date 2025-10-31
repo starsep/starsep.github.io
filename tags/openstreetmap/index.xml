@@ -12,6 +12,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://tools.geofabrik.de/mc/" target="_blank" rel="noopener noreferrer">Map Compare&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://tools.geofabrik.de/osmi" target="_blank" rel="noopener noreferrer">OSM Inspector&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://osmose.openstreetmap.fr/en/" target="_blank" rel="noopener noreferrer">Osmose&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gitlab.com/stalker314314/gtfs-osm-validator" target="_blank" rel="noopener noreferrer">gtfs-osm-validator&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://nominatim.org/qa/" target="_blank" rel="noopener noreferrer">Nominatim QA&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://anvaka.github.io/city-roads/" target="_blank" rel="noopener noreferrer">city roads&lt;/a> - render all roads in a city&lt;/li>
@@ -24,6 +25,10 @@
 &lt;li>&lt;a href="https://www.cyclosm.org/" target="_blank" rel="noopener noreferrer">CyclOSM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://trailrouter.com/" target="_blank" rel="noopener noreferrer">Trail Router&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openlevelup.net/" target="_blank" rel="noopener noreferrer">OpenLevelUp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cyclestreets.net/" target="_blank" rel="noopener noreferrer">CycleStreets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://classic-maps.openrouteservice.org/directions" target="_blank" rel="noopener noreferrer">OpenRouteService&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.osmap.pl/" target="_blank" rel="noopener noreferrer">Osmap&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="gis">GIS&lt;/h2>
 &lt;ul>

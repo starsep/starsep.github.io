@@ -9,10 +9,44 @@
 &lt;ul>
 &lt;li>&lt;a href="https://www.intercity.pl" target="_blank" rel="noopener noreferrer">PKP Intercity&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/pociagi-i-stacje/zestawienia-pociagow.html" target="_blank" rel="noopener noreferrer">PKP Intercity Zestawienia pociągów&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://portalpasazera.pl/Opoznienia/" target="_blank" rel="noopener noreferrer">Portal Pasażera delays&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="japan">Japan&lt;/h2>
 &lt;ul>
-&lt;li>[Japan Transit Planner][https://world.jorudan.co.jp/mln/en/]&lt;/li>
+&lt;li>[Japan Transit Planner][https://world.jorudan.co.jp/mln/en/]
+Transport&lt;/li>
+&lt;/ul>
+&lt;h2 id="trainssubways">Trains/Subways&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.seat61.com/" target="_blank" rel="noopener noreferrer">Seat61&lt;/a> - train travel blog&lt;/li>
+&lt;li>&lt;a href="https://www.vagonweb.cz/" target="_blank" rel="noopener noreferrer">Vagonweb&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zbs.net.pl/" target="_blank" rel="noopener noreferrer">Z Biegiem Szyn&lt;/a> - newspaper&lt;/li>
+&lt;li>&lt;a href="https://kolejnapodroz.pl/" target="_blank" rel="noopener noreferrer">Kolej na Podróż&lt;/a> - train travel blog&lt;/li>
+&lt;li>&lt;a href="https://kolejblog.wordpress.com/" target="_blank" rel="noopener noreferrer">Kolej Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.chronotrains.com/en" target="_blank" rel="noopener noreferrer">chronotrains&lt;/a> - map of locations which can be travelled in a few hours by train&lt;/li>
+&lt;li>&lt;a href="http://stations.albertguillaumes.cat/" target="_blank" rel="noopener noreferrer">Station gallery&lt;/a> - mostly subways/train stations&lt;/li>
+&lt;li>&lt;a href="https://transitcosts.com/" target="_blank" rel="noopener noreferrer">Transit Costs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jokteur.com/a/integrated-timetable-switzerland/" target="_blank" rel="noopener noreferrer">The integrated timetable of Switzerland&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pedestrianobservations.com/" target="_blank" rel="noopener noreferrer">Pedestrian Observations&lt;/a> - transport blog&lt;/li>
+&lt;/ul>
+&lt;h2 id="bicycle">Bicycle&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://cyclingfallacies.org/" target="_blank" rel="noopener noreferrer">Cycling Fallacies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stojaki.waw.pl/index.php?show=stojak" target="_blank" rel="noopener noreferrer">stojaki.waw.pl&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h1 id="air-travel">Air travel&lt;/h1>
+&lt;ul>
+&lt;li>&lt;a href="https://airlinelist.com/" target="_blank" rel="noopener noreferrer">AirlineList&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="warszawa">Warszawa&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://zom.waw.pl/dlarowerzystow" target="_blank" rel="noopener noreferrer">Cycling routes winter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://metro.waw.pl/wp-content/uploads/2025/03/Przebieg_linii_metra_WWW.png" target="_blank" rel="noopener noreferrer">Warsaw Metro Diagram&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zbiorkom.live/warsaw/" target="_blank" rel="noopener noreferrer">Zbiorkom.live&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://realbus.pl/mapa/?rdr" target="_blank" rel="noopener noreferrer">Real Bus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://czynaczas.pl/#/" target="_blank" rel="noopener noreferrer">Czy na Czas&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wtp.waw.pl/mapy-schematy/granice-stref-biletowych/" target="_blank" rel="noopener noreferrer">Ticket Zone Borders&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wtp.waw.pl/warszawskie-linie-turystyczne/" target="_blank" rel="noopener noreferrer">Warsaw Tourist Lines&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of links related to Technology</title><link>https://starsep.com/links/tech/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/tech/</guid><description>&lt;h1 id="collection-of-links-related-to-technology">Collection of links related to Technology&lt;/h1>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
@@ -346,6 +380,7 @@
 &lt;li>&lt;a href="https://tonsky.me/blog/emoji/" target="_blank" rel="noopener noreferrer">Emoji under the hood&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cpubenchmark.net/" target="_blank" rel="noopener noreferrer">CPU Benchmark&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dshearer.github.io/jobber/" target="_blank" rel="noopener noreferrer">Jobber&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Collection of map links, often OpenStreetMap</title><link>https://starsep.com/links/maps/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/maps/</guid><description>&lt;h1 id="collection-of-map-links-often-openstreetmap">Collection of map links, often OpenStreetMap&lt;/h1>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
@@ -360,6 +395,7 @@
 &lt;ul>
 &lt;li>&lt;a href="https://tools.geofabrik.de/mc/" target="_blank" rel="noopener noreferrer">Map Compare&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://tools.geofabrik.de/osmi" target="_blank" rel="noopener noreferrer">OSM Inspector&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://osmose.openstreetmap.fr/en/" target="_blank" rel="noopener noreferrer">Osmose&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gitlab.com/stalker314314/gtfs-osm-validator" target="_blank" rel="noopener noreferrer">gtfs-osm-validator&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://nominatim.org/qa/" target="_blank" rel="noopener noreferrer">Nominatim QA&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://anvaka.github.io/city-roads/" target="_blank" rel="noopener noreferrer">city roads&lt;/a> - render all roads in a city&lt;/li>
@@ -372,6 +408,10 @@
 &lt;li>&lt;a href="https://www.cyclosm.org/" target="_blank" rel="noopener noreferrer">CyclOSM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://trailrouter.com/" target="_blank" rel="noopener noreferrer">Trail Router&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://openlevelup.net/" target="_blank" rel="noopener noreferrer">OpenLevelUp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cyclestreets.net/" target="_blank" rel="noopener noreferrer">CycleStreets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://classic-maps.openrouteservice.org/directions" target="_blank" rel="noopener noreferrer">OpenRouteService&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.osmap.pl/" target="_blank" rel="noopener noreferrer">Osmap&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="gis">GIS&lt;/h2>
 &lt;ul>
