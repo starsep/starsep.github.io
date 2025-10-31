@@ -242,9 +242,11 @@ tags: ["Technology"]
 - [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
 - [Choose an open source license](https://choosealicense.com/)
 - [Open Source Guide](https://opensource.guide/)
+- [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
 ## Game Development
 - [Defold](https://defold.com/)
+- [Game UI Database](https://www.gameuidatabase.com/index.php)
 
 ## LibreOffice
 - [How to disable automatic capitalization in LibreOffice Calc?](https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc)
@@ -302,11 +304,25 @@ tags: ["Technology"]
 
 ## Git
 - [Oh Shit, Git](https://ohshitgit.com/)
+- [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)
 
 ## QR Code
 - [QR Image](https://hughchen.github.io/qr_image/)
+- [Creating QR code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
+
+## Privacy
+- [Simple Opt Out](https://simpleoptout.com/)
+- [Privacy Tools](https://www.privacytools.io/)
+
+## Networking/Internet
+- [Cloudflare Radar](https://radar.cloudflare.com/) - traffic trends
+- [DNS Toys](https://www.dns.toys/)
+
+## Google Alternatives
+- [No More Google](https://nomoregoogle.com/)
 
 ## Other
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
 - [Emoji under the hood](https://tonsky.me/blog/emoji/)
 - [SearchCode](https://searchcode.com/)
@@ -315,4 +331,3 @@ tags: ["Technology"]
 - [Most common useragents seen on the web](https://www.useragents.me/)
 - [7 GUIs](https://eugenkiss.github.io/7guis/) - seven tasks that represent typical challenges in GUI programming
 - [Wireless is a trap](https://www.benkuhn.net/wireless/)
-- [DNS Toys](https://www.dns.toys/)
