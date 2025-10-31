@@ -25,6 +25,9 @@ tags: ["Technology"]
 - [Rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal
 - [Icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
 
+## Docker/containers
+- [`COPY --chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
+
 ## Kotlin
 - [Kotlin is Awesome!](https://kotlin.link/)
 - [progressbar-ktx](https://github.com/reimersoftware/progressbar-ktx/) - like tqdm for Python
@@ -233,6 +236,7 @@ tags: ["Technology"]
 - [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
 - [The Copenhagen Book](https://thecopenhagenbook.com/) - general guideline on implementing auth in web applications
 - [End of Life](https://endoflife.date/)
+- [Don't Change password](https://tidbits.com/2022/03/03/never-change-your-password/)
 
 ## Open Source
 - [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
@@ -272,6 +276,7 @@ tags: ["Technology"]
 - [fast (as a software feature)](https://www.catherinejue.com/fast)
 - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 - [You should take more screenshots](https://alexwlchan.net/2022/screenshots/)
+- [Blockchain is not the answer](https://raccoon.onyxbits.de/blog/blockchain-is-not-the-answer/)
 
 ## Hosting
 - [How to setup a practically free CDN using Backblaze B2 and Cloudflare](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
@@ -295,6 +300,12 @@ tags: ["Technology"]
 ## Hashing
 - [xxhash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 
+## Git
+- [Oh Shit, Git](https://ohshitgit.com/)
+
+## QR Code
+- [QR Image](https://hughchen.github.io/qr_image/)
+
 ## Other
 - [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
 - [Emoji under the hood](https://tonsky.me/blog/emoji/)
@@ -302,3 +313,6 @@ tags: ["Technology"]
 - [CPU Benchmark](https://www.cpubenchmark.net/)
 - [Jobber](https://dshearer.github.io/jobber/)
 - [Most common useragents seen on the web](https://www.useragents.me/)
+- [7 GUIs](https://eugenkiss.github.io/7guis/) - seven tasks that represent typical challenges in GUI programming
+- [Wireless is a trap](https://www.benkuhn.net/wireless/)
+- [DNS Toys](https://www.dns.toys/)

@@ -31,6 +31,8 @@ Transport
 ## Bicycle
 - [Cycling Fallacies](https://cyclingfallacies.org/)
 - [stojaki.waw.pl](https://stojaki.waw.pl/index.php?show=stojak)
+- [Explain My Bike - tire](https://explainmybike.com/tire.html)
+- [Warm Showers](https://www.warmshowers.org/)
 
 # Air travel
 - [AirlineList](https://airlinelist.com/)

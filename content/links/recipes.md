@@ -12,3 +12,9 @@ tags: ["recipes", "cooking"]
 - [Hard Cider Slushi](https://www.sharkninja.com/hard-cider-slushi/REC14847.html)
 - [Coconut Lime Daiquiri Slushi](https://www.sharkninja.com/coconut-lime-daiquiri-slushi/REC14521.html)
 - [Chocolate Milkshake Slushi](https://www.sharkninja.com/easy-chocolate-milkshake-slushi/REC14564.html)
+
+## Sauces
+- [Spicy Mayo](https://gimmedelicious.com/spicy-mayo/)
+
+## Other
+- [Jednogarnkowy kremowy makaron z suszonymi pomidorami](https://healthyomnomnom.pl/jednogarnkowy-kremowy-makaron-z-suszonymi-pomidorami/)

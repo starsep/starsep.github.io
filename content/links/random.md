@@ -53,9 +53,13 @@ tags: ["fun", "random"]
 ## Typography
 - [Practical Typography]](https://practicaltypography.com/)
 
+## Photography
+- [How Does Perspective Work in Pictures?](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
+
 ## Others
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 - [Please, enough with the dead butterflies!](https://www.emilydamstra.com/please-enough-dead-butterflies/)
 - [spurious correlations](https://www.tylervigen.com/spurious-correlations)
 - [Long bets](https://longbets.org/bets/)
 - [How to Buy Gifts That People Actually Want](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
+- [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
