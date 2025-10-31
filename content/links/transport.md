@@ -26,6 +26,7 @@ Transport
 - [Transit Costs](https://transitcosts.com/)
 - [The integrated timetable of Switzerland](https://www.jokteur.com/a/integrated-timetable-switzerland/)
 - [Pedestrian Observations](https://pedestrianobservations.com/) - transport blog
+- [Jaka jest logika numeracji miejsc w pociągach](https://magazyn.koleo.pl/zasada-numeracji-miejsc-w-wagonie/)
 
 ## Bicycle
 - [Cycling Fallacies](https://cyclingfallacies.org/)
@@ -42,3 +43,6 @@ Transport
 - [Czy na Czas](https://czynaczas.pl/#/)
 - [Ticket Zone Borders](https://www.wtp.waw.pl/mapy-schematy/granice-stref-biletowych/)
 - [Warsaw Tourist Lines](https://www.wtp.waw.pl/warszawskie-linie-turystyczne/)
+
+## Other
+- [GTFS specification](https://gtfs.org/)

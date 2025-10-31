@@ -18,3 +18,5 @@ Miejscowe plany zagospodarowania przestrzennego
 - [Deweloperiada](https://deweloperiada.pl/) - mapa kontrowersyjnych praktyk deweloperskich w Warszawie
 - [Miasto Jest Nasze](https://miastojestnasze.org/) - stowarzyszenie aktywistyczne z Warszawy
 - [Zielone Mazowsze](https://zm.org.pl/) - stowarzyszenie, szczególnie zajmujące się rowerami
+- [Spółdzielnia](https://www.spoldzielnia.waw.pl/) - Znajdź to, czego potrzebujesz,wypożycz i działaj po sąsiedzku
+- [Ulice ZDM](https://zdm.waw.pl/dzialania/ulice/)

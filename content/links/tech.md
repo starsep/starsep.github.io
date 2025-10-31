@@ -113,6 +113,7 @@ tags: ["Technology"]
 - [Rust Cheat Sheet](https://cheats.rs/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Rust Exercises](https://rust-exercises.com/)
+- [Blessed.rs](https://blessed.rs/crates) - An unofficial guide to the Rust ecosystem
 
 ## Databases
 - [Azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
@@ -139,9 +140,11 @@ tags: ["Technology"]
 - [Asciiflow](https://asciiflow.com/) - web app for ASCII diagrams
 - [The Data Visualisation Catalogue ](https://datavizcatalogue.com/index.html)
 - [Periodic Table of Visualisation Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
+- [Text to Diagram Tools Comparison](https://text-to-diagram.com) - Compare D2, Mermaid, PlantUML & Graphviz side-by-side
 
 ## Design
 - [OnLook](https://www.onlook.com/) - "Cursor for Designers" - AI design tool
+- [You don't need a modal window](https://youdontneedamodalwindow.dev)
 
 ## 3D Rendering
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) - how OpenGL works: software rendering in 500 lines of code
@@ -248,6 +251,7 @@ tags: ["Technology"]
 ## Regex
 - [RegexOne](https://regexone.com/)
 - [regex101](https://regex101.com/)
+- [antimirov](http://phylactery.org/antimirov/) - algebraic manipulation of regular expressions
 
 ## Ideas
 - [Best programmers](https://endler.dev/2025/best-programmers/)
@@ -297,3 +301,4 @@ tags: ["Technology"]
 - [SearchCode](https://searchcode.com/)
 - [CPU Benchmark](https://www.cpubenchmark.net/)
 - [Jobber](https://dshearer.github.io/jobber/)
+- [Most common useragents seen on the web](https://www.useragents.me/)

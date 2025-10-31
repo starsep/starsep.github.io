@@ -24,6 +24,8 @@ tags: ["maps", "OpenStreetMap"]
 - [city roads](https://anvaka.github.io/city-roads/) - render all roads in a city
 - [Overpass Turbo](https://overpass-turbo.eu/)
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data
+- [OSM Deep History](https://osm.mapki.com/history/)
+- [OSM Queries](https://osm-queries.ldodds.com/)
 
 ## Maps
 - [OsmAPP](https://osmapp.org/)
@@ -34,6 +36,8 @@ tags: ["maps", "OpenStreetMap"]
 - [CycleStreets](https://www.cyclestreets.net/)
 - [OpenRouteService](https://classic-maps.openrouteservice.org/directions)
 - [Osmap](https://www.osmap.pl/)
+- [Map Warper](https://mapwarper.net/) - Find maps and other imagery, upload, and rectify against a real map
+- [ShadeMap](https://shademap.app/)
 
 ## GIS
 - [I hate coordinate systems](https://ihatecoordinatesystems.com/)
