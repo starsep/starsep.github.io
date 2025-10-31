@@ -267,10 +267,12 @@
 &lt;li>&lt;a href="https://boyter.org/posts/the-three-f-s-of-open-source/" target="_blank" rel="noopener noreferrer">The Three F&amp;rsquo;s of Open Source Development&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://choosealicense.com/" target="_blank" rel="noopener noreferrer">Choose an open source license&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://opensource.guide/" target="_blank" rel="noopener noreferrer">Open Source Guide&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://aosabook.org/en/index.html" target="_blank" rel="noopener noreferrer">The Architecture of Open Source Applications&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="game-development">Game Development&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://defold.com/" target="_blank" rel="noopener noreferrer">Defold&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.gameuidatabase.com/index.php" target="_blank" rel="noopener noreferrer">Game UI Database&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="libreoffice">LibreOffice&lt;/h2>
 &lt;ul>
@@ -338,13 +340,30 @@
 &lt;h2 id="git">Git&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://ohshitgit.com/" target="_blank" rel="noopener noreferrer">Oh Shit, Git&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://simonwillison.net/2020/Oct/9/git-scraping/" target="_blank" rel="noopener noreferrer">Git Scraping&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="qr-code">QR Code&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://hughchen.github.io/qr_image/" target="_blank" rel="noopener noreferrer">QR Image&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nayuki.io/page/creating-a-qr-code-step-by-step" target="_blank" rel="noopener noreferrer">Creating QR code step by step&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="privacy">Privacy&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://simpleoptout.com/" target="_blank" rel="noopener noreferrer">Simple Opt Out&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.privacytools.io/" target="_blank" rel="noopener noreferrer">Privacy Tools&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="networkinginternet">Networking/Internet&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://radar.cloudflare.com/" target="_blank" rel="noopener noreferrer">Cloudflare Radar&lt;/a> - traffic trends&lt;/li>
+&lt;li>&lt;a href="https://www.dns.toys/" target="_blank" rel="noopener noreferrer">DNS Toys&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="google-alternatives">Google Alternatives&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://nomoregoogle.com/" target="_blank" rel="noopener noreferrer">No More Google&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="other">Other&lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://graphics.stanford.edu/~seander/bithacks.html" target="_blank" rel="noopener noreferrer">Bit Twiddling Hacks&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/" target="_blank" rel="noopener noreferrer">Programing Playgrounds&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://tonsky.me/blog/emoji/" target="_blank" rel="noopener noreferrer">Emoji under the hood&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://searchcode.com/" target="_blank" rel="noopener noreferrer">SearchCode&lt;/a>&lt;/li>
@@ -353,5 +372,4 @@
 &lt;li>&lt;a href="https://www.useragents.me/" target="_blank" rel="noopener noreferrer">Most common useragents seen on the web&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://eugenkiss.github.io/7guis/" target="_blank" rel="noopener noreferrer">7 GUIs&lt;/a> - seven tasks that represent typical challenges in GUI programming&lt;/li>
 &lt;li>&lt;a href="https://www.benkuhn.net/wireless/" target="_blank" rel="noopener noreferrer">Wireless is a trap&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.dns.toys/" target="_blank" rel="noopener noreferrer">DNS Toys&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
