@@ -25,7 +25,10 @@ tags: ["maps", "OpenStreetMap"]
 - [Overpass Turbo](https://overpass-turbo.eu/)
 - [pfaedle](https://github.com/ad-freiburg/pfaedle) - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data
 - [OSM Deep History](https://osm.mapki.com/history/)
-- [OSM Queries](https://osm-queries.ldodds.com/)
+- [OSM Queries](https://osm-queries.ldodds.com
+
+## Tools
+- [GeoDataMerger](https://funkeinteraktiv.github.io/geo-data-merger/)
 
 ## Maps
 - [OsmAPP](https://osmapp.org/)
@@ -33,11 +36,13 @@ tags: ["maps", "OpenStreetMap"]
 - [Chronotrains](https://www.chronotrains.com/)
 - [Trail Router](https://trailrouter.com/)
 - [OpenLevelUp](https://openlevelup.net/)
+- [indoor=](https://indoorequal.org)
 - [CycleStreets](https://www.cyclestreets.net/)
 - [OpenRouteService](https://classic-maps.openrouteservice.org/directions)
 - [Osmap](https://www.osmap.pl/)
 - [Map Warper](https://mapwarper.net/) - Find maps and other imagery, upload, and rectify against a real map
 - [ShadeMap](https://shademap.app/)
+- [EveryStreetChallenge](http://www.everystreetchallenge.com/)
 
 ## GIS
 - [I hate coordinate systems](https://ihatecoordinatesystems.com/)

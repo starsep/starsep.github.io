@@ -8,6 +8,12 @@ tags: ["Technology"]
 
 # Collection of links related to Technology
 
+## Programming
+- [Programming Idioms](https://programming-idioms.org/)
+- [Developer Roadmaps](https://roadmap.sh/)
+- [How to Join a Team and Learn a Codebase](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html)
+- [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/lecture-slides/)
+
 ## Python
 - [Fil](https://pythonspeed.com/fil/) - Easy Python memory profiling for data scientists and scientists with Fil
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills
@@ -331,3 +337,4 @@ tags: ["Technology"]
 - [Most common useragents seen on the web](https://www.useragents.me/)
 - [7 GUIs](https://eugenkiss.github.io/7guis/) - seven tasks that represent typical challenges in GUI programming
 - [Wireless is a trap](https://www.benkuhn.net/wireless/)
+- [Free for Dev](https://free-for.dev)

@@ -16,5 +16,12 @@ tags: ["recipes", "cooking"]
 ## Sauces
 - [Spicy Mayo](https://gimmedelicious.com/spicy-mayo/)
 
+## Soups
+- [Tomato Cream Soup](https://www.jadlonomia.com/przepisy/pomidorowa-z-pieczonych-pomidorow-i-czosnku/)
+
+## Desserts
+- [Tiramisu](https://przepisytradycyjne.pl/idealne-tiramisu-przepis/)
+- [Banan Pies](https://poprostupycha.com.pl/przepis/bananowe-placuszki/)
+
 ## Other
 - [Jednogarnkowy kremowy makaron z suszonymi pomidorami](https://healthyomnomnom.pl/jednogarnkowy-kremowy-makaron-z-suszonymi-pomidorami/)
