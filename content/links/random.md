@@ -56,6 +56,24 @@ tags: ["fun", "random"]
 ## Photography
 - [How Does Perspective Work in Pictures?](https://aaronhertzmann.com/2022/02/28/how-does-perspective-work.html)
 
+## Job Search/CV/Interviews
+- [FlexJobs](https://www.flexjobs.com/)
+- [GlassDoor](https://www.glassdoor.com/index.htm)
+- [Levels.fyi](https://www.levels.fyi/#)
+- [How to get promoted](https://defmacro.substack.com/p/how-to-get-promoted)
+- [FindWork.dev](https://findwork.dev/)
+- [Who is hiring](https://kennytilton.github.io/whoishiring/)
+- [Remote in tech](https://remoteintech.company/)
+- [Ten rules for negotiating a job offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
+- [Negotiating comp](https://www.lennysnewsletter.com/p/negotiating-comp)
+- [Interview questions to ask company](https://daveceddia.com/interview-questions-to-ask-company/)
+- [Top startups](https://topstartups.io/)
+- [Nofluffjobs](https://nofluffjobs.com/)
+- [Sabotage salary negotiation before even start](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+- [Skillsets.tech](https://skillsets.tech/)
+- [The Tech Resume](https://thetechresume.com/table-of-contents.html)
+- [Himalayas jobs](https://himalayas.app/jobs)
+
 ## Others
 - [Wonders of Street View](https://neal.fun/wonders-of-street-view/)
 - [Please, enough with the dead butterflies!](https://www.emilydamstra.com/please-enough-dead-butterflies/)
