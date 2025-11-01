@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Technology on Filip Czaplicki</title><link>https://starsep.com/tags/technology/</link><description>Recent content in Technology on Filip Czaplicki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 15 Aug 2025 17:50:05 +0200</lastBuildDate><atom:link href="https://starsep.com/tags/technology/index.xml" rel="self" type="application/rss+xml"/><item><title>Collection of links related to Technology</title><link>https://starsep.com/links/tech/</link><pubDate>Fri, 15 Aug 2025 17:50:05 +0200</pubDate><guid>https://starsep.com/links/tech/</guid><description>&lt;h1 id="collection-of-links-related-to-technology">Collection of links related to Technology&lt;/h1>
+&lt;h2 id="programming">Programming&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://programming-idioms.org/" target="_blank" rel="noopener noreferrer">Programming Idioms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://roadmap.sh/" target="_blank" rel="noopener noreferrer">Developer Roadmaps&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html" target="_blank" rel="noopener noreferrer">How to Join a Team and Learn a Codebase&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/lecture-slides/" target="_blank" rel="noopener noreferrer">Performance Engineering of Software Systems&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="python">Python&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://pythonspeed.com/fil/" target="_blank" rel="noopener noreferrer">Fil&lt;/a> - Easy Python memory profiling for data scientists and scientists with Fil&lt;/li>
@@ -372,4 +379,5 @@
 &lt;li>&lt;a href="https://www.useragents.me/" target="_blank" rel="noopener noreferrer">Most common useragents seen on the web&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://eugenkiss.github.io/7guis/" target="_blank" rel="noopener noreferrer">7 GUIs&lt;/a> - seven tasks that represent typical challenges in GUI programming&lt;/li>
 &lt;li>&lt;a href="https://www.benkuhn.net/wireless/" target="_blank" rel="noopener noreferrer">Wireless is a trap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://free-for.dev" target="_blank" rel="noopener noreferrer">Free for Dev&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>

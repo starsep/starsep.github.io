@@ -19,7 +19,11 @@
 &lt;li>&lt;a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer">Overpass Turbo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/ad-freiburg/pfaedle" target="_blank" rel="noopener noreferrer">pfaedle&lt;/a> - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data&lt;/li>
 &lt;li>&lt;a href="https://osm.mapki.com/history/" target="_blank" rel="noopener noreferrer">OSM Deep History&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://osm-queries.ldodds.com/" target="_blank" rel="noopener noreferrer">OSM Queries&lt;/a>&lt;/li>
+&lt;li>[OSM Queries](&lt;a href="https://osm-queries.ldodds.com" target="_blank" rel="noopener noreferrer">https://osm-queries.ldodds.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="tools">Tools&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://funkeinteraktiv.github.io/geo-data-merger/" target="_blank" rel="noopener noreferrer">GeoDataMerger&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="maps">Maps&lt;/h2>
 &lt;ul>
@@ -28,11 +32,13 @@
 &lt;li>&lt;a href="https://www.chronotrains.com/" target="_blank" rel="noopener noreferrer">Chronotrains&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://trailrouter.com/" target="_blank" rel="noopener noreferrer">Trail Router&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://openlevelup.net/" target="_blank" rel="noopener noreferrer">OpenLevelUp&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://indoorequal.org" target="_blank" rel="noopener noreferrer">indoor=&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cyclestreets.net/" target="_blank" rel="noopener noreferrer">CycleStreets&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://classic-maps.openrouteservice.org/directions" target="_blank" rel="noopener noreferrer">OpenRouteService&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.osmap.pl/" target="_blank" rel="noopener noreferrer">Osmap&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mapwarper.net/" target="_blank" rel="noopener noreferrer">Map Warper&lt;/a> - Find maps and other imagery, upload, and rectify against a real map&lt;/li>
 &lt;li>&lt;a href="https://shademap.app/" target="_blank" rel="noopener noreferrer">ShadeMap&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://www.everystreetchallenge.com/" target="_blank" rel="noopener noreferrer">EveryStreetChallenge&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="gis">GIS&lt;/h2>
 &lt;ul>
