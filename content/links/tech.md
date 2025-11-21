@@ -101,7 +101,7 @@ tags: ["Technology"]
 
 ## Android
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
-- [Material Componenets](https://material.io/components?platform=android)
+- [Material Components](https://material.io/components?platform=android)
 - [Android FOSS](https://github.com/offa/android-foss)
 - [Don't Kill My App](https://dontkillmyapp.com/)
 - [Wayidroid](https://waydro.id/)
@@ -294,7 +294,7 @@ tags: ["Technology"]
 
 ## Graphics
 - [SVGViewer](https://www.svgviewer.dev/)
-- [VTracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converte
+- [VTracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 
 ## Compression
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/)

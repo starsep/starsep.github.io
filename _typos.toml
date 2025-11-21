@@ -1,0 +1,13 @@
+[default]
+extend-ignore-identifiers-re = [
+    "travle",
+]
+
+[files]
+extend-exclude = [
+    "themes/StarsepTheme",
+    "content/kajaki-modlin.md",
+    "*.pl.md",
+    "assets/boardgamegeek.csv",
+    "content/posts/cli.md",
+]
