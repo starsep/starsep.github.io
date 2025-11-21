@@ -81,3 +81,6 @@ tags: ["fun", "random"]
 - [Long bets](https://longbets.org/bets/)
 - [How to Buy Gifts That People Actually Want](https://www.willpatrick.co.uk/articles/how-to-buy-gifts-that-people-actually-want)
 - [How to professionally say](https://howtoprofessionallysay.akashrajpurohit.com/)
+- [Nestflix](https://nestflix.fun/) - The platform for your favorite nested films and shows. Fictional movies within movies
+- [Mailing potatoes](https://facts.usps.com/mailing-potatoes/) - USPS allows mailing potatoes without package
+- [Lightfastness](https://en.wikipedia.org/wiki/Lightfastness) - property of a colourant such as dye or pigment that describes its resistance to fading when exposed to light

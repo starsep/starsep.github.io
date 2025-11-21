@@ -284,7 +284,11 @@ tags: ["Technology"]
 - [fast (as a software feature)](https://www.catherinejue.com/fast)
 - [The Art of Finishing](https://www.bytedrum.com/posts/art-of-finishing/)
 - [You should take more screenshots](https://alexwlchan.net/2022/screenshots/)
+- [Keep a log](https://bruno-oliveira.github.io/techblog/Keep-a-log/)
 - [Blockchain is not the answer](https://raccoon.onyxbits.de/blog/blockchain-is-not-the-answer/)
+- [Don't ask to ask](https://dontasktoask.com/)
+- [No feigning surprise](https://jvns.ca/blog/2017/04/27/no-feigning-surprise/)
+- [Settings are not a design failure](https://linear.app/now/settings-are-not-a-design-failure)
 
 ## Hosting
 - [How to setup a practically free CDN using Backblaze B2 and Cloudflare](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
@@ -326,6 +330,10 @@ tags: ["Technology"]
 
 ## Google Alternatives
 - [No More Google](https://nomoregoogle.com/)
+
+## Rules
+- [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - `without a clear indicator of the author's intent, any parodic or sarcastic expression of extreme views can be mistaken by some readers for a sincere expression of those views`
+- [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) - `When a measure becomes a target, it ceases to be a good measure`
 
 ## Other
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
