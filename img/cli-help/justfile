@@ -1,0 +1,6 @@
+set fallback
+generate:
+    for program in biome bun cargo dog freeze just ruff uv urlencode taplo typos statix; do \
+        freeze --theme monokai --execute "$program --help" --font.size 4 --padding 1 -o "$program".png; \
+    done
+    oxipng *.png

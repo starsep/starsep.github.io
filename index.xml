@@ -1,4 +1,67 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Filip Czaplicki</title><link>https://starsep.com/</link><description>Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Sep 2025 08:50:05 +0200</lastBuildDate><atom:link href="https://starsep.com/index.xml" rel="self" type="application/rss+xml"/><item><title>OpenStreetMap Software Projects</title><link>https://starsep.com/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/posts/osm/</guid><description><![CDATA[<p>I&rsquo;ve been contributing to OpenStreetMap for a few years now.
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><title>Filip Czaplicki</title><link>https://starsep.com/</link><description>Filip Czaplicki</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 21 Nov 2025 21:49:59 +0100</lastBuildDate><atom:link href="https://starsep.com/index.xml" rel="self" type="application/rss+xml"/><item><title>CLI Colorful Help</title><link>https://starsep.com/posts/cli-colorful-help/</link><pubDate>Fri, 21 Nov 2025 21:49:59 +0100</pubDate><guid>https://starsep.com/posts/cli-colorful-help/</guid><description><![CDATA[<h2 id="colors-are-great">Colors are great!</h2>
+<p>I love when command-line programs use colors in their output.</p>
+<p>Colored output is more readable, makes important details pop, and simply looks nicer.</p>
+<p>I spend a lot of time in the terminal and appreciate such modern UX improvements.</p>
+<p>I wish more tools would color their <code>--help</code> output.</p>
+<p>Let&rsquo;s share some examples.</p>
+<h2 id="examples">Examples</h2>
+<!--
+for x in biome bun cargo dog freeze just ruff uv urlencode taplo typos statix; do
+    echo "### $x\n<a class="lightgallery" href="/img/cli-help/$x.png" title="/img/cli-help/$x.png" data-thumbnail="/img/cli-help/$x.png">
+        
+    </a>";
+done
+-->
+<h3 id="biome">biome</h3>
+<a class="lightgallery" href="/img/cli-help/biome.png" title="/img/cli-help/biome.png" data-thumbnail="/img/cli-help/biome.png">
+        
+    </a>
+<h3 id="bun">bun</h3>
+<a class="lightgallery" href="/img/cli-help/bun.png" title="/img/cli-help/bun.png" data-thumbnail="/img/cli-help/bun.png">
+        
+    </a>
+<h3 id="cargo">cargo</h3>
+<a class="lightgallery" href="/img/cli-help/cargo.png" title="/img/cli-help/cargo.png" data-thumbnail="/img/cli-help/cargo.png">
+        
+    </a>
+<h3 id="dog">dog</h3>
+<a class="lightgallery" href="/img/cli-help/dog.png" title="/img/cli-help/dog.png" data-thumbnail="/img/cli-help/dog.png">
+        
+    </a>
+<h3 id="freeze">freeze</h3>
+<a class="lightgallery" href="/img/cli-help/freeze.png" title="/img/cli-help/freeze.png" data-thumbnail="/img/cli-help/freeze.png">
+        
+    </a>
+<h3 id="just">just</h3>
+<a class="lightgallery" href="/img/cli-help/just.png" title="/img/cli-help/just.png" data-thumbnail="/img/cli-help/just.png">
+        
+    </a>
+<h3 id="ruff">ruff</h3>
+<a class="lightgallery" href="/img/cli-help/ruff.png" title="/img/cli-help/ruff.png" data-thumbnail="/img/cli-help/ruff.png">
+        
+    </a>
+<h3 id="uv">uv</h3>
+<a class="lightgallery" href="/img/cli-help/uv.png" title="/img/cli-help/uv.png" data-thumbnail="/img/cli-help/uv.png">
+        
+    </a>
+<h3 id="urlencode">urlencode</h3>
+<a class="lightgallery" href="/img/cli-help/urlencode.png" title="/img/cli-help/urlencode.png" data-thumbnail="/img/cli-help/urlencode.png">
+        
+    </a>
+<h3 id="taplo">taplo</h3>
+<a class="lightgallery" href="/img/cli-help/taplo.png" title="/img/cli-help/taplo.png" data-thumbnail="/img/cli-help/taplo.png">
+        
+    </a>
+<h3 id="typos">typos</h3>
+<a class="lightgallery" href="/img/cli-help/typos.png" title="/img/cli-help/typos.png" data-thumbnail="/img/cli-help/typos.png">
+        
+    </a>
+<h3 id="statix">statix</h3>
+<a class="lightgallery" href="/img/cli-help/statix.png" title="/img/cli-help/statix.png" data-thumbnail="/img/cli-help/statix.png">
+        
+    </a>
+<h2 id="how-were-screenshots-generated">How were screenshots generated?</h2>
+<p>I used <a href="https://github.com/charmbracelet/freeze" target="_blank" rel="noopener noreferrer">freeze</a> command.</p>]]></description></item><item><title>OpenStreetMap Software Projects</title><link>https://starsep.com/posts/osm/</link><pubDate>Tue, 09 Jul 2024 20:52:32 +0200</pubDate><guid>https://starsep.com/posts/osm/</guid><description><![CDATA[<p>I&rsquo;ve been contributing to OpenStreetMap for a few years now.
 Basically it&rsquo;s a map that anyone can edit: Wikipedia for maps.</p>
 <p>I maintain a few software projects related to OpenStreetMap:</p>
 <ul>
