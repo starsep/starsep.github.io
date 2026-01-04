@@ -9,3 +9,7 @@ downloadBgg:
 # serve website locally
 serve:
     hugo serve
+
+# reformat Markdown
+format:
+    uv run mdformat --sort-front-matter content

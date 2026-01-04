@@ -1,21 +1,23 @@
 ---
-title: Collection of Transport-related links
-slug: transport
-toc: false
 date: 2025-09-19T21:20:05+02:00
-tags: ["transport"]
+slug: transport
+tags: [transport]
+title: Collection of Transport-related links
+toc: false
 ---
 
 ## Poland
+
 - [PKP Intercity](https://www.intercity.pl)
 - [PKP Intercity Zestawienia pociągów](https://www.intercity.pl/pl/site/dla-pasazera/kup-bilet/pociagi-i-stacje/zestawienia-pociagow.html)
 - [Portal Pasażera delays](https://portalpasazera.pl/Opoznienia/)
 
 ## Japan
-- [Japan Transit Planner][https://world.jorudan.co.jp/mln/en/]
-Transport
+
+- [Japan Transit Planner](https://world.jorudan.co.jp/mln/en/)
 
 ## Trains/Subways
+
 - [Seat61](https://www.seat61.com/) - train travel blog
 - [Vagonweb](https://www.vagonweb.cz/)
 - [Z Biegiem Szyn](https://zbs.net.pl/) - newspaper
@@ -30,15 +32,18 @@ Transport
 - [Railway Stations Map](https://map.railway-stations.org/)
 
 ## Bicycle
+
 - [Cycling Fallacies](https://cyclingfallacies.org/)
 - [stojaki.waw.pl](https://stojaki.waw.pl/index.php?show=stojak)
 - [Explain My Bike - tire](https://explainmybike.com/tire.html)
 - [Warm Showers](https://www.warmshowers.org/)
 
 # Air travel
+
 - [AirlineList](https://airlinelist.com/)
 
 ## Warszawa
+
 - [Cycling routes winter](https://zom.waw.pl/dlarowerzystow)
 - [Warsaw Metro Diagram](https://metro.waw.pl/wp-content/uploads/2025/03/Przebieg_linii_metra_WWW.png)
 - [Zbiorkom.live](https://zbiorkom.live/warsaw/)
@@ -48,4 +53,5 @@ Transport
 - [Warsaw Tourist Lines](https://www.wtp.waw.pl/warszawskie-linie-turystyczne/)
 
 ## Other
+
 - [GTFS specification](https://gtfs.org/)

@@ -1,12 +1,13 @@
 ---
-title: Collection of recipes
-slug: random
-toc: false
 date: 2025-09-21T08:50:05+02:00
-tags: ["recipes", "cooking"]
+slug: random
+tags: [recipes, cooking]
+title: Collection of recipes
+toc: false
 ---
 
 ## Slushies/milkshakes
+
 - [Frozen Blood Orange Margarita](https://ninjatestkitchen.eu/recipe/frozen-blood-orange-margarita/)
 - [Pineapple Rum Slushi](https://www.sharkninja.com/pineapple-rum-slushi/REC15542.html)
 - [Hard Cider Slushi](https://www.sharkninja.com/hard-cider-slushi/REC14847.html)
@@ -14,14 +15,18 @@ tags: ["recipes", "cooking"]
 - [Chocolate Milkshake Slushi](https://www.sharkninja.com/easy-chocolate-milkshake-slushi/REC14564.html)
 
 ## Sauces
+
 - [Spicy Mayo](https://gimmedelicious.com/spicy-mayo/)
 
 ## Soups
+
 - [Tomato Cream Soup](https://www.jadlonomia.com/przepisy/pomidorowa-z-pieczonych-pomidorow-i-czosnku/)
 
 ## Desserts
+
 - [Tiramisu](https://przepisytradycyjne.pl/idealne-tiramisu-przepis/)
 - [Banan Pies](https://poprostupycha.com.pl/przepis/bananowe-placuszki/)
 
 ## Other
+
 - [Jednogarnkowy kremowy makaron z suszonymi pomidorami](https://healthyomnomnom.pl/jednogarnkowy-kremowy-makaron-z-suszonymi-pomidorami/)

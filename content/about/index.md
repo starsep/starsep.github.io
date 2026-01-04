@@ -1,4 +1,4 @@
 ---
-title: "About me"
-layout: "about"
+layout: about
+title: About me
 ---

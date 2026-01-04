@@ -1,20 +1,22 @@
 ---
-title: Collection of links related to Technology
-slug: tech
-toc: false
 date: 2025-08-15T17:50:05+02:00
-tags: ["Technology"]
+slug: tech
+tags: [Technology]
+title: Collection of links related to Technology
+toc: false
 ---
 
 # Collection of links related to Technology
 
 ## Programming
+
 - [Programming Idioms](https://programming-idioms.org/)
 - [Developer Roadmaps](https://roadmap.sh/)
 - [How to Join a Team and Learn a Codebase](https://www.samueltaylor.org/articles/how-to-learn-a-codebase.html)
 - [Performance Engineering of Software Systems](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/pages/lecture-slides/)
 
 ## Python
+
 - [Fil](https://pythonspeed.com/fil/) - Easy Python memory profiling for data scientists and scientists with Fil
 - [pytudes](https://github.com/norvig/pytudes) - Python programs, usually short, of considerable difficulty, to perfect particular skills
 - [CI/CD friendly Dockerfile for uv based Python projects](https://code.mendhak.com/ci-cd-dockerfile-for-python-uv-ruff-pytest/)
@@ -32,9 +34,11 @@ tags: ["Technology"]
 - [Icecream](https://github.com/gruns/icecream) - 🍦 Never use print() to debug again
 
 ## Docker/containers
+
 - [`COPY --chmod` reduced the size of my container image by 35%](https://blog.vamc19.dev/posts/dockerfile-copy-chmod/)
 
 ## Kotlin
+
 - [Kotlin is Awesome!](https://kotlin.link/)
 - [progressbar-ktx](https://github.com/reimersoftware/progressbar-ktx/) - like tqdm for Python
 - [Moko Network](https://github.com/icerockdev/moko-network) - OpenAPI client code generation for mobile (android & ios) Kotlin Multiplatform developmen
@@ -46,6 +50,7 @@ tags: ["Technology"]
 - [GradleKotlinConverter](https://github.com/bernaferrari/GradleKotlinConverter) - Convert from Groovy to Kotlin DSL for Gradle, focused on Android
 
 ## Reverse Engineering
+
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) - A Java 8+ Jar & Android APK Reverse Engineering Suite
 - [apk.sh](https://github.com/ax/apk.sh)
 - [APK Deguard](http://apk-deguard.com/)
@@ -55,18 +60,21 @@ tags: ["Technology"]
 - [Sixo Online APK Analyzer](https://sisik.eu/apk-tool)
 
 ## Java
+
 - [Java Design Patterns](https://java-design-patterns.com/)
 
 ## Web
+
 - [Can I use?](https://caniuse.com/)
-- [openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) -  Browser extension that generates API specs for any app or website
+- [openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools) - Browser extension that generates API specs for any app or website
 - [autocomplete](https://github.com/algolia/autocomplete) - Fast and full-featured autocomplete library
 
-
 ## JavaScript
+
 - [Modern JavaScript Tutorial](https://javascript.info/)
 
 ## No need for JavaScript
+
 - [You don't need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript) - CSS is powerful, you can do a lot of things without JS
 - [You don't need JS](https://lexoral.com/blog/you-dont-need-js/)
 - [You don't need JavaScript for that](https://www.htmhell.dev/adventcalendar/2023/2/)
@@ -74,6 +82,7 @@ tags: ["Technology"]
 - [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 
 ## CSS
+
 - [CSS Tips](https://markodenic.com/css-tips/)
 - [Beautiful Gradients](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
 - [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
@@ -96,10 +105,12 @@ tags: ["Technology"]
 - [Learn CSS](https://web.dev/learn/css/)
 
 ## HTML
+
 - [The right tag for the job: why you should use semantic HTML](https://localghost.dev/blog/the-right-tag-for-the-job-why-you-should-use-semantic-html/)
 - [HTML Tips](https://markodenic.com/html-tips/)
 
 ## Android
+
 - [Universal Android Debloater GUI](https://github.com/0x192/universal-android-debloater)
 - [Material Components](https://material.io/components?platform=android)
 - [Android FOSS](https://github.com/offa/android-foss)
@@ -114,17 +125,20 @@ tags: ["Technology"]
 - [Expo APK/AAB Building Tutorial (No EAS Required) ](https://gist.github.com/chirag-chhajed/d0bc667325544c3e7cccc04e03b5d1dc)
 
 ## Jetpack Compose
+
 - [jetpack-compose-awesome](https://github.com/jetpack-compose/jetpack-compose-awesome)
 - [Compose Multiplatform Wizard](https://terrakok.github.io/Compose-Multiplatform-Wizard/)
 - [jetpackcompose.app](https://www.jetpackcompose.app/)
 
 ## Rust
+
 - [Rust Cheat Sheet](https://cheats.rs/)
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Rust Exercises](https://rust-exercises.com/)
 - [Blessed.rs](https://blessed.rs/crates) - An unofficial guide to the Rust ecosystem
 
 ## Databases
+
 - [Azimutt](https://github.com/azimuttapp/azimutt) - Explore, document and optimize any database
 - [Hosting SQLite databases on Github Pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [sqlite-zstd](https://github.com/phiresky/sqlite-zstd)
@@ -139,26 +153,32 @@ tags: ["Technology"]
 - [PostgreSQL Full-Text Search: Fast When Done Right (Debunking the Slow Myth)](https://blog.vectorchord.ai/postgresql-full-text-search-fast-when-done-right-debunking-the-slow-myth)
 
 ## CLIs (not yet used by me)
-- [fselect](https://github.com/jhspetersson/fselect) -  Find files with SQL-like queries
+
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 
 ## Markdown
+
 - [presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool. Looks cool but I have never used it
 - [An option to highlight a "Note" and "Warning" using blockquote in Github](https://github.com/community/community/discussions/16925)
 
 ## Diagrams/Visualization
+
 - [Asciiflow](https://asciiflow.com/) - web app for ASCII diagrams
 - [The Data Visualisation Catalogue ](https://datavizcatalogue.com/index.html)
 - [Periodic Table of Visualisation Methods](https://www.visual-literacy.org/periodic_table/periodic_table.html)
 - [Text to Diagram Tools Comparison](https://text-to-diagram.com) - Compare D2, Mermaid, PlantUML & Graphviz side-by-side
 
 ## Design
+
 - [OnLook](https://www.onlook.com/) - "Cursor for Designers" - AI design tool
 - [You don't need a modal window](https://youdontneedamodalwindow.dev)
 
 ## 3D Rendering
+
 - [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) - how OpenGL works: software rendering in 500 lines of code
 
 ## Shell
+
 - [BashPitfalls](https://mywiki.wooledge.org/BashPitfalls)
 - [timeout in Bash scripts](https://heitorpb.github.io/bla/timeout/)
 - [Shell Field Guide](https://raimonster.com/scripting-field-guide/)
@@ -171,27 +191,33 @@ tags: ["Technology"]
 - [5 types of ZSH aliases](https://www.thorsten-hans.com/5-types-of-zsh-aliases)
 
 ## Linux
+
 - [Networking Cheat Sheet](https://code.mendhak.com/networking-cheat-sheet/)
 - [Make CapsLock useful](https://code.mendhak.com/make-caps-lock-useful/)
 - [Linux oneliners](https://linuxcommandlibrary.com/basic/oneliners)
 - [Linux Crisis Tools](https://www.brendangregg.com/blog/2024-03-24/linux-crisis-tools.html)
 
 ## Kobo (ebook reader)
+
 - [Kobo customizations](https://code.mendhak.com/kobo-customizations/)
 - [Send to Kobo](https://send.djazz.se/)
 
 ## Alternative Shells
+
 - [Xonsh](https://github.com/xonsh/xonsh) - Python-based shell
 - [murex](https://github.com/lmorg/murex)
 - [crush](https://github.com/liljencrantz/crush)
 
 ## RSS
+
 - [About Feeds](https://aboutfeeds.com/)
 
 ## Encryption
+
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability
 
 ## Nix
+
 - [NixOS package search](https://search.nixos.org/packages)
 - [Nix Package Versions](https://lazamar.co.uk/nix-versions/)
 - [Home Manager Options](https://home-manager-options.extranix.com/)
@@ -201,28 +227,34 @@ tags: ["Technology"]
 - [nix.dev](https://nix.dev/)
 
 ## Writing
+
 - [Why writing small docs is a game changer](https://bufferbuffer.com/why-writing-small-docs-is-a-game-changer/)
 - [Blogging Myths](https://jvns.ca/blog/2023/06/05/some-blogging-myths/)
 - [Tactics for Writing in the Public](https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/)
 
 ## Fun
+
 - [Keyboard Simulator](https://keyboardsimulator.xyz/) - Design and test virtual keyboards
 - [Everyone has JavaScript, right?](https://www.kryogenix.org/code/browser/everyonehasjs.html)
 
 ## Blogs
+
 - [Gwern](https://gwern.net/)
 
 ## Monitoring
+
 - [Healthchecks](https://github.com/healthchecks/healthchecks)
 - [Pyroscope](https://github.com/grafana/pyroscope) - Grafana/Continuous Profiling Platform
 
 ## NAS
+
 - [Perfect Media Server](https://perfectmediaserver.com/)
 - [Mariushosting](https://mariushosting.com/)
 - [Self-Host & Tech Independence](https://www.ssp.sh/blog/self-host-self-independence/)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## References/Cheatsheets
+
 - [ASCII Control Characters](https://jvns.ca/ascii)
 - [HTML Button Cheatsheet](https://www.buttoncheatsheet.com/)
 - [ES2015+ Cheatcheet](https://devhints.io/es6)
@@ -235,37 +267,45 @@ tags: ["Technology"]
 - [FFmpeg Cheat Sheet](https://gist.github.com/steven2358/ba153c642fe2bb1e47485962df07c730)
 
 ## CLI
+
 - [fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
 
 ## Security
+
 - [U2F FIDO with SSH](https://www.stavros.io/posts/u2f-fido2-with-ssh/)
 - [The Copenhagen Book](https://thecopenhagenbook.com/) - general guideline on implementing auth in web applications
 - [End of Life](https://endoflife.date/)
 - [Don't Change password](https://tidbits.com/2022/03/03/never-change-your-password/)
 
 ## Open Source
+
 - [The Three F's of Open Source Development](https://boyter.org/posts/the-three-f-s-of-open-source/)
 - [Choose an open source license](https://choosealicense.com/)
 - [Open Source Guide](https://opensource.guide/)
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 
 ## Game Development
+
 - [Defold](https://defold.com/)
 - [Game UI Database](https://www.gameuidatabase.com/index.php)
 
 ## LibreOffice
+
 - [How to disable automatic capitalization in LibreOffice Calc?](https://superuser.com/questions/1438543/how-to-disable-automatic-capitalization-in-libreoffice-calc)
 
 ## uBlock
+
 - [uBlock - hide any element that contains text with a given word?](https://superuser.com/questions/1285891/ublock-hide-any-element-that-contains-text-with-a-given-word)
 
 ## Regex
+
 - [RegexOne](https://regexone.com/)
 - [regex101](https://regex101.com/)
 - [antimirov](http://phylactery.org/antimirov/) - algebraic manipulation of regular expressions
 
 ## Ideas
+
 - [Best programmers](https://endler.dev/2025/best-programmers/)
 - [How to Make Your Code Reviewer Fall in Love with You](https://mtlynch.io/code-review-love/)
 - [Don't Guess My Language](https://vitonsky.net/blog/2025/05/17/language-detection/)
@@ -291,16 +331,20 @@ tags: ["Technology"]
 - [Settings are not a design failure](https://linear.app/now/settings-are-not-a-design-failure)
 
 ## Hosting
+
 - [How to setup a practically free CDN using Backblaze B2 and Cloudflare](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
 
 ## Programming libraries
+
 - [Sqids](https://sqids.org/) - generate short unique identifiers from numbers. IDs are URL-safe, can encode several numbers, and do not contain common profanity words
 
 ## Graphics
+
 - [SVGViewer](https://www.svgviewer.dev/)
 - [VTracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 
 ## Compression
+
 - [The Hitchhiker’s Guide to Compression](https://go-compression.github.io/)
 - [Squoosh](https://squoosh.app/) - image compression web app
 - [svgo](https://github.com/svg/svgo)
@@ -310,32 +354,40 @@ tags: ["Technology"]
 - [OpenZL](https://openzl.org/) - specialized compressor optimized for specific format
 
 ## Hashing
+
 - [xxhash](https://github.com/Cyan4973/xxHash) - Extremely fast non-cryptographic hash algorithm
 
 ## Git
+
 - [Oh Shit, Git](https://ohshitgit.com/)
 - [Git Scraping](https://simonwillison.net/2020/Oct/9/git-scraping/)
 
 ## QR Code
+
 - [QR Image](https://hughchen.github.io/qr_image/)
 - [Creating QR code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 
 ## Privacy
+
 - [Simple Opt Out](https://simpleoptout.com/)
 - [Privacy Tools](https://www.privacytools.io/)
 
 ## Networking/Internet
+
 - [Cloudflare Radar](https://radar.cloudflare.com/) - traffic trends
 - [DNS Toys](https://www.dns.toys/)
 
 ## Google Alternatives
+
 - [No More Google](https://nomoregoogle.com/)
 
 ## Rules
+
 - [Poe's Law](https://en.wikipedia.org/wiki/Poe%27s_law) - `without a clear indicator of the author's intent, any parodic or sarcastic expression of extreme views can be mistaken by some readers for a sincere expression of those views`
 - [Goodhart's Law](https://en.wikipedia.org/wiki/Goodhart%27s_law) - `When a measure becomes a target, it ceases to be a good measure`
 
 ## Other
+
 - [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [Programing Playgrounds](https://jvns.ca/blog/2023/04/17/a-list-of-programming-playgrounds/)
 - [Emoji under the hood](https://tonsky.me/blog/emoji/)
