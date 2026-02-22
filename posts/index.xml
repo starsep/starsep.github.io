@@ -153,7 +153,7 @@ There is a MicrosoftStreetside plugin for JOSM but it doesn&rsquo;t work for me 
 <li>Edit =&gt; Preferences (F12) =&gt; Utilsplugin2 settings</li>
 <li>Add new row with name <code>Bing StreetSide</code> and url <code>https://www.bing.com/maps?cp={#lat}%7E{#lon}&amp;lvl=19.0&amp;style=x</code>.<br>
 In the case of issues one can edit customurl.txt. For Linux/Flatpak it&rsquo;s located at <code>~/.var/app/org.openstreetmap.josm/data/JOSM/plugins/utilsplugin2/customurl.txt</code>.</li>
-<li>Choose  <code>Bing StreetSide</code> in Data =&gt; Select custom URL</li>
+<li>Choose <code>Bing StreetSide</code> in Data =&gt; Select custom URL</li>
 <li>Now you can see Bing StreetSide via Data =&gt; Open custom URL (Shift+H)</li>
 </ol>
 <p>If StreetSide is available at given location it will be displayed. Otherwise map is shown with streets colored blue where it&rsquo;s available.</p>]]></description></item></channel></rss>

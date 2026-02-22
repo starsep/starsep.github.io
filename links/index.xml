@@ -30,8 +30,7 @@
 &lt;/ul>
 &lt;h2 id="japan">Japan&lt;/h2>
 &lt;ul>
-&lt;li>[Japan Transit Planner][https://world.jorudan.co.jp/mln/en/]
-Transport&lt;/li>
+&lt;li>&lt;a href="https://world.jorudan.co.jp/mln/en/" target="_blank" rel="noopener noreferrer">Japan Transit Planner&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="trainssubways">Trains/Subways&lt;/h2>
 &lt;ul>
@@ -484,7 +483,7 @@ Transport&lt;/li>
 &lt;li>&lt;a href="https://overpass-turbo.eu/" target="_blank" rel="noopener noreferrer">Overpass Turbo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/ad-freiburg/pfaedle" target="_blank" rel="noopener noreferrer">pfaedle&lt;/a> - Precise map-matching for public transit feeds. Generates high-quality GTFS shapes from OSM data&lt;/li>
 &lt;li>&lt;a href="https://osm.mapki.com/history/" target="_blank" rel="noopener noreferrer">OSM Deep History&lt;/a>&lt;/li>
-&lt;li>[OSM Queries](&lt;a href="https://osm-queries.ldodds.com" target="_blank" rel="noopener noreferrer">https://osm-queries.ldodds.com&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://osm-queries.ldodds.com" target="_blank" rel="noopener noreferrer">OSM Queries&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="tools">Tools&lt;/h2>
 &lt;ul>
@@ -573,7 +572,7 @@ Transport&lt;/li>
 &lt;/ul>
 &lt;h2 id="typography">Typography&lt;/h2>
 &lt;ul>
-&lt;li>[Practical Typography]](&lt;a href="https://practicaltypography.com/" target="_blank" rel="noopener noreferrer">https://practicaltypography.com/&lt;/a>)&lt;/li>
+&lt;li>&lt;a href="https://practicaltypography.com/" target="_blank" rel="noopener noreferrer">Practical Typography&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="photography">Photography&lt;/h2>
 &lt;ul>
