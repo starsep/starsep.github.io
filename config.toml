@@ -38,7 +38,7 @@ publishDir = "generated"
         pre = ""
         post = ""
         name = "Resume (CV)"
-        url = "/cv/cv.pdf"
+        url = "https://cv.starsep.com/cv.pdf"
         title = ""
         weight = 3
       [[languages.en.menu.main]]
@@ -83,7 +83,7 @@ publishDir = "generated"
         pre = ""
         post = ""
         name = "CV"
-        url = "../cv/cv.pdf"
+        url = "https://cv.starsep.com/cv.pdf"
         title = ""
         weight = 3
       [[languages.pl.menu.main]]
