@@ -1,0 +1,43 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: act-latest
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: https://github.com/peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.147.3'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Upload files to storage
+        uses: https://github.com/SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          protocol: ftp
+          port: 21
+          server: storage.bunnycdn.com
+          server-dir: /
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./generated/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .forgejo/**
+            CNAME
+            LICENSE
